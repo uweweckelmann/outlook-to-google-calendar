@@ -28,8 +28,8 @@ def main():
         if line.startswith("BEGIN:VTIMEZONE") or line.startswith("END:VTIMEZONE"):
             continue
         if "TZID:Central Europe Standard Time" in line or "TZID:W. Europe Standard Time" in line:
-            line = line.replace("TZID:Central Europe Standard Time", "TZID=Europe/Berlin")
-            line = line.replace("TZID:W. Europe Standard Time", "TZID=Europe/Berlin")
+            line = line.replace("TZID=Central Europe Standard Time", "TZID=Europe/Berlin")
+            line = line.replace("TZID=W. Europe Standard Time", "TZID=Europe/Berlin")
 
         # ✅ UTC -> Europe/Berlin konvertieren
         if re.match(r"(DTSTART|DTEND|RECURRENCE-ID):\d{8}T\d{6}Z", line):
