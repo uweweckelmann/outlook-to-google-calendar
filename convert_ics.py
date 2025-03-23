@@ -13,25 +13,47 @@ BERLIN_TZ = pytz.timezone("Europe/Berlin")
 response = requests.get(URL)
 ics = response.text
 
-# VTIMEZONE-Block vollständig entfernen
+# Entferne VTIMEZONE-Blöcke
 ics = re.sub(r"BEGIN:VTIMEZONE.*?END:VTIMEZONE\r?\n", "", ics, flags=re.DOTALL)
 
-# Microsoft-TZIDs ersetzen
+# Ersetze Microsoft-Zeitzonen
 ics = ics.replace("TZID=W. Europe Standard Time", "TZID=Europe/Berlin")
 ics = ics.replace("TZID:W. Europe Standard Time", "TZID=Europe/Berlin")
 ics = ics.replace("TZID=Central Europe Standard Time", "TZID=Europe/Berlin")
 ics = ics.replace("TZID:Central Europe Standard Time", "TZID=Europe/Berlin")
 
-# UTC-Zeiten umwandeln in TZID=Europe/Berlin
-def convert_utc_line(match):
-    key = match.group(1)
-    time_str = match.group(2)
-    utc_dt = datetime.strptime(time_str, "%Y%m%dT%H%M%SZ").replace(tzinfo=pytz.utc)
-    berlin_dt = utc_dt.astimezone(BERLIN_TZ)
-    return f"{key};TZID=Europe/Berlin:{berlin_dt.strftime('%Y%m%dT%H%M%S')}"
+# UTC-Zeitstempel konvertieren
+def convert_utc(match):
+    field = match.group(1)
+    dt = datetime.strptime(match.group(2), "%Y%m%dT%H%M%SZ")
+    dt += timedelta(hours=1)
+    return f"{field};TZID=Europe/Berlin:{dt.strftime('%Y%m%dT%H%M%S')}"
 
-ics = re.sub(r"(DTSTART|DTEND|RECURRENCE-ID):(\d{8}T\d{6})Z", convert_utc_line, ics)
+ics = re.sub(r"(DTSTART|DTEND|RECURRENCE-ID):(\d{8}T\d{6})Z", convert_utc, ics)
 
-# Neue Datei schreiben
-with open("reachcalendar_converted.ics", "w", encoding="utf-8") as f:
+# Google-kompatiblen VTIMEZONE-Block einfügen
+vtimezone_block = """
+BEGIN:VTIMEZONE
+TZID:Europe/Berlin
+X-LIC-LOCATION:Europe/Berlin
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:GMT+2
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:GMT+1
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+"""
+ics = ics.replace("BEGIN:VCALENDAR", "BEGIN:VCALENDAR\n" + vtimezone_block.strip())
+
+# Datei speichern
+with open(converted_path, "w", encoding="utf-8") as f:
     f.write(ics)
