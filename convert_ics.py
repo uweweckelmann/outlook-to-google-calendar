@@ -55,5 +55,5 @@ END:VTIMEZONE
 ics = ics.replace("BEGIN:VCALENDAR", "BEGIN:VCALENDAR\n" + vtimezone_block.strip())
 
 # Datei speichern
-with open(converted_path, "w", encoding="utf-8") as f:
+with open("reachcalendar_converted.ics", "w", encoding="utf-8") as f:
     f.write(ics)
