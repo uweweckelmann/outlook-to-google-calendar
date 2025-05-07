@@ -32,7 +32,7 @@ DTSTART;TZID=Europe/Berlin:20250407T180000
 DTEND;TZID=Europe/Berlin:20250407T200000
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20250507T113314Z
+DTSTAMP:20250507T121712Z
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 SEQUENCE:0
@@ -70,7 +70,7 @@ DTSTART;TZID=Europe/Berlin:20250409T100000
 DTEND;TZID=Europe/Berlin:20250409T110000
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20250507T113314Z
+DTSTAMP:20250507T121712Z
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 SEQUENCE:0
@@ -116,11 +116,121 @@ DTSTART;TZID=Europe/Berlin:20250415T140000
 DTEND;TZID=Europe/Berlin:20250415T153000
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20250507T113314Z
+DTSTAMP:20250507T121712Z
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 SEQUENCE:0
 LOCATION:Digital
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:\n________________________________\nFrom: Gashi\, Dorian <gashi
+ @dosb.de>\nSent: Wednesday\, May 7\, 2025 10:07:37 AM\nTo: SV Westfalen | 
+ Uwe Weckelmann <uwe.weckelmann@svwestfalen.de>\nSubject: AW: Kontaktaufnah
+ me zur Vorstellung der Swim Race Days – Nachhaltiges Schwimmsportevent i
+ n Dortmund\n\n\nHallo Uwe\,\n\ndas freut mich zu hören. Wir können uns g
+ erne über die aufbereiteten Themen austauschen. Wie sieht es am Freitag a
+ b 11 Uhr bei dir aus?\n\nBeste Grüße\nDorian\n\n\n\nVon: SV Westfalen | 
+ Uwe Weckelmann <uwe.weckelmann@svwestfalen.de>\nGesendet: Mittwoch\, 7. Ma
+ i 2025 10:41\nAn: Gashi\, Dorian <gashi@dosb.de>\nBetreff: AW: Kontaktaufn
+ ahme zur Vorstellung der Swim Race Days – Nachhaltiges Schwimmsportevent
+  in Dortmund\n\n\n\nHallo Dorian\,\n\nvielen Dank für Eure Rückmeldung u
+ nd das Interesse an den Swim Race Days als nachhaltige Schwimmsportveranst
+ altung.\n\nDie von dir genannten Seiten und das neue Webportal kenne ich b
+ ereits – wir sind aktuell dabei\, uns intensiv damit auseinanderzusetzen
+ . Die Einblicke in die bisherigen Good-Practice-Beispiele sind sehr hilfre
+ ich und geben uns eine gute Orientierung.\n\nDas Good Practice Formular m
+ öchten wir bereits in den nächsten Tagen einreichen. Wir bereiten derzei
+ t verschiedene Maßnahmen auf\, die für eine Einreichung infrage kommen. 
+ Welches Thema letztlich das stärkste Signal für eine Veröffentlichung s
+ etzt\, würden wir gerne in einem persönlichen Gespräch mit dir bzw. euc
+ h abstimmen.\n\nIch freue mich sehr auf den Austausch und schlage vor\, da
+ ss wir dafür in den kommenden Tagen einen kurzen digitalen Termin vereinb
+ aren. Gib mir gerne Bescheid\, wann es bei dir am besten passt.\n\nNochmal
+ s vielen Dank für Eure Unterstützung – ich freue mich auf das Gespräc
+ h!\n\nBeste Grüße\n\nGut Nass!\n\n\n\nUwe Weckelmann\n\nWestfale aus Lei
+ denschaft\n\nMobil: 0177-4250837\n\nTeams: Chat with me<https://teams.micr
+ osoft.com/l/chat/0/0?users=uwe.weckelmann@svwestfalen.de>\n\nLeiter Kommun
+ ikation\n\n\n\n\n\n________________________________\n\nVon: Gashi\, Dorian
+  <gashi@dosb.de>\nGesendet: Montag\, 5. Mai 2025 16:36\nAn: SV Westfalen |
+  Uwe Weckelmann <uwe.weckelmann@svwestfalen.de>\nBetreff: Kontaktaufnahme 
+ zur Vorstellung der Swim Race Days – Nachhaltiges Schwimmsportevent in D
+ ortmund\n\n\n\nSehr geehrter Herr Weckelmann\,\n\nmein Name ist Dorian Gas
+ hi und ich bin als studentische Aushilfe im Projekt „Nachhaltige Sport[g
+ roß]veranstaltungen“ beim DOSB tätig.\n\nIn Absprache mit meinem Team 
+ kam der Hinweis\, dass ich den Kontakt zu Ihnen aufnehmen soll. In Ihrer a
+ m 21.11.2024 verfassten E-Mail haben Sie sich zur Vorstellung der Swim Rac
+ e Days – Nachhaltiges Schwimmsportevent in Dortmund und Ihre Vision/konk
+ rete Projekte geäußert. Dem konnte mein Team aus Kapazitätsgründen noc
+ h nicht nachgehen. Deshalb würde ich mich freuen\, wenn wir uns darüber 
+ in einem gemeinsamen Termin austauschen könnten.\n\nGerne möchte Ich Ihn
+ en in diesem Kontext unser Ende Januar veröffentlichtes Webportal zu Nach
+ haltigen Sport[groß]veranstaltungen (Home - NSGV<https://www.nachhaltige-
+ sportveranstaltungen.de/>) mitgeben. Dort können Sie unter Anderem unter 
+ den bisher gelisteten Good Practices (Good practice - NSGV<https://www.nac
+ hhaltige-sportveranstaltungen.de/massnahmen/good-practice>) Einblicke dar
+ über erhalten\, in welcher Form wir die Nachhaltigkeitsmaßnahmen der Swi
+ m Race Days einbringen möchten bzw. können. Klicken Sie sich gerne durch
+  die Good Practices\, wenn Sie sich einen Überblick darüber verschaffen 
+ wollen. Hier finden sie außerdem das „Formular zur Einreichung eines Go
+ od Practice Beispiels“\, was ich Ihnen als Überblickscharakter anhänge
+ n werde.\n\nVielen Dank für Ihre Zeit und Ihre Arbeit im Kontext der nach
+ haltigen Entwicklung von Sportveranstaltungen.\n\nEinen guten Start in die
+  Woche und bis dahin!\n\nBeste Grüße\nDorian\n\n\n\ni.A. Dorian Gashi\nS
+ tudentische Aushilfe Sportstätten und Umwelt\n\n[cid:image001.png@01DBBF4
+ 7.959BCAC0]\n\nDeutscher Olympischer Sportbund e. V.\n\nOtto-Fleck-Schneis
+ e 12\n60528 Frankfurt am Main\n\n\n\ngashi@dosb.de<mailto:gashi@dosb.de> 
+ • www.dosb.de<http://www.dosb.de/>\n\nDer Deutsche Olympische Sportbund 
+ e.V. ist im Vereinsregister des Amtsgerichts Frankfurt am Main unter der N
+ ummer VR 13581 eingetragen. Vertreten wird er durch zwei Vorstandsmitglied
+ er gemeinsam\, zu denen der*die Vorstandsvorsitzende (n.n.) oder Thomas Ar
+ nold (Vorstandsmitglied Finanzen) gehören muss. Wir verarbeiten personenb
+ ezogene Daten gemäß der Datenschutzgrundverordnung. Unsere Hinweise zum 
+ Umgang mit Ihren personenbezogenen Daten finden Sie unter: https://www.dos
+ b.de/ueber-uns/datenschutz/.\n\n\n\n[cid:image002.png@01DBBF47.959BCAC0]\n
+ \n\n\n\n\n\n\n\n\n[Das Bild wurde vom Absender entfernt.]SV Westfalen Dort
+ mund von 1896 e.V.<https://svwestfalen.de/>\nFolgt uns auf Facebook<https:
+ //www.facebook.com/SVWestfalen>\, linkedin<https://www.linkedin.com/compan
+ y/sv-westfalen-dortmund-von-1896> und Instagramm<https://www.instagram.com
+ /svwestfalen/>\nAmtsgericht Dortmund: VR 1556\nVorstand: Ümit Acar\, Seba
+ stian Greiffer\, Marianne Kleff\n\nWir sind Mitglied im CSR-Verein "Bewuss
+ t-Wie e.V."\nLink zur Homepage<https://bewusst-wie-ev.de/>\nLink zur Info-
+ Broschüre<https://bewusst-wie-ev.de/wp-content/uploads/Bewusstwie-Broschu
+ %CC%88re-21x21-20211222-RZ-Web-einzel.pdf>\n\n____________________________
+ ____________________________________________________\nMicrosoft Teams Ben
+ ötigen Sie Hilfe?<https://aka.ms/JoinTeamsMeeting?omkt=de-DE>\nJetzt an d
+ er Besprechung teilnehmen<https://teams.microsoft.com/l/meetup-join/19%3am
+ eeting_YTQ2ZTUyYTItNTY5ZS00YjQ1LTgxYTAtNzU2Nzg4NWQxZDNi%40thread.v2/0?cont
+ ext=%7b%22Tid%22%3a%228df41939-6fb5-4ca6-8cc0-282bca7a6513%22%2c%22Oid%22%
+ 3a%22c32fe968-a918-4482-a59d-01d9187bcd5f%22%7d>\nBesprechungs-ID: 324 057
+  083 800 6\nKennung: 9Y8Sh9N2\n________________________________\nFür Orga
+ nisatoren: Besprechungsoptionen<https://teams.microsoft.com/meetingOptions
+ /?organizerId=c32fe968-a918-4482-a59d-01d9187bcd5f&tenantId=8df41939-6fb5-
+ 4ca6-8cc0-282bca7a6513&threadId=19_meeting_YTQ2ZTUyYTItNTY5ZS00YjQ1LTgxYTA
+ tNzU2Nzg4NWQxZDNi@thread.v2&messageId=0&language=de-DE>\n_________________
+ _______________________________________________________________\n
+UID:040000008200E00074C5B7101A82E008000000002997060049BFDB01000000000000000
+ 01000000026E5E71AF5BD50488901C6EDE6A16C60
+SUMMARY:RE: Kontaktaufnahme zur Vorstellung der Swim Race Days – Nachhalt
+ iges Schwimmsportevent in Dortmund
+DTSTART;TZID=Europe/Berlin:20250509T110000
+DTEND;TZID=Europe/Berlin:20250509T120000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20250507T121712Z
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+SEQUENCE:0
+LOCATION:Microsoft Teams-Besprechung
 X-MICROSOFT-CDO-APPT-SEQUENCE:0
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
@@ -141,7 +251,7 @@ DTSTART;TZID=Europe/Berlin:20250514T170000
 DTEND;TZID=Europe/Berlin:20250514T190000
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20250507T113314Z
+DTSTAMP:20250507T121712Z
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 SEQUENCE:0
@@ -182,7 +292,7 @@ DTSTART;TZID=Europe/Berlin:20250623T061100
 DTEND;TZID=Europe/Berlin:20250623T101800
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20250507T113314Z
+DTSTAMP:20250507T121712Z
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 SEQUENCE:0
@@ -220,11 +330,49 @@ DTSTART;TZID=Europe/Berlin:20250623T071100
 DTEND;TZID=Europe/Berlin:20250623T101800
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20250507T113314Z
+DTSTAMP:20250507T121712Z
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 SEQUENCE:0
 LOCATION:Hamm(Westf)Hbf
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Berlin Hbf ➞ Hamm(Westf)Hbf\nDatum: 25.06.2025\nKlasse: 2. Kl
+ asse\n\nBerlin Hbf ➞ Hamm(Westf)Hbf\n[Reservierung: 1 Sitzplatz\, Wg. 24
+ \, Pl. 38]\nICE 842\n● ab 19:48 Berlin Hbf ▷ Gleis 14\n○ an 22:50 Ha
+ mm(Westf)Hbf\n\nDauer: 3h 2min\n————\nReisen Sie entspannt und ohn
+ e Ticketkontrolle. Nutzen Sie den Komfort Check-in sobald Sie Ihren Sitzpl
+ atz erreicht haben. Einfach und schnell unter https://www.bahn.de/buchung/
+ jetzt-einchecken<https://www.bahn.de/buchung/jetzt-einchecken?dbkanal_009=
+ KCI-Kalenderexport&token=AQICAHhF7aiZD7OtZTiHPG7A72aYDTOgOdYT-gt2VEG8NsJYY
+ gGgeqRPgcgF1X_smlX5oVuFAAAA7DCB6QYJKoZIhvcNAQcGoIHbMIHYAgEAMIHSBgkqhkiG9w0
+ BBwEwHgYJYIZIAWUDBAEuMBEEDNfnGj_uohF7JTVTmAIBEICBpKDdquLn2L4nSB_ig1tI8lDkg
+ 6oJx1wlgx0x08hEPnN0n_yxJUPyH6HMXL1b6G6zwtESH5gtPEtnAklhWAeIXahV97fk1gLPq97
+ VCpJM5Py30Vs6FFfeFCFMJS6KvnTD7RYBLqALf_yoB1IDH8-VigmjOD4udZRwM3s0Mh8wwC21l
+ wurmvFh3ksmPpcACzY2V3hkVNMXIZFHzDzMvz3H4rdeKof-&lang=de>\n————\nAl
+ le Angaben ohne Gewähr. Fahrplanänderungen vorbehalten. Bitte prüfen Si
+ e kurz vor der Reise den aktuellen Fahrplan unter: www.bahn.de\n
+UID:ea9b21d5-0f4d-40ff-a809-83b7407909c6@bahn.de
+SUMMARY:Berlin Hbf ➞ Hamm(Westf)Hbf
+DTSTART;TZID=Europe/Berlin:20250625T194800
+DTEND;TZID=Europe/Berlin:20250625T225000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20250507T121712Z
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+SEQUENCE:0
+LOCATION:Berlin Hbf
 X-MICROSOFT-CDO-APPT-SEQUENCE:0
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
@@ -260,45 +408,7 @@ DTSTART;TZID=Europe/Berlin:20250625T194800
 DTEND;TZID=Europe/Berlin:20250625T234800
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20250507T113314Z
-TRANSP:OPAQUE
-STATUS:CONFIRMED
-SEQUENCE:0
-LOCATION:Berlin Hbf
-X-MICROSOFT-CDO-APPT-SEQUENCE:0
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
-X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
-X-MICROSOFT-CDO-IMPORTANCE:1
-X-MICROSOFT-CDO-INSTTYPE:0
-X-MICROSOFT-DONOTFORWARDMEETING:FALSE
-X-MICROSOFT-DISALLOW-COUNTER:FALSE
-X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
-X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Berlin Hbf ➞ Hamm(Westf)Hbf\nDatum: 25.06.2025\nKlasse: 2. Kl
- asse\n\nBerlin Hbf ➞ Hamm(Westf)Hbf\n[Reservierung: 1 Sitzplatz\, Wg. 24
- \, Pl. 38]\nICE 842\n● ab 19:48 Berlin Hbf ▷ Gleis 14\n○ an 22:50 Ha
- mm(Westf)Hbf\n\nDauer: 3h 2min\n————\nReisen Sie entspannt und ohn
- e Ticketkontrolle. Nutzen Sie den Komfort Check-in sobald Sie Ihren Sitzpl
- atz erreicht haben. Einfach und schnell unter https://www.bahn.de/buchung/
- jetzt-einchecken<https://www.bahn.de/buchung/jetzt-einchecken?dbkanal_009=
- KCI-Kalenderexport&token=AQICAHhF7aiZD7OtZTiHPG7A72aYDTOgOdYT-gt2VEG8NsJYY
- gGgeqRPgcgF1X_smlX5oVuFAAAA7DCB6QYJKoZIhvcNAQcGoIHbMIHYAgEAMIHSBgkqhkiG9w0
- BBwEwHgYJYIZIAWUDBAEuMBEEDNfnGj_uohF7JTVTmAIBEICBpKDdquLn2L4nSB_ig1tI8lDkg
- 6oJx1wlgx0x08hEPnN0n_yxJUPyH6HMXL1b6G6zwtESH5gtPEtnAklhWAeIXahV97fk1gLPq97
- VCpJM5Py30Vs6FFfeFCFMJS6KvnTD7RYBLqALf_yoB1IDH8-VigmjOD4udZRwM3s0Mh8wwC21l
- wurmvFh3ksmPpcACzY2V3hkVNMXIZFHzDzMvz3H4rdeKof-&lang=de>\n————\nAl
- le Angaben ohne Gewähr. Fahrplanänderungen vorbehalten. Bitte prüfen Si
- e kurz vor der Reise den aktuellen Fahrplan unter: www.bahn.de\n
-UID:ea9b21d5-0f4d-40ff-a809-83b7407909c6@bahn.de
-SUMMARY:Berlin Hbf ➞ Hamm(Westf)Hbf
-DTSTART;TZID=Europe/Berlin:20250625T194800
-DTEND;TZID=Europe/Berlin:20250625T225000
-CLASS:PUBLIC
-PRIORITY:5
-DTSTAMP:20250507T113314Z
+DTSTAMP:20250507T121712Z
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 SEQUENCE:0
