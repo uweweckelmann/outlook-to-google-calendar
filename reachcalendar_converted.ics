@@ -43,7 +43,7 @@ DTSTART;TZID=Europe/Berlin:20250611T100000
 DTEND;TZID=Europe/Berlin:20250611T110000
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20250707T174101Z
+DTSTAMP:20250707T181255Z
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 SEQUENCE:0
@@ -83,7 +83,7 @@ DTSTART;TZID=Europe/Berlin:20250618T100000
 DTEND;TZID=Europe/Berlin:20250618T110000
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20250707T174101Z
+DTSTAMP:20250707T181255Z
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 SEQUENCE:2
@@ -124,7 +124,7 @@ DTSTART;TZID=Europe/Berlin:20250623T061100
 DTEND;TZID=Europe/Berlin:20250623T101800
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20250707T174101Z
+DTSTAMP:20250707T181255Z
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 SEQUENCE:0
@@ -162,7 +162,7 @@ DTSTART;TZID=Europe/Berlin:20250623T071100
 DTEND;TZID=Europe/Berlin:20250623T101800
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20250707T174101Z
+DTSTAMP:20250707T181255Z
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 SEQUENCE:0
@@ -200,7 +200,7 @@ DTSTART;TZID=Europe/Berlin:20250625T194800
 DTEND;TZID=Europe/Berlin:20250625T225000
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20250707T174101Z
+DTSTAMP:20250707T181255Z
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 SEQUENCE:0
@@ -240,7 +240,7 @@ DTSTART;TZID=Europe/Berlin:20250625T194800
 DTEND;TZID=Europe/Berlin:20250625T234800
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20250707T174101Z
+DTSTAMP:20250707T181255Z
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 SEQUENCE:0
@@ -277,7 +277,7 @@ DTSTART;TZID=Europe/Berlin:20250702T170000
 DTEND;TZID=Europe/Berlin:20250702T190000
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20250707T174101Z
+DTSTAMP:20250707T181255Z
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 SEQUENCE:0
@@ -305,7 +305,7 @@ DTSTART;TZID=Europe/Berlin:20250707T180000
 DTEND;TZID=Europe/Berlin:20250707T200000
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20250707T174101Z
+DTSTAMP:20250707T181255Z
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 SEQUENCE:0
@@ -326,57 +326,59 @@ DESCRIPTION:Uwe Weckelmann / Malte Nielsen - Videocall – Novamag kurz und
   bündig vorgestellt\nMit Google Meet teilnehmen – Wenn du einen Termin 
  buchst\, erhältst du in Kürze eine E-Mail mit einer Einladung zu unserem
   Videocall über Google Meet.──────────Malte Nielsen l
- ädt Sie zu einem geplanten Google Meet Meeting ein.Am G\n\n<https://meet.
- google.com/xxz-bhgd-vip?hs=224>\nMit Google Meet teilnehmen\nBesprechungsl
- ink\nmeet.google.com/xxz-bhgd-vip<https://meet.google.com/xxz-bhgd-vip?hs=
- 224>\nWenn du einen Termin buchst\, erhältst du in Kürze eine E-Mail mit
-  einer Einladung zu unserem Videocall über Google Meet.\n\n────
- ──────\n\nMalte Nielsen lädt Sie zu einem geplanten Google Me
- et Meeting ein.\n\nAm Google Meet-Meeting teilnehmen: https://meet.google.
- com/xxz-bhgd-vip\n\nNehmen Sie telefonisch an einem Meeting teil\, indem S
- ie sich über Ihre lokale Einwahlnummer einwählen: https://tel.meet/xxz-b
- hgd-vip?pin=4587893029561\n\n──────────\n\nMalte Niels
- en hat Sie zu einem Meeting eingeladen.\nPasst die Zeit nicht in Ihren Ter
- minplan? Verschieben Sie den Termin. hier<https://www.google.com/url?q=htt
- ps%3A%2F%2Fnovamag.pipedrive.com%2Fscheduler%2FxRDOJfz%2Fvideocall-novamag
- -kurz-und-bundig-vorgestellt%2Freschedule%2FN9DDn&sa=D&ust=175181826000000
- 0&usg=AOvVaw0TDXkpytdC8r_Pbf455ewa>.\nSie können nicht teilnehmen? Sagen 
- Sie ab. hier<https://www.google.com/url?q=https%3A%2F%2Fnovamag.pipedrive.
- com%2Fscheduler%2FxRDOJfz%2Fvideocall-novamag-kurz-und-bundig-vorgestellt%
- 2Fcancel%2FN9DDn&sa=D&ust=1751818260000000&usg=AOvVaw0KU7ZbmmBCghQcidyWMb7
- q>.\nMühelos Meetings planen mit Pipedrive\npipedrive.com/schedule-meetin
- g<https://www.google.com/url?q=https%3A%2F%2Fwww.pipedrive.com%2Fschedule-
- meeting&sa=D&ust=1751818260000000&usg=AOvVaw3UJI7C7ufDCdX5p2SKy4dK>\nWann\
- nDienstag 8. Jul. 2025 ⋅ 10:45AM – 11:30AM (Mitteleuropäische Zeit - 
- Berlin)\nStandort\nOnline\nKarte anzeigen<https://www.google.com/maps/sear
- ch/Online?hl=de>\nGäste\nMalte Nielsen<mailto:nielsen@novamag.de> - Organ
- isator\nuwe.weckelmann@svwestfalen.de<mailto:uwe.weckelmann@svwestfalen.de
- >\nAlle Gästeinformationen ansehen<https://calendar.google.com/calendar/e
- vent?action=VIEW&eid=ZjEyNWw3aTc3YTJwcW9sY2ZmODAxb3EyMjAgdXdlLndlY2tlbG1hb
- m5Ac3Z3ZXN0ZmFsZW4uZGU&tok=MTgjbmllbHNlbkBub3ZhbWFnLmRlZWI3MmJiNTQ5ZGQ3YTR
- jN2RkMTQ4ZDI3ODYxNGUxZTNkZTNhOWExZA&ctz=Europe%2FBerlin&hl=de&es=0>\nFür 
- uwe.weckelmann@svwestfalen.de<mailto:uwe.weckelmann@svwestfalen.de> antwor
- ten\n<https://calendar.google.com/calendar/event?action=RESPOND&eid=ZjEyNW
- w3aTc3YTJwcW9sY2ZmODAxb3EyMjAgdXdlLndlY2tlbG1hbm5Ac3Z3ZXN0ZmFsZW4uZGU&rst=
- 1&tok=MTgjbmllbHNlbkBub3ZhbWFnLmRlZWI3MmJiNTQ5ZGQ3YTRjN2RkMTQ4ZDI3ODYxNGUx
- ZTNkZTNhOWExZA&ctz=Europe%2FBerlin&hl=de&es=0>\nJa\n<https://calendar.goog
- le.com/calendar/event?action=RESPOND&eid=ZjEyNWw3aTc3YTJwcW9sY2ZmODAxb3EyM
- jAgdXdlLndlY2tlbG1hbm5Ac3Z3ZXN0ZmFsZW4uZGU&rst=2&tok=MTgjbmllbHNlbkBub3Zhb
- WFnLmRlZWI3MmJiNTQ5ZGQ3YTRjN2RkMTQ4ZDI3ODYxNGUxZTNkZTNhOWExZA&ctz=Europe%2
- FBerlin&hl=de&es=0>\nNein\n<https://calendar.google.com/calendar/event?act
- ion=RESPOND&eid=ZjEyNWw3aTc3YTJwcW9sY2ZmODAxb3EyMjAgdXdlLndlY2tlbG1hbm5Ac3
- Z3ZXN0ZmFsZW4uZGU&rst=3&tok=MTgjbmllbHNlbkBub3ZhbWFnLmRlZWI3MmJiNTQ5ZGQ3YT
- RjN2RkMTQ4ZDI3ODYxNGUxZTNkZTNhOWExZA&ctz=Europe%2FBerlin&hl=de&es=0>\nViel
- leicht\n<https://calendar.google.com/calendar/event?action=VIEW&eid=ZjEyNW
- w3aTc3YTJwcW9sY2ZmODAxb3EyMjAgdXdlLndlY2tlbG1hbm5Ac3Z3ZXN0ZmFsZW4uZGU&tok=
- MTgjbmllbHNlbkBub3ZhbWFnLmRlZWI3MmJiNTQ5ZGQ3YTRjN2RkMTQ4ZDI3ODYxNGUxZTNkZT
- NhOWExZA&ctz=Europe%2FBerlin&hl=de&es=0>\nWeitere Optionen\n\nEinladung vo
- n Google Kalender<https://calendar.google.com/calendar/>\n\nSie erhalten d
- iese E‑Mail\, weil Sie ein Gast des Termins sind.\n\nWenn Sie diese Einl
- adung weiterleiten\, kann jeder Empfänger eine Antwort an den Organisator
-  senden und zur Gästeliste hinzugefügt werden. Außerdem könnte er weit
- ere Nutzer einladen und Ihre Antwort ändern. Weitere Informationen<https:
- //support.google.com/calendar/answer/37135#forwarding>\n
+ ädt Sie zu einem geplanten Google Meet Meeting ein.Am G\n\nDieser Termin 
+ wurde aktualisiert\n\n<https://meet.google.com/xxz-bhgd-vip?hs=224>\nMit G
+ oogle Meet teilnehmen\nBesprechungslink\nmeet.google.com/xxz-bhgd-vip<http
+ s://meet.google.com/xxz-bhgd-vip?hs=224>\nWenn du einen Termin buchst\, er
+ hältst du in Kürze eine E-Mail mit einer Einladung zu unserem Videocall 
+ über Google Meet.\n\n──────────\n\nMalte Nielsen läd
+ t Sie zu einem geplanten Google Meet Meeting ein.\n\nAm Google Meet-Meetin
+ g teilnehmen: https://meet.google.com/xxz-bhgd-vip\n\nNehmen Sie telefonis
+ ch an einem Meeting teil\, indem Sie sich über Ihre lokale Einwahlnummer 
+ einwählen: https://tel.meet/xxz-bhgd-vip?pin=4587893029561\n\n───
+ ───────\n\nMalte Nielsen hat Sie zu einem Meeting eingeladen
+ .\nPasst die Zeit nicht in Ihren Terminplan? Verschieben Sie den Termin. h
+ ier<https://www.google.com/url?q=https%3A%2F%2Fnovamag.pipedrive.com%2Fsch
+ eduler%2FxRDOJfz%2Fvideocall-novamag-kurz-und-bundig-vorgestellt%2Fresched
+ ule%2FN9DDn&sa=D&ust=1752342360000000&usg=AOvVaw3ZPOYbn3tVy988mqG8hGVz>.\n
+ Sie können nicht teilnehmen? Sagen Sie ab. hier<https://www.google.com/ur
+ l?q=https%3A%2F%2Fnovamag.pipedrive.com%2Fscheduler%2FxRDOJfz%2Fvideocall-
+ novamag-kurz-und-bundig-vorgestellt%2Fcancel%2FN9DDn&sa=D&ust=175234236000
+ 0000&usg=AOvVaw0GRgp7P8cyNzQflC_CUnkV>.\nMühelos Meetings planen mit Pipe
+ drive\npipedrive.com/schedule-meeting<https://www.google.com/url?q=https%3
+ A%2F%2Fwww.pipedrive.com%2Fschedule-meeting&sa=D&ust=1752342360000000&usg=
+ AOvVaw2n50DT_P6SGOWd3uON4uOk>\nWann\nDienstag 8. Jul. 2025 ⋅ 10:45AM –
+  11:30AM (Mitteleuropäische Zeit - Berlin)\nStandort\nOnline\nKarte anzei
+ gen<https://www.google.com/maps/search/Online?hl=de>\nOrganisator\nEstefan
+ o Labudda<mailto:labudda@novamag.de>\nlabudda@novamag.de<mailto:labudda@no
+ vamag.de>\nGäste\nMalte Nielsen<mailto:nielsen@novamag.de>- Veranstalter\
+ nuwe.weckelmann@svwestfalen.de<mailto:uwe.weckelmann@svwestfalen.de>\nAlle
+  Gästeinformationen ansehen<https://calendar.google.com/calendar/event?ac
+ tion=VIEW&eid=ZjEyNWw3aTc3YTJwcW9sY2ZmODAxb3EyMjAgdXdlLndlY2tlbG1hbm5Ac3Z3
+ ZXN0ZmFsZW4uZGU&tok=MTgjbGFidWRkYUBub3ZhbWFnLmRlOGE4ODdkNzZjZDVkNzQyNzdiOD
+ YzOTk1NTJhOTRkYTJhYWMzOGJiNw&ctz=Europe%2FBerlin&hl=de&es=0>\nFür uwe.wec
+ kelmann@svwestfalen.de<mailto:uwe.weckelmann@svwestfalen.de> antworten\n<h
+ ttps://calendar.google.com/calendar/event?action=RESPOND&eid=ZjEyNWw3aTc3Y
+ TJwcW9sY2ZmODAxb3EyMjAgdXdlLndlY2tlbG1hbm5Ac3Z3ZXN0ZmFsZW4uZGU&rst=1&tok=M
+ TgjbGFidWRkYUBub3ZhbWFnLmRlOGE4ODdkNzZjZDVkNzQyNzdiODYzOTk1NTJhOTRkYTJhYWM
+ zOGJiNw&ctz=Europe%2FBerlin&hl=de&es=0>\nJa\n<https://calendar.google.com/
+ calendar/event?action=RESPOND&eid=ZjEyNWw3aTc3YTJwcW9sY2ZmODAxb3EyMjAgdXdl
+ LndlY2tlbG1hbm5Ac3Z3ZXN0ZmFsZW4uZGU&rst=2&tok=MTgjbGFidWRkYUBub3ZhbWFnLmRl
+ OGE4ODdkNzZjZDVkNzQyNzdiODYzOTk1NTJhOTRkYTJhYWMzOGJiNw&ctz=Europe%2FBerlin
+ &hl=de&es=0>\nNein\n<https://calendar.google.com/calendar/event?action=RES
+ POND&eid=ZjEyNWw3aTc3YTJwcW9sY2ZmODAxb3EyMjAgdXdlLndlY2tlbG1hbm5Ac3Z3ZXN0Z
+ mFsZW4uZGU&rst=3&tok=MTgjbGFidWRkYUBub3ZhbWFnLmRlOGE4ODdkNzZjZDVkNzQyNzdiO
+ DYzOTk1NTJhOTRkYTJhYWMzOGJiNw&ctz=Europe%2FBerlin&hl=de&es=0>\nVielleicht\
+ n<https://calendar.google.com/calendar/event?action=VIEW&eid=ZjEyNWw3aTc3Y
+ TJwcW9sY2ZmODAxb3EyMjAgdXdlLndlY2tlbG1hbm5Ac3Z3ZXN0ZmFsZW4uZGU&tok=MTgjbGF
+ idWRkYUBub3ZhbWFnLmRlOGE4ODdkNzZjZDVkNzQyNzdiODYzOTk1NTJhOTRkYTJhYWMzOGJiN
+ w&ctz=Europe%2FBerlin&hl=de&es=0>\nWeitere Optionen\n\nEinladung von Googl
+ e Kalender<https://calendar.google.com/calendar/>\n\nSie erhalten diese E
+ ‑Mail\, weil Sie ein Gast des Termins sind.\n\nWenn Sie diese Einladung 
+ weiterleiten\, kann jeder Empfänger eine Antwort an den Organisator sende
+ n und zur Gästeliste hinzugefügt werden. Außerdem könnte er weitere Nu
+ tzer einladen und Ihre Antwort ändern. Weitere Informationen<https://supp
+ ort.google.com/calendar/answer/37135#forwarding>\n
 UID:f125l7i77a2pqolcff801oq220@google.com
 SUMMARY:Uwe Weckelmann / Malte Nielsen - Videocall – Novamag kurz und bü
  ndig vorgestellt
@@ -384,7 +386,7 @@ DTSTART;TZID=Europe/Berlin:20250708T104500
 DTEND;TZID=Europe/Berlin:20250708T113000
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20250707T174101Z
+DTSTAMP:20250707T181255Z
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 SEQUENCE:0
@@ -467,7 +469,7 @@ DTSTART;TZID=Europe/Berlin:20250708T104500
 DTEND;TZID=Europe/Berlin:20250708T113000
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20250707T174101Z
+DTSTAMP:20250707T181255Z
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 SEQUENCE:0
@@ -505,7 +507,7 @@ DTSTART;TZID=Europe/Berlin:20250710T100000
 DTEND;TZID=Europe/Berlin:20250710T103000
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20250707T174101Z
+DTSTAMP:20250707T181255Z
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 SEQUENCE:0
@@ -543,7 +545,7 @@ DTSTART;TZID=Europe/Berlin:20250710T100000
 DTEND;TZID=Europe/Berlin:20250710T103000
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20250707T174101Z
+DTSTAMP:20250707T181255Z
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 SEQUENCE:0
