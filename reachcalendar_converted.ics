@@ -45,7 +45,7 @@ DTSTART;TZID=Europe/Berlin:20250625T194800
 DTEND;TZID=Europe/Berlin:20250625T234800
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20250724T005008Z
+DTSTAMP:20250724T025109Z
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 SEQUENCE:0
@@ -83,7 +83,7 @@ DTSTART;TZID=Europe/Berlin:20250625T194800
 DTEND;TZID=Europe/Berlin:20250625T225000
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20250724T005008Z
+DTSTAMP:20250724T025109Z
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 SEQUENCE:0
@@ -120,7 +120,7 @@ DTSTART;TZID=Europe/Berlin:20250702T170000
 DTEND;TZID=Europe/Berlin:20250702T190000
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20250724T005008Z
+DTSTAMP:20250724T025109Z
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 SEQUENCE:0
@@ -148,7 +148,7 @@ DTSTART;TZID=Europe/Berlin:20250707T180000
 DTEND;TZID=Europe/Berlin:20250707T200000
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20250724T005008Z
+DTSTAMP:20250724T025109Z
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 SEQUENCE:0
@@ -231,7 +231,7 @@ DTSTART;TZID=Europe/Berlin:20250708T104500
 DTEND;TZID=Europe/Berlin:20250708T113000
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20250724T005008Z
+DTSTAMP:20250724T025109Z
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 SEQUENCE:0
@@ -312,7 +312,7 @@ DTSTART;TZID=Europe/Berlin:20250708T104500
 DTEND;TZID=Europe/Berlin:20250708T113000
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20250724T005008Z
+DTSTAMP:20250724T025109Z
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 SEQUENCE:0
@@ -350,7 +350,7 @@ DTSTART;TZID=Europe/Berlin:20250710T100000
 DTEND;TZID=Europe/Berlin:20250710T103000
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20250724T005008Z
+DTSTAMP:20250724T025109Z
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 SEQUENCE:0
@@ -388,7 +388,7 @@ DTSTART;TZID=Europe/Berlin:20250710T100000
 DTEND;TZID=Europe/Berlin:20250710T103000
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20250724T005008Z
+DTSTAMP:20250724T025109Z
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 SEQUENCE:0
@@ -425,13 +425,66 @@ DTSTART;TZID=Europe/Berlin:20250723T120000
 DTEND;TZID=Europe/Berlin:20250723T130000
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20250724T005008Z
+DTSTAMP:20250724T025109Z
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 SEQUENCE:0
 LOCATION:Microsoft Teams-Besprechung
 X-MICROSOFT-CDO-APPT-SEQUENCE:0
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Meeting l6vcbybfds\nPlease contact us on whats app +48 515 990 
+ 672 We would like to get a bit more information about what you provide\, b
+ ecause we are interested in long term and we can order a lot\n\nPlease con
+ tact us on whats app +48 515 990 672 We would like to get a bit more infor
+ mation about what you provide\, because we are interested in long term and
+  we can order a lot\nWhen\nThursday Jul 24\, 2025\nOrganizer\nJulia Cooper
+ 3<mailto:juliacooper3@edumachali.cl>\njuliacooper3@edumachali.cl<mailto:ju
+ liacooper3@edumachali.cl>\nGuests\n(Guest list has been hidden at organize
+ r's request)\nReply for jugend@svwestfalen.de<mailto:jugend@svwestfalen.de
+ >\n<https://calendar.google.com/calendar/event?action=RESPOND&eid=NnVkNzVh
+ MmpvNWoyb3NsYnMybTk5N3U2ZGEganVnZW5kQHN2d2VzdGZhbGVuLmRl&rst=1&tok=MjYjanV
+ saWFjb29wZXIzQGVkdW1hY2hhbGkuY2wxOTEwNjM5MjFhYzlhZTMzYTY1NjhhYTcxMGY3NzMyM
+ TM3ZGUyMTFh&ctz=Europe%2FParis&hl=en&es=0>\nYes\n<https://calendar.google.
+ com/calendar/event?action=RESPOND&eid=NnVkNzVhMmpvNWoyb3NsYnMybTk5N3U2ZGEg
+ anVnZW5kQHN2d2VzdGZhbGVuLmRl&rst=2&tok=MjYjanVsaWFjb29wZXIzQGVkdW1hY2hhbGk
+ uY2wxOTEwNjM5MjFhYzlhZTMzYTY1NjhhYTcxMGY3NzMyMTM3ZGUyMTFh&ctz=Europe%2FPar
+ is&hl=en&es=0>\nNo\n<https://calendar.google.com/calendar/event?action=RES
+ POND&eid=NnVkNzVhMmpvNWoyb3NsYnMybTk5N3U2ZGEganVnZW5kQHN2d2VzdGZhbGVuLmRl&
+ rst=3&tok=MjYjanVsaWFjb29wZXIzQGVkdW1hY2hhbGkuY2wxOTEwNjM5MjFhYzlhZTMzYTY1
+ NjhhYTcxMGY3NzMyMTM3ZGUyMTFh&ctz=Europe%2FParis&hl=en&es=0>\nMaybe\n<https
+ ://calendar.google.com/calendar/event?action=VIEW&eid=NnVkNzVhMmpvNWoyb3Ns
+ YnMybTk5N3U2ZGEganVnZW5kQHN2d2VzdGZhbGVuLmRl&tok=MjYjanVsaWFjb29wZXIzQGVkd
+ W1hY2hhbGkuY2wxOTEwNjM5MjFhYzlhZTMzYTY1NjhhYTcxMGY3NzMyMTM3ZGUyMTFh&ctz=Eu
+ rope%2FParis&hl=en&es=0>\nMore options\n\nInvitation from Google Calendar<
+ https://calendar.google.com/calendar/>\n\nYou are receiving this email bec
+ ause you are an attendee on the event.\n\nForwarding this invitation could
+  allow any recipient to send a response to the organizer\, be added to the
+  guest list\, invite others regardless of their own invitation status\, or
+  modify your RSVP. Learn more<https://support.google.com/calendar/answer/3
+ 7135#forwarding>\n
+UID:6ud75a2jo5j2oslbs2m997u6da@google.com
+SUMMARY:Meeting                                        l6vcbybfds
+DTSTART;TZID=Europe/Berlin:20250724T020000
+DTEND;TZID=Europe/Berlin:20250725T020000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20250724T025109Z
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+SEQUENCE:0
+LOCATION:
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
 X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
 X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
 X-MICROSOFT-CDO-IMPORTANCE:1
