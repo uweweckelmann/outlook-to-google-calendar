@@ -1,238 +1,401 @@
-BEGIN:VCALENDAR
-BEGIN:VTIMEZONE
-TZID:Europe/Berlin
-X-LIC-LOCATION:Europe/Berlin
-BEGIN:DAYLIGHT
-TZOFFSETFROM:+0100
-TZOFFSETTO:+0200
-TZNAME:GMT+2
-DTSTART:19700329T020000
-RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
-END:DAYLIGHT
-BEGIN:STANDARD
-TZOFFSETFROM:+0200
-TZOFFSETTO:+0100
-TZNAME:GMT+1
-DTSTART:19701025T030000
-RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
-END:STANDARD
-END:VTIMEZONE
-METHOD:PUBLISH
-PRODID:Microsoft Exchange Server 2010
-VERSION:2.0
-X-WR-CALNAME:Kalender
-BEGIN:VEVENT
-DESCRIPTION:\n_____________________________________________________________
- ___________________\nMicrosoft Teams Benötigen Sie Hilfe?<https://aka.ms/
- JoinTeamsMeeting?omkt=de-DE>\nJetzt an der Besprechung teilnehmen<https://
- teams.microsoft.com/l/meetup-join/19%3ameeting_ZDQ0ODk0YWUtYjJkNC00YmIzLWE
- zNDMtMjM2YmY3MzUxMWIy%40thread.v2/0?context=%7b%22Tid%22%3a%228df41939-6fb
- 5-4ca6-8cc0-282bca7a6513%22%2c%22Oid%22%3a%22c32fe968-a918-4482-a59d-01d91
- 87bcd5f%22%7d>\nBesprechungs-ID: 384 384 307 056 5\nKennung: VL6gp7tE\n___
- _____________________________\nFür Organisatoren: Besprechungsoptionen<ht
- tps://teams.microsoft.com/meetingOptions/?organizerId=c32fe968-a918-4482-a
- 59d-01d9187bcd5f&tenantId=8df41939-6fb5-4ca6-8cc0-282bca7a6513&threadId=19
- _meeting_ZDQ0ODk0YWUtYjJkNC00YmIzLWEzNDMtMjM2YmY3MzUxMWIy@thread.v2&messag
- eId=0&language=de-DE>\n___________________________________________________
- _____________________________\n
-UID:040000008200E00074C5B7101A82E00800000000ED47DEC55DF6DB01000000000000000
- 0100000008A644D9514A7F948922A6D3766C93681
-SUMMARY:Homepage Bewusst Wie
-DTSTART;TZID=Europe/Berlin:20250723T120000
-DTEND;TZID=Europe/Berlin:20250723T130000
-CLASS:PUBLIC
-PRIORITY:5
-DTSTAMP:20250820T161102Z
-TRANSP:OPAQUE
-STATUS:CONFIRMED
-SEQUENCE:0
-LOCATION:Microsoft Teams-Besprechung
-X-MICROSOFT-CDO-APPT-SEQUENCE:0
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
-X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
-X-MICROSOFT-CDO-IMPORTANCE:1
-X-MICROSOFT-CDO-INSTTYPE:0
-X-MICROSOFT-DONOTFORWARDMEETING:FALSE
-X-MICROSOFT-DISALLOW-COUNTER:FALSE
-X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
-X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:\n_____________________________________________________________
- ___________________\nMicrosoft Teams Benötigen Sie Hilfe?<https://aka.ms/
- JoinTeamsMeeting?omkt=de-DE>\nJetzt an der Besprechung teilnehmen<https://
- teams.microsoft.com/l/meetup-join/19%3ameeting_YWNhOTA3YmItMzViZi00NTNhLTl
- kNmMtYzkwMzRlMDllNDdl%40thread.v2/0?context=%7b%22Tid%22%3a%228df41939-6fb
- 5-4ca6-8cc0-282bca7a6513%22%2c%22Oid%22%3a%22c32fe968-a918-4482-a59d-01d91
- 87bcd5f%22%7d>\nBesprechungs-ID: 324 050 094 001 2\nKennung: FH7SU9X2\n___
- _____________________________\nFür Organisatoren: Besprechungsoptionen<ht
- tps://teams.microsoft.com/meetingOptions/?organizerId=c32fe968-a918-4482-a
- 59d-01d9187bcd5f&tenantId=8df41939-6fb5-4ca6-8cc0-282bca7a6513&threadId=19
- _meeting_YWNhOTA3YmItMzViZi00NTNhLTlkNmMtYzkwMzRlMDllNDdl@thread.v2&messag
- eId=0&language=de-DE>\n___________________________________________________
- _____________________________\n
-RRULE:FREQ=WEEKLY;UNTIL=20250731T080000Z;INTERVAL=1;BYDAY=TH;WKST=MO
-UID:040000008200E00074C5B7101A82E008000000008964662A23ECDB01000000000000000
- 010000000163C42B5CD59254CB2B759FB38810C07
-SUMMARY:Jour-Fix Swim Race Days Social Media
-DTSTART;TZID=Europe/Berlin:20250724T100000
-DTEND;TZID=Europe/Berlin:20250724T103000
-CLASS:PUBLIC
-PRIORITY:5
-DTSTAMP:20250820T161102Z
-TRANSP:OPAQUE
-STATUS:CONFIRMED
-SEQUENCE:0
-LOCATION:Microsoft Teams-Besprechung
-X-MICROSOFT-CDO-APPT-SEQUENCE:0
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
-X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
-X-MICROSOFT-CDO-IMPORTANCE:1
-X-MICROSOFT-CDO-INSTTYPE:1
-X-MICROSOFT-DONOTFORWARDMEETING:FALSE
-X-MICROSOFT-DISALLOW-COUNTER:FALSE
-X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
-X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Wir fangen eine halbe Stunde später an\, hören aber pünktlic
- h auf. Sorry und bis gleich!\n____________________________________________
- ____________________________________\nMicrosoft Teams Benötigen Sie Hilfe
- ?<https://aka.ms/JoinTeamsMeeting?omkt=de-DE>\nJetzt an der Besprechung te
- ilnehmen<https://teams.microsoft.com/l/meetup-join/19%3ameeting_YTA0YzFjZj
- MtY2Q4NC00NDc0LTg2MTItMmRhYjdhNjdjZWZh%40thread.v2/0?context=%7b%22Tid%22%
- 3a%222bfeedff-cc89-4ecf-ada7-3483546b27ee%22%2c%22Oid%22%3a%22120abbd3-8c3
- 4-4e36-993a-a8392cddfd5d%22%7d>\nBesprechungs-ID: 356 809 837 435 1\nKennu
- ng: x5GM3GU6\nFür Organisatoren: Besprechungsoptionen<https://teams.micro
- soft.com/meetingOptions/?organizerId=120abbd3-8c34-4e36-993a-a8392cddfd5d&
- tenantId=2bfeedff-cc89-4ecf-ada7-3483546b27ee&threadId=19_meeting_YTA0YzFj
- ZjMtY2Q4NC00NDc0LTg2MTItMmRhYjdhNjdjZWZh@thread.v2&messageId=0&language=de
- -DE>\n____________________________________________________________________
- ____________\n
-UID:040000008200E00074C5B7101A82E008000000000B036857A7FCDB01000000000000000
- 01000000043082FCCF93BC4438D52A4A0B98F64D7
-SUMMARY:Sponsoringteam Race Days Series
-DTSTART;TZID=Europe/Berlin:20250730T173000
-DTEND;TZID=Europe/Berlin:20250730T180000
-CLASS:PUBLIC
-PRIORITY:5
-DTSTAMP:20250820T161102Z
-TRANSP:OPAQUE
-STATUS:CONFIRMED
-SEQUENCE:1
-LOCATION:Microsoft Teams-Besprechung
-X-MICROSOFT-CDO-APPT-SEQUENCE:1
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
-X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
-X-MICROSOFT-CDO-IMPORTANCE:1
-X-MICROSOFT-CDO-INSTTYPE:0
-X-MICROSOFT-DONOTFORWARDMEETING:FALSE
-X-MICROSOFT-DISALLOW-COUNTER:FALSE
-X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
-X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:\n_____________________________________________________________
- ___________________\nMicrosoft Teams Benötigen Sie Hilfe?<https://aka.ms/
- JoinTeamsMeeting?omkt=de-DE>\nJetzt an der Besprechung teilnehmen<https://
- teams.microsoft.com/l/meetup-join/19%3ameeting_NWU1ZTlhOGEtMmVjOC00Y2I5LTg
- 2N2UtNTU4ZGVhODBmM2Iw%40thread.v2/0?context=%7b%22Tid%22%3a%22e8ce2cd1-9f5
- 3-42e2-88b0-2bf900305bc4%22%2c%22Oid%22%3a%220013cae8-334e-4509-af6f-06d79
- c7ac2a6%22%7d>\nBesprechungs-ID: 331 074 475 613 3\nKennung: Fi3QZ6ES\n___
- _____________________________\nFür Organisatoren: Besprechungsoptionen<ht
- tps://teams.microsoft.com/meetingOptions/?organizerId=0013cae8-334e-4509-a
- f6f-06d79c7ac2a6&tenantId=e8ce2cd1-9f53-42e2-88b0-2bf900305bc4&threadId=19
- _meeting_NWU1ZTlhOGEtMmVjOC00Y2I5LTg2N2UtNTU4ZGVhODBmM2Iw@thread.v2&messag
- eId=0&language=de-DE>\n___________________________________________________
- _____________________________\n
-UID:040000008200E00074C5B7101A82E00800000000A042D3A16FFCDB01000000000000000
- 010000000AA50458AC02CBD4E9F6E013F2C7480A1
-SUMMARY:Absprachen zum Workshop nachhaltige Veranstaltungen im Breitensport
-DTSTART;TZID=Europe/Berlin:20250902T100000
-DTEND;TZID=Europe/Berlin:20250902T110000
-CLASS:PUBLIC
-PRIORITY:5
-DTSTAMP:20250820T161102Z
-TRANSP:OPAQUE
-STATUS:CONFIRMED
-SEQUENCE:0
-LOCATION:Microsoft Teams-Besprechung
-X-MICROSOFT-CDO-APPT-SEQUENCE:0
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
-X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
-X-MICROSOFT-CDO-IMPORTANCE:1
-X-MICROSOFT-CDO-INSTTYPE:0
-X-MICROSOFT-DONOTFORWARDMEETING:FALSE
-X-MICROSOFT-DISALLOW-COUNTER:FALSE
-X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
-X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:\n\n___________________________________________________________
- _____________________\nMicrosoft Teams Benötigen Sie Hilfe?<https://aka.m
- s/JoinTeamsMeeting?omkt=de-DE>\nJetzt an der Besprechung teilnehmen<https:
- //teams.microsoft.com/l/meetup-join/19%3ameeting_OWViZDJjNTEtMzUzMC00ZDBhL
- ThhZTUtNjk0OWM4OGNlNTM0%40thread.v2/0?context=%7b%22Tid%22%3a%222bfeedff-c
- c89-4ecf-ada7-3483546b27ee%22%2c%22Oid%22%3a%22120abbd3-8c34-4e36-993a-a83
- 92cddfd5d%22%7d>\nBesprechungs-ID: 368 200 276 810 4\nKennung: md6aj9QP\n_
- _______________________________\nFür Organisatoren: Besprechungsoptionen<
- https://teams.microsoft.com/meetingOptions/?organizerId=120abbd3-8c34-4e36
- -993a-a8392cddfd5d&tenantId=2bfeedff-cc89-4ecf-ada7-3483546b27ee&threadId=
- 19_meeting_OWViZDJjNTEtMzUzMC00ZDBhLThhZTUtNjk0OWM4OGNlNTM0@thread.v2&mess
- ageId=0&language=de-DE>\n_________________________________________________
- _______________________________\n
-UID:040000008200E00074C5B7101A82E00800000000E00B71186C01DC01000000000000000
- 010000000F9B5187D21BDE54FB768DD3986597064
-SUMMARY:Sponsoringteam Race Days Series
-DTSTART;TZID=Europe/Berlin:20250908T190000
-DTEND;TZID=Europe/Berlin:20250908T200000
-CLASS:PUBLIC
-PRIORITY:5
-DTSTAMP:20250820T161102Z
-TRANSP:OPAQUE
-STATUS:CONFIRMED
-SEQUENCE:0
-LOCATION:Microsoft Teams-Besprechung
-X-MICROSOFT-CDO-APPT-SEQUENCE:0
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
-X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
-X-MICROSOFT-CDO-IMPORTANCE:1
-X-MICROSOFT-CDO-INSTTYPE:0
-X-MICROSOFT-DONOTFORWARDMEETING:FALSE
-X-MICROSOFT-DISALLOW-COUNTER:FALSE
-X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
-X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Wie in der Vorstandssitzung vom 26.07.2023 beschlossen der Fixt
- ermin für Vorstandssitzungen. Jeden ersten Montag im Quartal.\n\n\n
-RRULE:FREQ=MONTHLY;UNTIL=20260105T170000Z;INTERVAL=3;BYDAY=1MO
-UID:040000008200E00074C5B7101A82E008000000008725986789C0D901000000000000000
- 010000000B75C5829D9FC3540B1D126AF11712903
-SUMMARY:Vorstandssitzung
-DTSTART;TZID=Europe/Berlin:20251006T180000
-DTEND;TZID=Europe/Berlin:20251006T200000
-CLASS:PUBLIC
-PRIORITY:5
-DTSTAMP:20250820T161102Z
-TRANSP:OPAQUE
-STATUS:CONFIRMED
-SEQUENCE:0
-LOCATION:Südbad Dortmund
-X-MICROSOFT-CDO-APPT-SEQUENCE:0
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
-X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
-X-MICROSOFT-CDO-IMPORTANCE:1
-X-MICROSOFT-CDO-INSTTYPE:1
-X-MICROSOFT-DONOTFORWARDMEETING:FALSE
-X-MICROSOFT-DISALLOW-COUNTER:FALSE
-X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
-X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
-END:VEVENT
-END:VCALENDAR
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<!-- Copyright (c) 2011 Microsoft Corporation.  All rights reserved. -->
+<!-- OwaPage = ASP.auth_errorfe_aspx -->
+
+<html>
+
+<head>
+    <meta http-equiv="X-UA-Compatible" content="IE=10" />
+    <meta http-equiv="Content-Type" content="text/html; CHARSET=utf-8">
+    <title>Error</title>
+
+    <style>
+        @font-face {
+            font-family: "wf_segoe-ui_normal";
+            src: local('Segoe UI'), local('Segoe WP'),
+                url('https://outlook-1.cdn.office.net/assets/mail/fonts/v1/fonts/segoeui-regular.eot?#iefix') format('embedded-opentype'),
+                url('https://outlook-1.cdn.office.net/assets/mail/fonts/v1/fonts/segoeui-regular.ttf') format('truetype');
+            font-weight: 400;
+            font-style: normal;
+        }
+
+        @font-face {
+            font-family: "wf_segoe-ui_semilight";
+            src: local('Segoe UI Semilight'), local('Segoe WP Semilight'),
+                url('https://outlook-1.cdn.office.net/assets/mail/fonts/v1/fonts/segoeui-semilight.eot?#iefix') format('embedded-opentype'),
+                url('https://outlook-1.cdn.office.net/assets/mail/fonts/v1/fonts/segoeui-semilight.ttf') format('truetype');
+            font-weight: 200;
+            font-style: normal;
+        }
+
+        @font-face {
+            font-family: "wf_segoe-ui_semibold";
+            src: local('Segoe UI Semibold'), local('Segoe WP Semibold'),
+                url('https://outlook-1.cdn.office.net/assets/mail/fonts/v1/fonts/segoeui-semibold.eot?#iefix') format('embedded-opentype'),
+                url('https://outlook-1.cdn.office.net/assets/mail/fonts/v1/fonts/segoeui-semibold.ttf') format('truetype');
+            font-weight: 600;
+            font-style: normal;
+        }
+    </style>
+    <style>/*Copyright (c) 2003-2012 Microsoft Corporation.  All rights reserved.*/
+
+/* styles for errorfe.aspx */
+body
+{
+    height: 100%;
+    width: 100%;
+    margin: 0px;
+    font-family:'wf_segoe-ui_normal', 'Segoe UI', 'Segoe WP', Tahoma, Arial, sans-serif;
+}
+
+.mouse, .twide 
+{
+    min-width: 650px; /* min iPad1 dimension */
+    min-height: 650px;
+    position: absolute;
+    top: 0px;
+    bottom: 0px;
+    left: 0px;
+    right: 0px;
+}
+
+.mouse .mainContainer, .twide .mainContainer
+{    
+    margin-top:113px;
+    position:relative;
+}
+
+.mouse .owaLogo, .twide .owaLogo
+{    
+    margin-right:88px;
+}
+
+.tnarrow .owaLogo
+{
+    display: none;
+}
+
+.errorMessageContainer
+{
+    display:inline-block;
+}
+
+.rtl .errorMessageContainer
+{
+    direction: rtl;
+    text-align: right;
+}
+
+.mouse .errorMessageContainer, .twide .errorMessageContainer
+{
+    position: absolute;
+    top: -65px;
+    left: 340px;
+}
+
+.tnarrow .errorMessageContainer
+{
+    margin: 26px;
+}
+
+.errorHeader
+{
+    color: #0078D4;
+    font-family:'wf_segoe-ui_semilight', 'Segoe UI Semilight', 'Segoe WP Semilight', 'Segoe UI', 'Segoe WP', Tahoma, Arial, sans-serif;
+}
+
+.mouse .errorHeader, .twide .errorHeader
+{
+    font-size: 30px;
+    line-height: 82px;
+}
+
+.tnarrow .errorHeader
+{
+    font-size:26px;
+}
+
+.errorSubHeader
+{
+    color: #0078D4;
+    font-family:'wf_segoe-ui_semilight', 'Segoe UI Semilight', 'Segoe WP Semilight', 'Segoe UI', 'Segoe WP', Tahoma, Arial, sans-serif;
+}
+
+.errorSubHeader2
+{
+    color: #0078D4;
+    font-family:'wf_segoe-ui_semilight', 'Segoe UI Semilight', 'Segoe WP Semilight', 'Segoe UI', 'Segoe WP', Tahoma, Arial, sans-serif;
+}
+
+.mouse .errorSubHeader, .twide .errorSubHeader
+{
+    font-size: 40px;
+    line-height: 28px;
+}
+
+.tnarrow .errorSubHeader
+{
+    font-size: 25px;
+    line-height: 30px;
+}
+
+.mouse .errorSubHeader2, .twide .errorSubHeader2
+{
+    font-size: 30px;
+    line-height: 55px;
+}
+
+.tnarrow .errorSubHeader2
+{
+    font-size: 25px;
+    line-height: 40px;
+}
+
+.errorDetails
+{
+    color: #666666;
+    font-family:'wf_segoe-ui_semibold', 'Segoe UI Semibold', 'Segoe WP Semibold', 'Segoe UI', 'Segoe WP', Tahoma, Arial, sans-serif;
+}
+
+.OCRFriendly
+{
+    font-family:'Consolas'
+}
+
+.mouse .errorDetails, .twide .errorDetails,
+.mouse .diagnosticToggle, .twide .diagnosticToggle,
+.mouse .refreshPageButton, .twide .refreshPageButton,
+.mouse .addToFavouritesButton,.twide .addToFavouritesButton
+{
+    font-size: 14px;
+    line-height: 19px;
+}
+
+.tnarrow .errorDetails, .tnarrow .diagnosticToggle, .tnarrow .refreshPageButton, .tnarrow .addToFavouritesButton
+{
+    font-size: 14px;
+    line-height: 18px;
+}
+
+.mouse .errorDetails, .twide .errorDetails 
+{
+    margin: 36px 0px 47px 0px;
+}
+
+.tnarrow .errorDetails 
+{
+    margin: 22px 0px 38px 0px;
+}
+
+.diagnosticToggle {
+    color: #0078D4;
+    background-color: white;
+    border: none;
+    font-family: 'wf_segoe-ui_semibold', 'Segoe UI Semibold', 'Segoe WP Semibold', 'Segoe UI', 'Segoe WP', Tahoma, Arial, sans-serif;
+    cursor: pointer;
+    margin-top: 20px;
+    outline: none;
+}
+
+.officeLogo
+{
+    position:absolute;
+    bottom:33px;
+    right: 45px;
+}
+
+.refreshPageButton {
+    font-family: 'wf_segoe-ui_semibold', 'Segoe UI Semibold', 'Segoe WP Semibold', 'Segoe UI', 'Segoe WP', Tahoma, Arial, sans-serif;
+    color: #FFFFFF;
+    background-color: #0078D4;
+    cursor: pointer;
+    margin: 0px;
+    min-height: 32px;
+    min-width: 80px;
+    padding: 0px 16px;
+    border-radius: 2px;
+    border: 1px solid #0078D4;
+    display: inline-block;
+}
+
+.refreshButtonText {
+    margin: 0px 4px;
+}
+
+.addToFavouritesButton
+{
+    font-family:'wf_segoe-ui_semibold', 'Segoe UI Semibold', 'Segoe WP Semibold', 'Segoe UI', 'Segoe WP', Tahoma, Arial, sans-serif;
+    color: #FFFFFF;
+    border: 0px;
+    background-color: #0078D4;
+    cursor: pointer;
+    padding: 4px;
+    margin: 0px;
+}
+</style>
+    <script>
+
+        var mainLogonDiv = window.document.getElementById("mainDiv");
+        var offlineCapableBrowser = false;
+        var mainLogonDivClassName = 'mouse';
+        var showPlaceholderText = false;
+
+        if (mainLogonDivClassName == "mouse") {
+            var userAgent = window.navigator.userAgent;
+            var offlineSupportedBrowser = (userAgent.indexOf("MSIE") > 0) || (userAgent.indexOf("Chrome") > 0) || (userAgent.indexOf("Safari") > 0);
+            offlineCapableBrowser = (!!(window.self.indexedDB || window.self.msIndexedDB) || typeof (window.self['openDatabase']) !== 'undefined') && offlineSupportedBrowser;
+        }
+
+        
+
+        function refreshPage() {
+            window.location = "/";
+        }
+
+        function clkAddToFav() {
+            window.external.AddFavorite(
+                "",
+                "Outlook");
+        }
+
+        var diagnosticDetailsCollapsed = true;
+
+        function toggleDiagnosticDetails() {
+            var diagnosticDiv = document.getElementById("diagnosticDiv");
+            var toggleDiv = document.getElementById("diagnosticToggle");
+            var moreDetailString = 'More details';
+            var lessDetailString = 'Fewer details';
+
+            diagnosticDetailsCollapsed = !diagnosticDetailsCollapsed;
+
+            if (diagnosticDetailsCollapsed)
+            {
+                diagnosticDiv.style.display = "none";
+                if (toggleDiv.innerText) {
+                    toggleDiv.innerText = moreDetailString;
+                }
+                else {
+                    toggleDiv.textContent = moreDetailString;
+                }
+            }
+            else
+            {
+                diagnosticDiv.style.display = "";
+                if (toggleDiv.innerText) {
+                    toggleDiv.innerText = lessDetailString;
+                }
+                else {
+                    toggleDiv.textContent = lessDetailString;
+                }
+            }
+        }
+
+        function onLoad()
+        {
+            
+        }
+
+        // Clear some value in localStorage for plt instrumentation
+        var isLocalStorageEnabled = function () {
+            try {
+                if (window.localStorage != null) {
+                    window.localStorage["dummy"] = "dummy";
+                    window.localStorage.removeItem("dummy");
+                    return true;
+                }
+
+                return false;
+            } catch (e) {
+                return false;
+            }
+        }();
+
+        function deleteLocalStorageValue(key) {
+            if (!isLocalStorageEnabled) {
+                return undefined;
+            }
+
+            var originalValue = window.localStorage[key];
+            if (originalValue) {
+                delete window.localStorage[key];
+            }
+
+            return originalValue;
+        }
+
+        // Reset the reboot reason
+        deleteLocalStorageValue("rebootReason");
+
+        // Add property if error page is Iframed.
+        var isInIframe = false;
+        try {
+            isInIframe = window.top !== window.self ? true : false;
+        } catch (e) {
+            isInIframe = true;
+        }
+
+        
+    </script>
+</head>
+<body id="errorAspx" class="" style="background: #FFFFFF" onload="onLoad()">
+    <div id="mainDiv">
+        <script>
+            var mainLogonDiv = window.document.getElementById("mainDiv");
+            mainLogonDiv.className = mainLogonDivClassName;
+        </script>
+
+        <div class="mainContainer">
+            <div class="errorMessageContainer">
+
+                <svg xmlns="http://www.w3.org/2000/svg" width="36" height="36" viewBox="0 0 32 32">
+                    <title>Outlook_32x</title>
+                    <path d="M28.6,2H11.4A1.4,1.4,0,0,0,10,3.4V5l9.69,3L30,5V3.4A1.4,1.4,0,0,0,28.6,2Z" fill="#0364b8"></path>
+                    <path d="M31.65,17.405A11.352,11.352,0,0,0,32,16a.665.665,0,0,0-.333-.576h0l-.013-.007,0,0L20.812,9.239a1.382,1.382,0,0,0-.145-.082h0a1.5,1.5,0,0,0-1.334,0h0a1.382,1.382,0,0,0-.145.082L8.35,15.413l0,0-.012.007h0A.666.666,0,0,0,8,16a11.352,11.352,0,0,0,.35,1.405l11.492,8.4Z" fill="#0a2767"></path>
+                    <polygon points="24 5 17 5 14.979 8 17 11 24 17 30 17 30 11 24 5" fill="#28a8ea"></polygon>
+                    <rect x="10" y="5" width="7" height="6" fill="#0078d4"></rect>
+                    <rect x="24" y="5" width="6" height="6" fill="#50d9ff"></rect>
+                    <polygon points="24 17 17 11 10 11 10 17 17 23 27.832 24.768 24 17" fill="#0364b8"></polygon>
+                    <line x1="10.031" y1="5" x2="30" y2="5" fill="none"></line>
+                    <rect x="17" y="11" width="7" height="6" fill="#0078d4"></rect>
+                    <rect x="10" y="17" width="7" height="6" fill="#064a8c"></rect>
+                    <rect x="24" y="17" width="6" height="6" fill="#0078d4"></rect>
+                    <path d="M20.191,25.217,8.4,16.617l.494-.869s10.745,6.12,10.91,6.212a.527.527,0,0,0,.42-.012l10.933-6.23.5.869Z" fill="#0a2767" opacity="0.5"></path>
+                    <path d="M31.667,16.577h0l-.014.008,0,0L20.812,22.761a1.5,1.5,0,0,1-1.46.091l3.774,5.061,8.254,1.8v0A1.5,1.5,0,0,0,32,28.5V16A.666.666,0,0,1,31.667,16.577Z" fill="#1490df"></path>
+                    <path d="M32,28.5v-.738l-9.983-5.688-1.2.687a1.5,1.5,0,0,1-1.46.091l3.774,5.061,8.254,1.8v0A1.5,1.5,0,0,0,32,28.5Z" opacity="0.05"></path>
+                    <path d="M31.95,28.883,21.007,22.65l-.2.111a1.5,1.5,0,0,1-1.46.091l3.774,5.061,8.254,1.8v0A1.5,1.5,0,0,0,31.95,28.883Z" opacity="0.1"></path>
+                    <path d="M8.35,16.59v-.01H8.34l-.03-.02A.651.651,0,0,1,8,16V28.5A1.5,1.5,0,0,0,9.5,30h21a1.5,1.5,0,0,0,.37-.05.636.636,0,0,0,.18-.06.142.142,0,0,0,.06-.02,1.046,1.046,0,0,0,.23-.13c.02-.01.03-.01.04-.03Z" fill="#28a8ea"></path>
+                    <path d="M18,24.666V8.333A1.337,1.337,0,0,0,16.667,7H10.031v4h0v3.456l-1.681.957,0,0-.012.007h0A.666.666,0,0,0,8,16V26h8.667A1.337,1.337,0,0,0,18,24.666Z" opacity="0.1"></path>
+                    <path d="M17,25.666V9.333A1.337,1.337,0,0,0,15.667,8H10.031v3h0v3.456l-1.681.957,0,0-.012.007h0A.666.666,0,0,0,8,16V27h7.667A1.337,1.337,0,0,0,17,25.666Z" opacity="0.2"></path>
+                    <path d="M17,23.666V9.333A1.337,1.337,0,0,0,15.667,8H10.031v3h0v3.456l-1.681.957,0,0-.012.007h0A.666.666,0,0,0,8,16v9h7.667A1.337,1.337,0,0,0,17,23.666Z" opacity="0.2"></path>
+                    <path d="M16,23.666V9.333A1.337,1.337,0,0,0,14.667,8H10.031v3h0v3.456l-1.681.957,0,0-.012.007h0A.666.666,0,0,0,8,16v9h6.667A1.337,1.337,0,0,0,16,23.666Z" opacity="0.2"></path>
+                    <rect y="8" width="16" height="16" rx="1.333" fill="#0078d4"></rect>
+                    <path d="M3.518,13.255A4.537,4.537,0,0,1,5.3,11.288a5.377,5.377,0,0,1,2.829-.709,5.007,5.007,0,0,1,2.617.672,4.492,4.492,0,0,1,1.733,1.879,6.064,6.064,0,0,1,.607,2.764,6.4,6.4,0,0,1-.625,2.891,4.6,4.6,0,0,1-1.784,1.945,5.2,5.2,0,0,1-2.716.691,5.128,5.128,0,0,1-2.676-.68,4.563,4.563,0,0,1-1.755-1.883,5.918,5.918,0,0,1-.614-2.73A6.565,6.565,0,0,1,3.518,13.255Zm1.9,4.616a2.951,2.951,0,0,0,1,1.3,2.618,2.618,0,0,0,1.565.471,2.747,2.747,0,0,0,1.67-.486,2.829,2.829,0,0,0,.973-1.3,5.018,5.018,0,0,0,.31-1.806,5.482,5.482,0,0,0-.292-1.827A2.9,2.9,0,0,0,9.7,12.874a2.591,2.591,0,0,0-1.656-.511,2.705,2.705,0,0,0-1.6.475,2.976,2.976,0,0,0-1.023,1.305,5.173,5.173,0,0,0-.007,3.728Z" fill="#fff"></path>
+                    <rect width="32" height="32" fill="none"></rect>
+                </svg>
+
+                <div class="errorHeader">500</div>
+                <div class="errorSubHeader">Something went wrong.</div>
+                <div class="errorSubHeader2"></div>
+                <div class="errorDetails">Outlook is not supported on this browser. Not all web browsers support Outlook on the web. Find a <a href="https://go.microsoft.com/fwlink/?linkid=2237975">supported browser</a> or logout here. <BR><BR>Click <a href="/owa/logoff.owa">here</a> to sign out.</div>
+
+                
+                <div>
+                    <button onclick="toggleDiagnosticDetails();" class="diagnosticToggle">
+                        <span  id="diagnosticToggle" >More details</span>
+                    </button>
+                </div>
+                <pre class="errorDetails OCRFriendly" id="diagnosticDiv" style="display:none;">clientIPAddress 9.234.151.119
+X-ClientId: 2DEE32AACE4D469FB20E24C010B96487
+X-OWA-Error Microsoft.Exchange.Clients.Owa2.Server.Core.OwaBasicUnsupportedException
+X-OWA-Version 15.20.9052.13
+X-FEServer AM6P194CA0027
+X-BEServer AM6PR02MB4820
+Date:8/20/2025 4:43:33 PM
+</pre>
+                
+
+            </div>
+        </div>
+    </div>
+</body>
+</html>
