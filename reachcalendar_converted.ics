@@ -384,13 +384,13 @@ body
                         <span  id="diagnosticToggle" >More details</span>
                     </button>
                 </div>
-                <pre class="errorDetails OCRFriendly" id="diagnosticDiv" style="display:none;">clientIPAddress 9.234.151.119
-X-ClientId: 2DEE32AACE4D469FB20E24C010B96487
+                <pre class="errorDetails OCRFriendly" id="diagnosticDiv" style="display:none;">clientIPAddress 135.119.235.81
+X-ClientId: 7C5D856CA2EA448FB3E480A8C3539638
 X-OWA-Error Microsoft.Exchange.Clients.Owa2.Server.Core.OwaBasicUnsupportedException
 X-OWA-Version 15.20.9052.13
-X-FEServer AM6P194CA0027
+X-FEServer AS9PR05CA0287
 X-BEServer AM6PR02MB4820
-Date:8/20/2025 4:43:33 PM
+Date:8/20/2025 5:07:53 PM
 </pre>
                 
 
