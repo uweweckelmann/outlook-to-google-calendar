@@ -373,10 +373,15 @@ body
                     <rect width="32" height="32" fill="none"></rect>
                 </svg>
 
-                <div class="errorHeader">500</div>
-                <div class="errorSubHeader">Something went wrong.</div>
+                <div class="errorHeader">400</div>
+                <div class="errorSubHeader">Bad request.</div>
                 <div class="errorSubHeader2"></div>
-                <div class="errorDetails">Outlook is not supported on this browser. Not all web browsers support Outlook on the web. Find a <a href="https://go.microsoft.com/fwlink/?linkid=2237975">supported browser</a> or logout here. <BR><BR>Click <a href="/owa/logoff.owa">here</a> to sign out.</div>
+                <div class="errorDetails">T3V0bG9vayBpcyBub3Qgc3VwcG9ydGVkIG9uIHRoaXMgYnJvd3Nlci4gTm90IGFs
+bCB3ZWIgYnJvd3NlcnMgc3VwcG9ydCBPdXRsb29rIG9uIHRoZSB3ZWIuIEZpbmQg
+YSA8YSBocmVmPSJodHRwczovL2dvLm1pY3Jvc29mdC5jb20vZndsaW5rLz9saW5r
+aWQ9MjIzNzk3NSI+c3VwcG9ydGVkIGJyb3dzZXI8L2E+IG9yIGxvZ291dCBoZXJl
+LiA8QlI+PEJSPkNsaWNrIDxhIGhyZWY9Ii9vd2EvbG9nb2ZmLm93YSI+aGVyZTwv
+YT4gdG8gc2lnbiBvdXQu (Base64)</div>
 
                 
                 <div>
@@ -384,13 +389,14 @@ body
                         <span  id="diagnosticToggle" >More details</span>
                     </button>
                 </div>
-                <pre class="errorDetails OCRFriendly" id="diagnosticDiv" style="display:none;">clientIPAddress 172.182.225.6
-X-ClientId: F3D1775F457B4D9B98250F5F6838DB8F
-X-OWA-Error Microsoft.Exchange.Clients.Owa2.Server.Core.OwaBasicUnsupportedException
-X-OWA-Version 15.20.9052.13
-X-FEServer AM6P195CA0063
-X-BEServer AM6PR02MB4820
-Date:8/21/2025 5:43:20 PM
+                <pre class="errorDetails OCRFriendly" id="diagnosticDiv" style="display:none;">clientIPAddress 172.212.165.73
+X-ClientId: 92586176C1F0404CA06A70A289990A97
+X-OWA-Error TWljcm9zb2Z0LkV4Y2hhbmdlLkNsaWVudHMuT3dhMi5TZXJ2ZXIuQ29yZS5Pd2FC
+YXNpY1Vuc3VwcG9ydGVkRXhjZXB0aW9u (Base64)
+X-OWA-Version MTUuMjAuOTA1Mi4xMw== (Base64)
+X-FEServer QVM5UFIwNUNBMDI5OQ== (Base64)
+X-BEServer QU02UFIwMk1CNDgyMA== (Base64)
+Date:8/21/2025 6:13:09 PM
 </pre>
                 
 
