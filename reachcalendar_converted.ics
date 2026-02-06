@@ -32,7 +32,7 @@ DTSTART;TZID=Europe/Berlin:20260105T180000
 DTEND;TZID=Europe/Berlin:20260105T200000
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20260206T134031Z
+DTSTAMP:20260206T143223Z
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 SEQUENCE:0
@@ -69,7 +69,7 @@ DTSTART;TZID=Europe/Berlin:20260108T103000
 DTEND;TZID=Europe/Berlin:20260108T110000
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20260206T134031Z
+DTSTAMP:20260206T143223Z
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 SEQUENCE:0
@@ -106,7 +106,7 @@ DTSTART;TZID=Europe/Berlin:20260108T140000
 DTEND;TZID=Europe/Berlin:20260108T150000
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20260206T134031Z
+DTSTAMP:20260206T143223Z
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 SEQUENCE:3
@@ -143,7 +143,7 @@ DTSTART;TZID=Europe/Berlin:20260109T140000
 DTEND;TZID=Europe/Berlin:20260109T143000
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20260206T134031Z
+DTSTAMP:20260206T143223Z
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 SEQUENCE:0
@@ -170,7 +170,7 @@ DTSTART;TZID=Europe/Berlin:20260112T180000
 DTEND;TZID=Europe/Berlin:20260112T200000
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20260206T134031Z
+DTSTAMP:20260206T143223Z
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 SEQUENCE:5
@@ -195,7 +195,7 @@ DTSTART;TZID=Europe/Berlin:20260114T143000
 DTEND;TZID=Europe/Berlin:20260114T151500
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20260206T134031Z
+DTSTAMP:20260206T143223Z
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 SEQUENCE:2
@@ -233,7 +233,7 @@ DTSTART;TZID=Europe/Berlin:20260115T133000
 DTEND;TZID=Europe/Berlin:20260115T140000
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20260206T134031Z
+DTSTAMP:20260206T143223Z
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 SEQUENCE:0
@@ -258,7 +258,7 @@ DTSTART;TZID=Europe/Berlin:20260126T140000
 DTEND;TZID=Europe/Berlin:20260126T143000
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20260206T134031Z
+DTSTAMP:20260206T143223Z
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 SEQUENCE:0
@@ -296,7 +296,7 @@ DTSTART;TZID=Europe/Berlin:20260129T133000
 DTEND;TZID=Europe/Berlin:20260129T140000
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20260206T134031Z
+DTSTAMP:20260206T143223Z
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 SEQUENCE:0
@@ -322,7 +322,7 @@ DTSTART;TZID=Europe/Berlin:20260204T163000
 DTEND;TZID=Europe/Berlin:20260204T173000
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20260206T134031Z
+DTSTAMP:20260206T143223Z
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 SEQUENCE:1
@@ -360,7 +360,7 @@ DTSTART;TZID=Europe/Berlin:20260204T173000
 DTEND;TZID=Europe/Berlin:20260204T190000
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20260206T134031Z
+DTSTAMP:20260206T143223Z
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 SEQUENCE:1
@@ -399,7 +399,7 @@ DTSTART;TZID=Europe/Berlin:20260205T133000
 DTEND;TZID=Europe/Berlin:20260205T140000
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20260206T134031Z
+DTSTAMP:20260206T143223Z
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 SEQUENCE:0
@@ -416,121 +416,125 @@ X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
 X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:\n________________________________\nFrom: Daniel Werner <mail@d
- an.ruhr>\nSent: Friday\, February 6\, 2026 1:23:52 PM\nTo: SV Westfalen | 
- Uwe Weckelmann <uwe.weckelmann@svwestfalen.de>\nSubject: Re: Beauftragte:r
-  Digitalisierung & IT-Unterstützung (m/w/d)\n\nDann schlage ich Mittwoch 
- vor\, von der Zeit bin ich frei. Schlagt was vor\n\nBeste Grüße\nDaniel\
- n\nAm 05.02.2026 um 19:41 schrieb SV Westfalen | Uwe Weckelmann <uwe.wecke
- lmann@svwestfalen.de>:\n\n﻿\nGerne im Südbad\, ist persönlicher 😀\n
- Außerdem würde wahrscheinlich auch Ümit gerne dabei sein.\n\nGut Nass!\
- n\nUwe Weckelmann\nLeiter Kommunikation\n\n_______________________________
- _\nFrom: Daniel Werner <mail@dan.ruhr>\nSent: Thursday\, February 5\, 2026
-  7:11:32 PM\nTo: SV Westfalen | Uwe Weckelmann <uwe.weckelmann@svwestfalen
- .de>\nSubject: Re: Beauftragte:r Digitalisierung & IT-Unterstützung (m/w/
- d)\n\nHallo Uwe\,\n\nIch mache dir morgen einen Vorschlag. Aktuell bin ich
-  noch etwas mit Erkältung am Bett und morgen entscheide ich final\, ob ic
- h Montag-Mittwoch im Urlaub bin oder eben nicht :)\n\nMöchtest du einen T
- eams Termin machen oder treffen wir uns irgendwo in Dortmund?\n\nBeste Gr
- üße\nDaniel\n\nAm Do\, 5. Feb 2026\, um 18:37\, schrieb SV Westfalen | U
- we Weckelmann:\n> Hallo Daniel\,\n>\n> Das Du ist bei uns gewünscht👍\n
- >\n> Das hört sich super gut an. Es ist auch kein Problem\, dass du keine
- \n> feste Zusage über ein festes Stundenkontingent machen kannst.\n>\n> L
- asse uns gerne einmal in einem persönlichen Gespräch austauschen.\n> Ich
-  werde gerade Großvater und kann die vorgeschlagenen Termin nur mit\n> 90
- %-iger Wahrscheinlichkeit einhalten.\n>\n> Montag 09.02.\, ganztägig\n> D
- ienstag 10.02.\, ganztägig\n> Mittwoch 11.02.\, Nachmittags\n> Donnerstag
-  12.02.\, bis 18:30 Uhr\n>\n> Ich freue mich auf ein kennenlernen.\n>\n> G
- ut Nass!\n>\n>\n>\n> Uwe Weckelmann\n>\n> **Westfale aus Leidenschaft**\n>
- \n> Mobil: 0177-4250837\n>\n> Teams: Chat with me\n> <https://teams.micros
- oft.com/l/chat/0/0?users=uwe.weckelmann@svwestfalen.de>\n>\n> Leiter Kommu
- nikation\n>\n>\n>\n>\n>\n> *Von:* Daniel Werner <mail@dan.ruhr>\n> *Gesend
- et:* Donnerstag\, 5. Februar 2026 18:24\n> *An:* SV Westfalen | Uwe Weckel
- mann <uwe.weckelmann@svwestfalen.de>\n> *Betreff:* Beauftragte:r Digitalis
- ierung & IT-Unterstützung (m/w/d)\n>\n> Hallo Uwe\,\n>\n> da dies meine e
- rste Bewerbung auf eine Ehrenamts-Position ist\, bin ich\n> einfach mal so
-  dreist und nutze das "du" - ich hoffe das ist "okay".\n>\n> Auf der Websi
- te vom SV Westfalen habe ich gesehen\, das der SV Westfalen\n> eine Person
-  sucht für die Digitalisierung und IT Unterstützung. Ich\n> könnte mir 
- gut vorstellen\, euch hier auszuhelfen.\n>\n> Zu mir: Ich bin Daniel Werne
- r\, 36 Jahre alt und im Sauerland geboren.\n> Damals war ich beim DLRG akt
- iv und habe dort meinen Spaß am\n> Schwimmsport gefunden. Leider ging die
- s und das Vereinsleben durch\n> meinen Umzug 2011 nach Dortmund etwas verl
- oren. Seit letztem Jahr bin\n> ich im SV Westfalen Mitglied und\, vielleic
- ht auch meiner als IT-Mensch\n> fast "gegebenen" intro-vertiertheit\, leid
- er noch nie mehr in\n> Erscheinung getreten. Dies liegt unter anderem auch
-  an "fehlenden"\n> Informationen wie wann gibt es wie wo eine Möglichkeit
-  "zum Anschluss"\n> gibt. In zwischenzeit fühle ich mich in Dortmund aber
-  so wohl\, das ich\n> am liebsten Ur-Dortmunder wäre und hoffe\, noch lan
- ge hier bleiben zu\n> dürfen. 2020 bin ich dann mit meinem jetzt-Ehemann 
- nach Westerfilde\n> gezogen.\n>\n> Warum ich denke\, das ich für diese Po
- sition geeignet bin?\n>\n> Seit 2015 arbeite ich als "Consultant Developme
- nt" bei der Firma UNIORG\n> in Dortmund\, das ist ein klassisches SAP Bera
- tungshaus. Als Branche bin\n> ich dabei sehr stark in den (Profi-)Sport Be
- reich gelangt. Dabei sind\n> wir eher im Fußball und Eishockey Umfeld akt
- iv (Aus der 1. sowie 2.\n> Liga - Vereine sind immer sehr schwierig als Re
- ferenz zu nennen\, das\n> darf ich nur im persönlichen Gespräch ...) Ich
-  bin die Schnittstelle\n> zwischen unseren Kunden und dann wenn das Standa
- rdprodukt "nicht ganz"\n> ausreicht und Erweiterungen gebaut werden müsse
- n. Dabei denke ich stets\n> daran\, wie man dem Kunden am besten helfen ka
- nn und habe dabei die\n> Anforderungen und Bedürfnisse der Kunden\, aber 
- auch der Kunden-Kunden\n> (Fans) im Blick.\n>\n> Dabei kenne ich Microsoft
-  365 selbstverständlich und habe immer ein\n> offenes Auge für Lösungen
- \, die den Kunden glücklich machen können. Da\n> ich auch Vorträge halt
- en ist das adressieren von IT Themen vor Menschen\n> kein Thema für mich.
-  Meine Kollegen schätzen dies sehr an mir\, das ich\n> es schaffe komplex
- e IT Themen sehr vertändlich zu machen. Und das trotz\n> meiner intro-ver
- tiertheit\, die dazu führt das ich beim SV Westfalen\n> noch nie genauer 
- in den Fokus getreten bin geschweige denn\, das "freie\n> Schwimmen" endli
- ch mal genutzt habe ...\n>\n> Ich habe mir eigentlich immer vorgenommen\, 
- einen Teil meiner Zeit im\n> Ehrenamt zu verbringen. So war ich in Dortmun
- d Volunteer bei der UEFA\n> Euro 2024 im ICT Bereich und habe letzte Jahr 
- (auch im IT Bereich) die\n> FISU Games in Essen begleitet (Leider Basketba
- ll\, denn Schwimmen fand\n> ja in Berlin statt). Seit fast 10 Jahren bin i
- ch Ehrenämtler im\n> Konzerthaus Dortmund (hier primär der Verkaufsstand
-  im Foyer)\, da aber\n> der Verkaufsstand nicht mehr so stattfindet gibt e
- s ein gewisses\n> Zeitbudget\, was ich hier hergeben kann.\n>\n> Im Vorfel
- d muss ich betonen\, das ich kein festes Stundenbudget zusagen\n> kann son
- dern dies immer ein wenig Abhängig von der Projektlage ist -\n> aber sich
- erlich - auch beim aktuellen Bedarf beim SV Westfalen.\n> Trotzdem ist die
-  Position für mich sehr spannend weil dies genau das\n> Gegenstück ist z
- u dem\, was ich im Beruf täglich mache. Im Beruf arbeite\n> ich mit den I
- T Leitern / Digitalisierungs Managern von (Profi) Sport\n> Vereinen zusamm
- en und suche die perfekte Lösung.\n>\n> Falls das für euch interessant i
- st\, können wir uns gerne mal "in echt"\n> unterhalten und ein wenig bess
- er kennenlernen.\n>\n> Ich hoffe diese - doch recht unkonventionelle "Bewe
- rbung" - ist für\n> euch interessant. Über meinen ausführlichen Werdega
- ng kann ich sonst\n> auch mein LinkedIn Profil ans Herz legen\n> https://w
- ww.linkedin.com/in/daniel-werner-354464166/\n>\n> Beste Grüße\n> Daniel 
- Werner\n> *SV Westfalen Dortmund von 1896 e.V. <https://svwestfalen.de>*\n
- > Folgt uns auf Facebook <https://www.facebook.com/SVWestfalen>\, linkedin
- \n> <https://www.linkedin.com/company/sv-westfalen-dortmund-von-1896> und\
- n> Instagramm <https://www.instagram.com/svwestfalen/>\n> Amtsgericht Dort
- mund: VR 1556\n> Vorstand: Ümit Acar\, Sebastian Greiffer\, Marianne Klef
- f\n>\n> Wir sind Mitglied im CSR-Verein "Bewusst-Wie e.V."\n> Link zur Hom
- epage <https://bewusst-wie-ev.de>\n> Link zur Info-Broschüre\n> <https://
- bewusst-wie-ev.de/wp-content/uploads/Bewusstwie-Broschüre-21x21-20211222
- -RZ-Web-einzel.pdf>\n[https://www.svwestfalen.de/_my_media/1/cms/SV-Westfa
- len/fav_icon-mail.jpg] SV Westfalen Dortmund von 1896 e.V.<https://svwestf
- alen.de>\nFolgt uns auf Facebook<https://www.facebook.com/SVWestfalen>\, l
- inkedin<https://www.linkedin.com/company/sv-westfalen-dortmund-von-1896> u
- nd Instagramm<https://www.instagram.com/svwestfalen/>\nAmtsgericht Dortmun
- d: VR 1556\nVorstand: Ümit Acar\, Sebastian Greiffer\, Marianne Kleff\n\n
- Wir sind Mitglied im CSR-Verein "Bewusst-Wie e.V."\nLink zur Homepage<http
- s://bewusst-wie-ev.de>\nLink zur Info-Broschüre <https://bewusst-wie-ev.d
- e/wp-content/uploads/Bewusstwie-Broschüre-21x21-20211222-RZ-Web-einzel.p
- df>\n
+DESCRIPTION:Hallo Daniel\,\n\nWir treffen uns dann Mittwoch im Südbad. Üm
+ it wird dabei sein.\n\nGut Nass!\nUwe\n________________________________\nF
+ rom: Daniel Werner <mail@dan.ruhr>\nSent: Friday\, February 6\, 2026 1:23:
+ 52 PM\nTo: SV Westfalen | Uwe Weckelmann <uwe.weckelmann@svwestfalen.de>\n
+ Subject: Re: Beauftragte:r Digitalisierung & IT-Unterstützung (m/w/d)\n\n
+ Dann schlage ich Mittwoch vor\, von der Zeit bin ich frei. Schlagt was vor
+ \n\nBeste Grüße\nDaniel\n\nAm 05.02.2026 um 19:41 schrieb SV Westfalen |
+  Uwe Weckelmann <uwe.weckelmann@svwestfalen.de>:\n\n﻿\nGerne im Südbad\
+ , ist persönlicher 😀\nAußerdem würde wahrscheinlich auch Ümit gerne
+  dabei sein.\n\nGut Nass!\n\nUwe Weckelmann\nLeiter Kommunikation\n\n_____
+ ___________________________\nFrom: Daniel Werner <mail@dan.ruhr>\nSent: Th
+ ursday\, February 5\, 2026 7:11:32 PM\nTo: SV Westfalen | Uwe Weckelmann <
+ uwe.weckelmann@svwestfalen.de>\nSubject: Re: Beauftragte:r Digitalisierung
+  & IT-Unterstützung (m/w/d)\n\nHallo Uwe\,\n\nIch mache dir morgen einen 
+ Vorschlag. Aktuell bin ich noch etwas mit Erkältung am Bett und morgen en
+ tscheide ich final\, ob ich Montag-Mittwoch im Urlaub bin oder eben nicht 
+ :)\n\nMöchtest du einen Teams Termin machen oder treffen wir uns irgendwo
+  in Dortmund?\n\nBeste Grüße\nDaniel\n\nAm Do\, 5. Feb 2026\, um 18:37\,
+  schrieb SV Westfalen | Uwe Weckelmann:\n> Hallo Daniel\,\n>\n> Das Du ist
+  bei uns gewünscht👍\n>\n> Das hört sich super gut an. Es ist auch kei
+ n Problem\, dass du keine\n> feste Zusage über ein festes Stundenkontinge
+ nt machen kannst.\n>\n> Lasse uns gerne einmal in einem persönlichen Gesp
+ räch austauschen.\n> Ich werde gerade Großvater und kann die vorgeschlag
+ enen Termin nur mit\n> 90%-iger Wahrscheinlichkeit einhalten.\n>\n> Montag
+  09.02.\, ganztägig\n> Dienstag 10.02.\, ganztägig\n> Mittwoch 11.02.\, 
+ Nachmittags\n> Donnerstag 12.02.\, bis 18:30 Uhr\n>\n> Ich freue mich auf 
+ ein kennenlernen.\n>\n> Gut Nass!\n>\n>\n>\n> Uwe Weckelmann\n>\n> **Westf
+ ale aus Leidenschaft**\n>\n> Mobil: 0177-4250837\n>\n> Teams: Chat with me
+ \n> <https://teams.microsoft.com/l/chat/0/0?users=uwe.weckelmann@svwestfal
+ en.de>\n>\n> Leiter Kommunikation\n>\n>\n>\n>\n>\n> *Von:* Daniel Werner <
+ mail@dan.ruhr>\n> *Gesendet:* Donnerstag\, 5. Februar 2026 18:24\n> *An:* 
+ SV Westfalen | Uwe Weckelmann <uwe.weckelmann@svwestfalen.de>\n> *Betreff:
+ * Beauftragte:r Digitalisierung & IT-Unterstützung (m/w/d)\n>\n> Hallo Uw
+ e\,\n>\n> da dies meine erste Bewerbung auf eine Ehrenamts-Position ist\, 
+ bin ich\n> einfach mal so dreist und nutze das "du" - ich hoffe das ist "o
+ kay".\n>\n> Auf der Website vom SV Westfalen habe ich gesehen\, das der SV
+  Westfalen\n> eine Person sucht für die Digitalisierung und IT Unterstüt
+ zung. Ich\n> könnte mir gut vorstellen\, euch hier auszuhelfen.\n>\n> Zu 
+ mir: Ich bin Daniel Werner\, 36 Jahre alt und im Sauerland geboren.\n> Dam
+ als war ich beim DLRG aktiv und habe dort meinen Spaß am\n> Schwimmsport 
+ gefunden. Leider ging dies und das Vereinsleben durch\n> meinen Umzug 2011
+  nach Dortmund etwas verloren. Seit letztem Jahr bin\n> ich im SV Westfale
+ n Mitglied und\, vielleicht auch meiner als IT-Mensch\n> fast "gegebenen" 
+ intro-vertiertheit\, leider noch nie mehr in\n> Erscheinung getreten. Dies
+  liegt unter anderem auch an "fehlenden"\n> Informationen wie wann gibt es
+  wie wo eine Möglichkeit "zum Anschluss"\n> gibt. In zwischenzeit fühle 
+ ich mich in Dortmund aber so wohl\, das ich\n> am liebsten Ur-Dortmunder w
+ äre und hoffe\, noch lange hier bleiben zu\n> dürfen. 2020 bin ich dann 
+ mit meinem jetzt-Ehemann nach Westerfilde\n> gezogen.\n>\n> Warum ich denk
+ e\, das ich für diese Position geeignet bin?\n>\n> Seit 2015 arbeite ich 
+ als "Consultant Development" bei der Firma UNIORG\n> in Dortmund\, das ist
+  ein klassisches SAP Beratungshaus. Als Branche bin\n> ich dabei sehr star
+ k in den (Profi-)Sport Bereich gelangt. Dabei sind\n> wir eher im Fußball
+  und Eishockey Umfeld aktiv (Aus der 1. sowie 2.\n> Liga - Vereine sind im
+ mer sehr schwierig als Referenz zu nennen\, das\n> darf ich nur im persön
+ lichen Gespräch ...) Ich bin die Schnittstelle\n> zwischen unseren Kunden
+  und dann wenn das Standardprodukt "nicht ganz"\n> ausreicht und Erweiteru
+ ngen gebaut werden müssen. Dabei denke ich stets\n> daran\, wie man dem K
+ unden am besten helfen kann und habe dabei die\n> Anforderungen und Bedür
+ fnisse der Kunden\, aber auch der Kunden-Kunden\n> (Fans) im Blick.\n>\n> 
+ Dabei kenne ich Microsoft 365 selbstverständlich und habe immer ein\n> of
+ fenes Auge für Lösungen\, die den Kunden glücklich machen können. Da\n
+ > ich auch Vorträge halten ist das adressieren von IT Themen vor Menschen
+ \n> kein Thema für mich. Meine Kollegen schätzen dies sehr an mir\, das 
+ ich\n> es schaffe komplexe IT Themen sehr vertändlich zu machen. Und das 
+ trotz\n> meiner intro-vertiertheit\, die dazu führt das ich beim SV Westf
+ alen\n> noch nie genauer in den Fokus getreten bin geschweige denn\, das "
+ freie\n> Schwimmen" endlich mal genutzt habe ...\n>\n> Ich habe mir eigent
+ lich immer vorgenommen\, einen Teil meiner Zeit im\n> Ehrenamt zu verbring
+ en. So war ich in Dortmund Volunteer bei der UEFA\n> Euro 2024 im ICT Bere
+ ich und habe letzte Jahr (auch im IT Bereich) die\n> FISU Games in Essen b
+ egleitet (Leider Basketball\, denn Schwimmen fand\n> ja in Berlin statt). 
+ Seit fast 10 Jahren bin ich Ehrenämtler im\n> Konzerthaus Dortmund (hier 
+ primär der Verkaufsstand im Foyer)\, da aber\n> der Verkaufsstand nicht m
+ ehr so stattfindet gibt es ein gewisses\n> Zeitbudget\, was ich hier herge
+ ben kann.\n>\n> Im Vorfeld muss ich betonen\, das ich kein festes Stundenb
+ udget zusagen\n> kann sondern dies immer ein wenig Abhängig von der Proje
+ ktlage ist -\n> aber sicherlich - auch beim aktuellen Bedarf beim SV Westf
+ alen.\n> Trotzdem ist die Position für mich sehr spannend weil dies genau
+  das\n> Gegenstück ist zu dem\, was ich im Beruf täglich mache. Im Beruf
+  arbeite\n> ich mit den IT Leitern / Digitalisierungs Managern von (Profi)
+  Sport\n> Vereinen zusammen und suche die perfekte Lösung.\n>\n> Falls da
+ s für euch interessant ist\, können wir uns gerne mal "in echt"\n> unter
+ halten und ein wenig besser kennenlernen.\n>\n> Ich hoffe diese - doch rec
+ ht unkonventionelle "Bewerbung" - ist für\n> euch interessant. Über mein
+ en ausführlichen Werdegang kann ich sonst\n> auch mein LinkedIn Profil an
+ s Herz legen\n> https://www.linkedin.com/in/daniel-werner-354464166/\n>\n>
+  Beste Grüße\n> Daniel Werner\n> *SV Westfalen Dortmund von 1896 e.V. <h
+ ttps://svwestfalen.de>*\n> Folgt uns auf Facebook <https://www.facebook.co
+ m/SVWestfalen>\, linkedin\n> <https://www.linkedin.com/company/sv-westfale
+ n-dortmund-von-1896> und\n> Instagramm <https://www.instagram.com/svwestfa
+ len/>\n> Amtsgericht Dortmund: VR 1556\n> Vorstand: Ümit Acar\, Sebastian
+  Greiffer\, Marianne Kleff\n>\n> Wir sind Mitglied im CSR-Verein "Bewusst-
+ Wie e.V."\n> Link zur Homepage <https://bewusst-wie-ev.de>\n> Link zur Inf
+ o-Broschüre\n> <https://bewusst-wie-ev.de/wp-content/uploads/Bewusstwie-B
+ roschüre-21x21-20211222-RZ-Web-einzel.pdf>\n[https://www.svwestfalen.de/
+ _my_media/1/cms/SV-Westfalen/fav_icon-mail.jpg] SV Westfalen Dortmund von 
+ 1896 e.V.<https://svwestfalen.de>\nFolgt uns auf Facebook<https://www.face
+ book.com/SVWestfalen>\, linkedin<https://www.linkedin.com/company/sv-westf
+ alen-dortmund-von-1896> und Instagramm<https://www.instagram.com/svwestfal
+ en/>\nAmtsgericht Dortmund: VR 1556\nVorstand: Ümit Acar\, Sebastian Grei
+ ffer\, Marianne Kleff\n\nWir sind Mitglied im CSR-Verein "Bewusst-Wie e.V.
+ "\nLink zur Homepage<https://bewusst-wie-ev.de>\nLink zur Info-Broschüre<
+ https://bewusst-wie-ev.de/wp-content/uploads/Bewusstwie-Broschüre-21x21-
+ 20211222-RZ-Web-einzel.pdf>\n
 UID:040000008200E00074C5B7101A82E008000000009A7177F96D97DC01000000000000000
  010000000004648F5BF9F014CAD97A07EB5178E92
-SUMMARY:RE: Beauftragte:r Digitalisierung & IT-Unterstützung (m/w/d)
-DTSTART;TZID=Europe/Berlin:20260206T160000
-DTEND;TZID=Europe/Berlin:20260206T163000
+SUMMARY:RE: Beauftragte:r Digitalisierung & IT-Unterstützung (m/w/d) [Pers
+ önlich]
+DTSTART;TZID=Europe/Berlin:20260211T140000
+DTEND;TZID=Europe/Berlin:20260211T160000
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20260206T134031Z
+DTSTAMP:20260206T143223Z
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 SEQUENCE:0
+LOCATION:Ruhrallee 30 (Ruhrallee 30\, \, 44139 Dortmund Nordrhein-Westfalen
+ \, Deutschland)
 X-MICROSOFT-CDO-APPT-SEQUENCE:0
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
@@ -552,7 +556,7 @@ DTSTART;TZID=Europe/Berlin:20260226T070000
 DTEND;TZID=Europe/Berlin:20260227T140000
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20260206T134031Z
+DTSTAMP:20260206T143223Z
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 SEQUENCE:0
@@ -576,7 +580,7 @@ DTSTART;TZID=Europe/Berlin:20260414T103000
 DTEND;TZID=Europe/Berlin:20260414T113000
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20260206T134031Z
+DTSTAMP:20260206T143223Z
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 SEQUENCE:0
