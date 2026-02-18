@@ -30,7 +30,7 @@ DTSTART;TZID=Europe/Berlin:20260126T140000
 DTEND;TZID=Europe/Berlin:20260126T143000
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20260218T141352Z
+DTSTAMP:20260218T150852Z
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 SEQUENCE:0
@@ -68,7 +68,7 @@ DTSTART;TZID=Europe/Berlin:20260129T133000
 DTEND;TZID=Europe/Berlin:20260129T140000
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20260218T141352Z
+DTSTAMP:20260218T150852Z
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 SEQUENCE:0
@@ -94,7 +94,7 @@ DTSTART;TZID=Europe/Berlin:20260204T163000
 DTEND;TZID=Europe/Berlin:20260204T173000
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20260218T141352Z
+DTSTAMP:20260218T150852Z
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 SEQUENCE:1
@@ -132,7 +132,7 @@ DTSTART;TZID=Europe/Berlin:20260204T173000
 DTEND;TZID=Europe/Berlin:20260204T190000
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20260218T141352Z
+DTSTAMP:20260218T150852Z
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 SEQUENCE:1
@@ -143,45 +143,6 @@ X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
 X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
 X-MICROSOFT-CDO-IMPORTANCE:1
 X-MICROSOFT-CDO-INSTTYPE:0
-X-MICROSOFT-DONOTFORWARDMEETING:FALSE
-X-MICROSOFT-DISALLOW-COUNTER:FALSE
-X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
-X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:\n_____________________________________________________________
- ___________________\nMicrosoft Teams-Besprechung\nTeilnehmen: https://team
- s.microsoft.com/meet/36979328530324?p=pKV5MGBk3F1dLu5Ktb\nBesprechungs-ID:
-  369 793 285 303 24\nPasscode: 4W6Sh38L\n________________________________\
- nBenötigen Sie Hilfe?<https://aka.ms/JoinTeamsMeeting?omkt=de-DE> | Syste
- mreferenz<https://teams.microsoft.com/l/meetup-join/19%3ameeting_M2I5MzkwN
- 2MtMWI4Mi00MTZiLTg4N2ItNWY1OGNlOWYwZjgy%40thread.v2/0?context=%7b%22Tid%22
- %3a%2253b589e4-afd3-47dd-8224-cdc542fee686%22%2c%22Oid%22%3a%22d56a88cf-39
- 19-426a-91cc-ec0e501a32fd%22%7d>\nFür Organisatoren: Besprechungsoptionen
- <https://teams.microsoft.com/meetingOptions/?organizerId=d56a88cf-3919-426
- a-91cc-ec0e501a32fd&tenantId=53b589e4-afd3-47dd-8224-cdc542fee686&threadId
- =19_meeting_M2I5MzkwN2MtMWI4Mi00MTZiLTg4N2ItNWY1OGNlOWYwZjgy@thread.v2&mes
- sageId=0&language=de-DE>\n________________________________________________
- ________________________________\n
-RRULE:FREQ=WEEKLY;UNTIL=20260730T113000Z;INTERVAL=1;BYDAY=TH;WKST=MO
-UID:040000008200E00074C5B7101A82E00800000000F01106C66D84DC01000000000000000
- 01000000090B232D63E6C204890CF1136711AB505
-SUMMARY:SRD JF
-DTSTART;TZID=Europe/Berlin:20260205T133000
-DTEND;TZID=Europe/Berlin:20260205T140000
-CLASS:PUBLIC
-PRIORITY:5
-DTSTAMP:20260218T141352Z
-TRANSP:OPAQUE
-STATUS:CONFIRMED
-SEQUENCE:0
-LOCATION:Microsoft Teams-Besprechung
-X-MICROSOFT-CDO-APPT-SEQUENCE:0
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
-X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
-X-MICROSOFT-CDO-IMPORTANCE:1
-X-MICROSOFT-CDO-INSTTYPE:1
 X-MICROSOFT-DONOTFORWARDMEETING:FALSE
 X-MICROSOFT-DISALLOW-COUNTER:FALSE
 X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
@@ -210,7 +171,7 @@ DTSTART;TZID=Europe/Berlin:20260205T133000
 DTEND;TZID=Europe/Berlin:20260205T140000
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20260218T141352Z
+DTSTAMP:20260218T150852Z
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 SEQUENCE:0
@@ -221,6 +182,45 @@ X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
 X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
 X-MICROSOFT-CDO-IMPORTANCE:1
 X-MICROSOFT-CDO-INSTTYPE:3
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:\n_____________________________________________________________
+ ___________________\nMicrosoft Teams-Besprechung\nTeilnehmen: https://team
+ s.microsoft.com/meet/36979328530324?p=pKV5MGBk3F1dLu5Ktb\nBesprechungs-ID:
+  369 793 285 303 24\nPasscode: 4W6Sh38L\n________________________________\
+ nBenötigen Sie Hilfe?<https://aka.ms/JoinTeamsMeeting?omkt=de-DE> | Syste
+ mreferenz<https://teams.microsoft.com/l/meetup-join/19%3ameeting_M2I5MzkwN
+ 2MtMWI4Mi00MTZiLTg4N2ItNWY1OGNlOWYwZjgy%40thread.v2/0?context=%7b%22Tid%22
+ %3a%2253b589e4-afd3-47dd-8224-cdc542fee686%22%2c%22Oid%22%3a%22d56a88cf-39
+ 19-426a-91cc-ec0e501a32fd%22%7d>\nFür Organisatoren: Besprechungsoptionen
+ <https://teams.microsoft.com/meetingOptions/?organizerId=d56a88cf-3919-426
+ a-91cc-ec0e501a32fd&tenantId=53b589e4-afd3-47dd-8224-cdc542fee686&threadId
+ =19_meeting_M2I5MzkwN2MtMWI4Mi00MTZiLTg4N2ItNWY1OGNlOWYwZjgy@thread.v2&mes
+ sageId=0&language=de-DE>\n________________________________________________
+ ________________________________\n
+RRULE:FREQ=WEEKLY;UNTIL=20260730T113000Z;INTERVAL=1;BYDAY=TH;WKST=MO
+UID:040000008200E00074C5B7101A82E00800000000F01106C66D84DC01000000000000000
+ 01000000090B232D63E6C204890CF1136711AB505
+SUMMARY:SRD JF
+DTSTART;TZID=Europe/Berlin:20260205T133000
+DTEND;TZID=Europe/Berlin:20260205T140000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20260218T150852Z
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+SEQUENCE:0
+LOCATION:Microsoft Teams-Besprechung
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:1
 X-MICROSOFT-DONOTFORWARDMEETING:FALSE
 X-MICROSOFT-DISALLOW-COUNTER:FALSE
 X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
@@ -340,7 +340,7 @@ DTSTART;TZID=Europe/Berlin:20260211T140000
 DTEND;TZID=Europe/Berlin:20260211T160000
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20260218T141352Z
+DTSTAMP:20260218T150852Z
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 SEQUENCE:0
@@ -366,7 +366,7 @@ DTSTART;VALUE=DATE:20260221
 DTEND;VALUE=DATE:20260301
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20260218T141352Z
+DTSTAMP:20260218T150852Z
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 SEQUENCE:0
@@ -375,6 +375,165 @@ X-MICROSOFT-CDO-APPT-SEQUENCE:0
 X-MICROSOFT-CDO-BUSYSTATUS:OOF
 X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:\n________________________________\nFrom: Simone Meiser <simone
+ .meiser@kissing-menden.com>\nSent: Wednesday\, February 18\, 2026 2:29:15 
+ PM\nTo: SV Westfalen | Uwe Weckelmann <uwe.weckelmann@svwestfalen.de>\nSub
+ ject: WG: Medaillen Swim Race Days\n\nSehr geehrter Herr Weckelmann\,\n\nv
+ ielen Dank für Ihre Nachricht. Wollen wir in der nächsten Woche einmal t
+ elefonieren? Wenn es zeitlich bei Ihnen passt\, melden Sie sich gerne bei 
+ mir 02373-9371-22. Montags bis donnerstags können Sie mich von 08:00 – 
+ 16:45 Uhr erreichen.\n\nBis dahin\,\nviele Grüße\nSimone Meiser\n\nVon: 
+ SV Westfalen | Uwe Weckelmann <uwe.weckelmann@svwestfalen.de>\nGesendet: D
+ ienstag\, 17. Februar 2026 10:25\nAn: Simone Meiser <simone.meiser@kissing
+ -menden.com>\; SV Westfalen | Stefan Ryschawy <stefan.ryschawy@svwestfalen
+ .de>\nBetreff: AW: Medaillen Swim Race Days\n\nSehr geehrte Frau Meiser\, 
+ vielen Dank für Ihre offene Rückmeldung. Wir schätzen Ihre klare Haltun
+ g zum Thema Sponsoring sehr. Gerade deshalb würden wir gerne in einen unv
+ erbindlichen Austausch gehen.\nsophospsmartbannerend\nSehr geehrte Frau Me
+ iser\,\nvielen Dank für Ihre offene Rückmeldung. Wir schätzen Ihre klar
+ e Haltung zum Thema Sponsoring sehr.\nGerade deshalb würden wir gerne in 
+ einen unverbindlichen Austausch gehen. Unser Interesse liegt weniger in ei
+ ner klassischen Sponsoringlösung\, sondern vielmehr in der Frage\, ob es 
+ perspektivisch Berührungspunkte zwischen Ihrem Unternehmen und unserem Ve
+ rein geben kann.\nMit der Swim Race Series bewegen wir jährlich mehrere h
+ undert junge Sportlerinnen und Sportler in Dortmund und verstehen uns als 
+ Plattform für Leistung\, Nachwuchsförderung und gesellschaftliche Verant
+ wortung. Vielleicht ergeben sich daraus mittelfristig Ansatzpunkte\, die f
+ ür beide Seiten sinnvoll sind.\nUns geht es dabei ausdrücklich um eine l
+ angfristige\, partnerschaftliche Perspektive – nicht um eine kurzfristig
+ e Anfrage.\nWenn Sie offen für einen Gedankenaustausch sind\, freuen wir 
+ uns sehr über einen Termin.\nGut Nass!\n\n\n\nUwe Weckelmann\n\nWestfale 
+ aus Leidenschaft\n\nMobil: 0177-4250837\n\nTeams: Chat with me<https://eu-
+ central-1.protection.sophos.com?d=microsoft.com&u=aHR0cHM6Ly90ZWFtcy5taWNy
+ b3NvZnQuY29tL2wvY2hhdC8wLzA_dXNlcnM9dXdlLndlY2tlbG1hbm5Ac3Z3ZXN0ZmFsZW4uZG
+ U=&p=m&i=NjczNzNjZmU5YWVhMjExYjQ0ZTdiZjY5&t=STZ6RmlZUTYrRU1yU25pUDVoVGdUTm
+ lidmlmMmM0OUJ1a3dSQ2ZaM2tHUT0=&h=1bd71011b154477abc60f8ae49d2f55e&s=AVNPUE
+ hUT0NFTkNSWVBUSVbBJy6JKoB9mxrJmF4UAiUoWSyzflZnETvGSHsrszjQfA>\n\nLeiter Ko
+ mmunikation\n\n\n\n\n\n________________________________\nVon: Simone Meise
+ r <simone.meiser@kissing-menden.com<mailto:simone.meiser@kissing-menden.co
+ m>>\nGesendet: Freitag\, 13. Februar 2026 08:54\nAn: SV Westfalen | Stefan
+  Ryschawy <stefan.ryschawy@svwestfalen.de<mailto:stefan.ryschawy@svwestfal
+ en.de>>\nCc: SV Westfalen | Uwe Weckelmann <uwe.weckelmann@svwestfalen.de<
+ mailto:uwe.weckelmann@svwestfalen.de>>\nBetreff: AW: Medaillen Swim Race D
+ ays\n\n\nGuten Morgen Herr Ryschawy\,\n\n\n\nvielen Dank für Ihre Nachric
+ ht.\n\n\n\nWie sich sicherlich vorstellen können\, bekommen wir sehr viel
+ e Anfragen bzgl. Sponsoring / Partnerschaft.  Daher hat unsere Geschäftsl
+ eitung bereits vor Jahren entschieden\, dass wir nicht als Sponsor oder ä
+ hnlich fungieren können – das würde am Ende zu viel werden.\n\n\n\nAbe
+ r vielleicht gibt es eine andere Möglichkeit den SV Westfalen zu unterst
+ ützen und daher würde ich mich freuen\, wenn Herr Weckelmann mit mir Kon
+ takt aufnimmt oder Sie mir seine Telefonnummer mitteilen\, sodass ich ihn 
+ telefonisch kontaktiere.\n\n\n\nViele Grüße\n\nSimone Meiser\n\n\n\n\n\n
+ Von: SV Westfalen | Stefan Ryschawy <stefan.ryschawy@svwestfalen.de<mailto
+ :stefan.ryschawy@svwestfalen.de>>\nGesendet: Freitag\, 13. Februar 2026 08
+ :42\nAn: Simone Meiser <simone.meiser@kissing-menden.com<mailto:simone.mei
+ ser@kissing-menden.com>>\nCc: SV Westfalen | Uwe Weckelmann <uwe.weckelman
+ n@svwestfalen.de<mailto:uwe.weckelmann@svwestfalen.de>>\nBetreff: Medaille
+ n Swim Race Days\n\n\n\nGuten Morgen Frau Meiser\, die Medaillen sind gest
+ ern angekommen. Vielen Dank! Dann noch eine Frage: Die Organisation und Du
+ rchführung der Race Days nimmt immer viel Zeit in Anspruch\, die seitens 
+ unser\n\nsophospsmartbannerend\n\nGuten Morgen Frau Meiser\,\n\n\n\ndie Me
+ daillen sind gestern angekommen. Vielen Dank!\n\n\n\nDann noch eine Frage:
+ \n\nDie Organisation und Durchführung der Race Days nimmt immer viel Zeit
+  in Anspruch\, die seitens unseres Organisationsteams ehrenamtlich erbrach
+ t wird. Hinzu kommt\, dass solch ein Schwimmevent viel Geld kostet. Angefa
+ ngen von der Badmiete über Medaillen und Prämien\, bis hin zur Verpflegu
+ ng unserer ehrenamtlichen Helfer und Kampfrichter. Dazu sind wir jedes Jah
+ r auf der Suche nach Partnern\, die uns unterstützen können und wollen. 
+ Die Fa. Kissing ist ja quasi schon ein Partner\, der uns seit vielen Jahre
+ n mit Medaillen versorgt. Könnten Sie sich vorstellen\, dass diese Partne
+ rschaft darüber hinaus geht? Ich würde mich sehr freuen\, wenn sich Herr
+  Uwe Weckelmann (im cc) mal bei Ihnen bezüglich eines Partnerangebots bei
+  Ihnen melden dürfte oder Sie sich mal bei ihm melden. Im Voraus besten D
+ ank.\n\n\n\nViele Grüße aus Dortmund\n\n\n\nStefan Ryschawy\n\nLeiter Or
+ ga-Team\n\nSwim Race Days Dortmund\n\n\n\n\n\n[https://www.svwestfalen.de/
+ _my_media/1/cms/SV-Westfalen/fav_icon-mail.jpg]SV Westfalen Dortmund von 1
+ 896 e.V.<https://eu-central-1.protection.sophos.com?d=svwestfalen.de&u=aHR
+ 0cHM6Ly9zdndlc3RmYWxlbi5kZQ==&p=m&i=NjczNzNjZmU5YWVhMjExYjQ0ZTdiZjY5&t=R2Z
+ nbjVweGJFcVZxVDV0cTk5U29jU3lZeWhoWk1NODBhakhLbndvTC9maz0=&h=2ea0955ab05c48
+ 748248cae3a4fcca16&s=AVNPUEhUT0NFTkNSWVBUSVYwkyJLExw24os11xEpWRnuoiYcd_lx8
+ BnFxmlBAu2ODA>\nFolgt uns auf Facebook<https://eu-central-1.protection.sop
+ hos.com?d=facebook.com&u=aHR0cHM6Ly93d3cuZmFjZWJvb2suY29tL1NWV2VzdGZhbGVu&
+ p=m&i=NjczNzNjZmU5YWVhMjExYjQ0ZTdiZjY5&t=S0ZFVFB0UUdBNVN1VkJCUFN4aXVEd2Fze
+ jlzQldZaDRQM1QvanV5Q3kvZz0=&h=2ea0955ab05c48748248cae3a4fcca16&s=AVNPUEhUT
+ 0NFTkNSWVBUSVYwkyJLExw24os11xEpWRnuoiYcd_lx8BnFxmlBAu2ODA>\, linkedin<http
+ s://eu-central-1.protection.sophos.com?d=linkedin.com&u=aHR0cHM6Ly93d3cubG
+ lua2VkaW4uY29tL2NvbXBhbnkvc3Ytd2VzdGZhbGVuLWRvcnRtdW5kLXZvbi0xODk2&p=m&i=N
+ jczNzNjZmU5YWVhMjExYjQ0ZTdiZjY5&t=eDdzN3pYZ0QvQkdZcVZZUTg0dmhGZmVsUDBRZDY4
+ b0VSR2Yrbk5pSWdMRT0=&h=2ea0955ab05c48748248cae3a4fcca16&s=AVNPUEhUT0NFTkNS
+ WVBUSVYwkyJLExw24os11xEpWRnuoiYcd_lx8BnFxmlBAu2ODA> und Instagramm<https:/
+ /eu-central-1.protection.sophos.com?d=instagram.com&u=aHR0cHM6Ly93d3cuaW5z
+ dGFncmFtLmNvbS9zdndlc3RmYWxlbi8=&p=m&i=NjczNzNjZmU5YWVhMjExYjQ0ZTdiZjY5&t=
+ SVdlcDFBdXlNcTZLT0F5WDZmV3JodzY4Q3dtdVdJcXUvQWw3Z3BOTGcwQT0=&h=2ea0955ab05
+ c48748248cae3a4fcca16&s=AVNPUEhUT0NFTkNSWVBUSVYwkyJLExw24os11xEpWRnuoiYcd_
+ lx8BnFxmlBAu2ODA>\nAmtsgericht Dortmund: VR 1556\nVorstand: Ümit Acar\, S
+ ebastian Greiffer\, Marianne Kleff\n\nWir sind Mitglied im CSR-Verein "Bew
+ usst-Wie e.V."\nLink zur Homepage<https://eu-central-1.protection.sophos.c
+ om?d=bewusst-wie-ev.de&u=aHR0cHM6Ly9iZXd1c3N0LXdpZS1ldi5kZQ==&p=m&i=NjczNz
+ NjZmU5YWVhMjExYjQ0ZTdiZjY5&t=Y0tNOTBmNUpOSzA3TUtQVW0xZWp2ank5NmZkQUVSdFhvc
+ TVHVTNPSG5zdz0=&h=2ea0955ab05c48748248cae3a4fcca16&s=AVNPUEhUT0NFTkNSWVBUS
+ VYwkyJLExw24os11xEpWRnuoiYcd_lx8BnFxmlBAu2ODA>\nLink zur Info-Broschüre <
+ https://eu-central-1.protection.sophos.com?d=bewusst-wie-ev.de&u=aHR0cHM6L
+ y9iZXd1c3N0LXdpZS1ldi5kZS93cC1jb250ZW50L3VwbG9hZHMvQmV3dXNzdHdpZS1Ccm9zY2h
+ 1zIhyZS0yMXgyMS0yMDIxMTIyMi1SWi1XZWItZWluemVsLnBkZg==&p=m&i=NjczNzNjZmU5YW
+ VhMjExYjQ0ZTdiZjY5&t=RWFkZ0Fvck5rczRrWXFqdlR1Y2NESStrNktIaUJ3YkxOZFFoUmhWW
+ ENJND0=&h=2ea0955ab05c48748248cae3a4fcca16&s=AVNPUEhUT0NFTkNSWVBUSVYwkyJLE
+ xw24os11xEpWRnuoiYcd_lx8BnFxmlBAu2ODA>\n[https://www.svwestfalen.de/_my_me
+ dia/1/cms/SV-Westfalen/fav_icon-mail.jpg]SV Westfalen Dortmund von 1896 e.
+ V.<https://eu-central-1.protection.sophos.com?d=svwestfalen.de&u=aHR0cHM6L
+ y9zdndlc3RmYWxlbi5kZQ==&p=m&i=NjczNzNjZmU5YWVhMjExYjQ0ZTdiZjY5&t=R2ZnbjVwe
+ GJFcVZxVDV0cTk5U29jU3lZeWhoWk1NODBhakhLbndvTC9maz0=&h=1bd71011b154477abc60
+ f8ae49d2f55e&s=AVNPUEhUT0NFTkNSWVBUSVbBJy6JKoB9mxrJmF4UAiUoWSyzflZnETvGSHs
+ rszjQfA>\nFolgt uns auf Facebook<https://eu-central-1.protection.sophos.co
+ m?d=facebook.com&u=aHR0cHM6Ly93d3cuZmFjZWJvb2suY29tL1NWV2VzdGZhbGVu&p=m&i=
+ NjczNzNjZmU5YWVhMjExYjQ0ZTdiZjY5&t=S0ZFVFB0UUdBNVN1VkJCUFN4aXVEd2FzejlzQld
+ ZaDRQM1QvanV5Q3kvZz0=&h=1bd71011b154477abc60f8ae49d2f55e&s=AVNPUEhUT0NFTkN
+ SWVBUSVbBJy6JKoB9mxrJmF4UAiUoWSyzflZnETvGSHsrszjQfA>\, LinkedIn<https://eu
+ -central-1.protection.sophos.com?d=linkedin.com&u=aHR0cHM6Ly93d3cubGlua2Vk
+ aW4uY29tL2NvbXBhbnkvc3Ytd2VzdGZhbGVuLWRvcnRtdW5kLXZvbi0xODk2&p=m&i=NjczNzN
+ jZmU5YWVhMjExYjQ0ZTdiZjY5&t=eDdzN3pYZ0QvQkdZcVZZUTg0dmhGZmVsUDBRZDY4b0VSR2
+ Yrbk5pSWdMRT0=&h=1bd71011b154477abc60f8ae49d2f55e&s=AVNPUEhUT0NFTkNSWVBUSV
+ bBJy6JKoB9mxrJmF4UAiUoWSyzflZnETvGSHsrszjQfA> und Instagram<https://eu-cen
+ tral-1.protection.sophos.com?d=instagram.com&u=aHR0cHM6Ly93d3cuaW5zdGFncmF
+ tLmNvbS9zdndlc3RmYWxlbi8=&p=m&i=NjczNzNjZmU5YWVhMjExYjQ0ZTdiZjY5&t=SVdlcDF
+ BdXlNcTZLT0F5WDZmV3JodzY4Q3dtdVdJcXUvQWw3Z3BOTGcwQT0=&h=1bd71011b154477abc
+ 60f8ae49d2f55e&s=AVNPUEhUT0NFTkNSWVBUSVbBJy6JKoB9mxrJmF4UAiUoWSyzflZnETvGS
+ HsrszjQfA>\nAmtsgericht Dortmund: VR 1556\nVorstand: Ümit Acar\, Sebastia
+ n Greiffer\, Marianne Kleff\n\nWir sind Mitglied im CSR-Verein "Bewusst-Wi
+ e e.V."\nLink zur Homepage<https://eu-central-1.protection.sophos.com?d=be
+ wusst-wie-ev.de&u=aHR0cHM6Ly9iZXd1c3N0LXdpZS1ldi5kZQ==&p=m&i=NjczNzNjZmU5Y
+ WVhMjExYjQ0ZTdiZjY5&t=Y0tNOTBmNUpOSzA3TUtQVW0xZWp2ank5NmZkQUVSdFhvcTVHVTNP
+ SG5zdz0=&h=1bd71011b154477abc60f8ae49d2f55e&s=AVNPUEhUT0NFTkNSWVBUSVbBJy6J
+ KoB9mxrJmF4UAiUoWSyzflZnETvGSHsrszjQfA>\nLink zur Info-Broschüre <https:/
+ /eu-central-1.protection.sophos.com?d=bewusst-wie-ev.de&u=aHR0cHM6Ly9iZXd1
+ c3N0LXdpZS1ldi5kZS93cC1jb250ZW50L3VwbG9hZHMvQmV3dXNzdHdpZS1Ccm9zY2h1zIhyZS
+ 0yMXgyMS0yMDIxMTIyMi1SWi1XZWItZWluemVsLnBkZg==&p=m&i=NjczNzNjZmU5YWVhMjExY
+ jQ0ZTdiZjY5&t=RWFkZ0Fvck5rczRrWXFqdlR1Y2NESStrNktIaUJ3YkxOZFFoUmhWWENJND0=
+ &h=1bd71011b154477abc60f8ae49d2f55e&s=AVNPUEhUT0NFTkNSWVBUSVbBJy6JKoB9mxrJ
+ mF4UAiUoWSyzflZnETvGSHsrszjQfA>\n
+UID:040000008200E00074C5B7101A82E008000000006F970AC5E3A0DC01000000000000000
+ 0100000001D3554D2FF0860489FD4883DD3CAAEBA
+SUMMARY:RE: Medaillen Swim Race Days
+DTSTART;TZID=Europe/Berlin:20260302T100000
+DTEND;TZID=Europe/Berlin:20260302T103000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20260218T150852Z
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+SEQUENCE:0
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
 X-MICROSOFT-CDO-IMPORTANCE:1
 X-MICROSOFT-CDO-INSTTYPE:0
 X-MICROSOFT-DONOTFORWARDMEETING:FALSE
@@ -392,7 +551,7 @@ DTSTART;TZID=Europe/Berlin:20260303T173000
 DTEND;TZID=Europe/Berlin:20260303T190000
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20260218T141352Z
+DTSTAMP:20260218T150852Z
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 SEQUENCE:0
@@ -417,7 +576,7 @@ DTSTART;TZID=Europe/Berlin:20260323T160000
 DTEND;TZID=Europe/Berlin:20260323T183000
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20260218T141352Z
+DTSTAMP:20260218T150852Z
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 SEQUENCE:0
@@ -444,7 +603,7 @@ DTSTART;TZID=Europe/Berlin:20260406T180000
 DTEND;TZID=Europe/Berlin:20260406T200000
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20260218T141352Z
+DTSTAMP:20260218T150852Z
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 SEQUENCE:0
@@ -468,7 +627,7 @@ DTSTART;TZID=Europe/Berlin:20260414T103000
 DTEND;TZID=Europe/Berlin:20260414T113000
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20260218T141352Z
+DTSTAMP:20260218T150852Z
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 SEQUENCE:0
