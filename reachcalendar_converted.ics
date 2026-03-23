@@ -30,7 +30,7 @@ DTSTART;VALUE=DATE:20260221
 DTEND;VALUE=DATE:20260301
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20260323T065508Z
+DTSTAMP:20260323T075323Z
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 SEQUENCE:0
@@ -71,7 +71,7 @@ DTSTART;TZID=Europe/Berlin:20260226T133000
 DTEND;TZID=Europe/Berlin:20260226T140000
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20260323T065508Z
+DTSTAMP:20260323T075323Z
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 SEQUENCE:0
@@ -231,7 +231,7 @@ DTSTART;TZID=Europe/Berlin:20260302T100000
 DTEND;TZID=Europe/Berlin:20260302T103000
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20260323T065508Z
+DTSTAMP:20260323T075323Z
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 SEQUENCE:0
@@ -256,7 +256,7 @@ DTSTART;TZID=Europe/Berlin:20260303T173000
 DTEND;TZID=Europe/Berlin:20260303T190000
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20260323T065508Z
+DTSTAMP:20260323T075323Z
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 SEQUENCE:0
@@ -280,7 +280,7 @@ DTSTART;TZID=Europe/Berlin:20260304T183000
 DTEND;TZID=Europe/Berlin:20260304T193000
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20260323T065508Z
+DTSTAMP:20260323T075323Z
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 SEQUENCE:0
@@ -319,7 +319,7 @@ DTSTART;TZID=Europe/Berlin:20260310T100000
 DTEND;TZID=Europe/Berlin:20260310T103000
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20260323T065508Z
+DTSTAMP:20260323T075323Z
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 SEQUENCE:0
@@ -357,7 +357,7 @@ DTSTART;TZID=Europe/Berlin:20260310T123000
 DTEND;TZID=Europe/Berlin:20260310T130000
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20260323T065508Z
+DTSTAMP:20260323T075323Z
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 SEQUENCE:0
@@ -395,7 +395,7 @@ DTSTART;TZID=Europe/Berlin:20260310T140000
 DTEND;TZID=Europe/Berlin:20260310T143000
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20260323T065508Z
+DTSTAMP:20260323T075323Z
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 SEQUENCE:0
@@ -491,7 +491,7 @@ DTSTART;TZID=Europe/Berlin:20260313T120000
 DTEND;TZID=Europe/Berlin:20260313T133000
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20260323T065508Z
+DTSTAMP:20260323T075323Z
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 SEQUENCE:0
@@ -525,7 +525,7 @@ DTSTART;TZID=Europe/Berlin:20260318T190000
 DTEND;TZID=Europe/Berlin:20260318T203000
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20260323T065508Z
+DTSTAMP:20260323T075323Z
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 SEQUENCE:0
@@ -563,7 +563,7 @@ DTSTART;TZID=Europe/Berlin:20260320T141500
 DTEND;TZID=Europe/Berlin:20260320T144500
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20260323T065508Z
+DTSTAMP:20260323T075323Z
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 SEQUENCE:0
@@ -588,7 +588,7 @@ DTSTART;TZID=Europe/Berlin:20260323T160000
 DTEND;TZID=Europe/Berlin:20260323T183000
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20260323T065508Z
+DTSTAMP:20260323T075323Z
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 SEQUENCE:0
@@ -616,7 +616,7 @@ DTSTART;TZID=Europe/Berlin:20260324T160000
 DTEND;TZID=Europe/Berlin:20260324T183000
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20260323T065508Z
+DTSTAMP:20260323T075323Z
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 SEQUENCE:0
@@ -643,7 +643,7 @@ DTSTART;TZID=Europe/Berlin:20260406T180000
 DTEND;TZID=Europe/Berlin:20260406T200000
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20260323T065508Z
+DTSTAMP:20260323T075323Z
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 SEQUENCE:0
@@ -667,11 +667,128 @@ DTSTART;TZID=Europe/Berlin:20260414T103000
 DTEND;TZID=Europe/Berlin:20260414T113000
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20260323T065508Z
+DTSTAMP:20260323T075323Z
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 SEQUENCE:0
 LOCATION:Ruhrallee 30\, \, 44139 Dortmund Nordrhein-Westfalen\, Deutschland
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:\n________________________________\nFrom: Dittmann\, Ute <Ute.D
+ ittmann@lsb.nrw>\nSent: Monday\, March 23\, 2026 7:33:06 AM\nTo: Dittmann\
+ , Ute <Ute.Dittmann@lsb.nrw>\nCc: Hebben\, Dennis <Dennis.Hebben@lsb.nrw>\
+ ; Popova\, Alber <Alber.Popova@lsb.nrw>\; Kuhnt\, Carina <Carina.Kuhnt@lsb
+ .nrw>\; Mertens\, Lea <Lea.Mertens@lsb.nrw>\; Gärtner\, Simone <Simone.Ga
+ ertner@lsb.nrw>\; Krüger\, Juliane <Juliane.Krueger@lsb.nrw>\nSubject: Ei
+ nladung zum Zukunfts-Café am 21.04.2026 - Vereinsarbeit neu gedacht - wie
+  ein Förderverein Sport\, Bildung und Integration vereint\n\n\n\n\n[cid:i
+ mage001.png@01DA97D1.47464EC0]\n\n\n\nLiebe Kolleg*innen und Zukunftsgesta
+ lter*innen\,\n\n\n\nWir laden Euch herzlich ein zu unserem nächsten Zukun
+ fts-Café am Dienstag\, 21. April 2026 von 18 – 19 Uhr\n\n\n\nVereinsarb
+ eit neu gedacht - wie ein Förderverein Sport\, Bildung und Integration ve
+ reint\n\n\n\nWie kann ein Verein weit mehr sein als ein Ort für Sport? Wi
+ e gelingt echte Unterstützung für Kinder und Jugendliche – im Quartier
+ \, im Alltag\, im Leben?\n\nIm digitalen Austausch zeigt Daniel Kirchkessl
+ er vom Förderverein des VfB Fichte Bielefeld e. V.\, wie aus einer starke
+ n Idee ein wirkungsvolles Projekt wurde: Sport\, Bildung\, Integration.\n\
+ n\n\nIn diesem kompakten Praxisimpuls erfahrt Ihr\, warum das Projekt ents
+ tanden ist und wie es den Alltag vieler Kinder verändert\, welche entsche
+ idende Rolle der Förderverein dabei spielt\,\n\nund wie andere Vereine mi
+ t überschaubaren Mitteln selbst aktiv werden können.\n\n\n\nAnschließen
+ d laden wir zum offenen Austausch ein: Welche Bedarfe seht Ihr vor Ort? Wi
+ e kann ein Förderverein Euere Arbeit stärken?\n\nUnd welche ersten Schri
+ tte lassen sich unkompliziert umsetzen?\n\nEin Thema für alle Vereine\, E
+ ngagierten und Interessierten\, die Vereinsarbeit neu denken wollen – pr
+ axisnah\, inspirierend und direkt übertragbar.\n\n\n\nBitte leitet diese 
+ Einladung gerne an Eure Vereine weiter und natürlich auch an interessiert
+ e Kolleg*innen aus Euren Bünden und Verbänden.\n\n\n\nIn der letzten Aus
+ gabe des Zukunfts-Cafés im Januar mit dem Titel „MännerSache" – Raum
+  für mentale Stärkung im Sportverein“\n\nhat Nico Zickel\, TV Lemgo\, 
+ von seinem Projekt berichtet und was ein Verein für die mentale Stärke u
+ nd emotionale Balance\n\nseiner Männer in der Lebensphase zwischen 35 und
+  55 Jahren tun konnte.\n\n\n\nWenn Ihr dabei wart und gerne die Präsentat
+ ion haben möchtet oder den Termin verpasst habt und mehr darüber wissen 
+ wollt\,\n\nso sprecht mich einfach an.\n\nHier dem nächsten Zoom-Meeting 
+ beitreten\nhttps://lsb-nrw.zoom.us/j/81694675680?pwd=7F2uImmxvfYNo6JO9ix6C
+ ObbrInSuh.1\n\nMeeting-ID: 816 9467 5680\nKenncode: 218784\n\nEuer Team Sp
+ ortentwicklung\n\n\n\nMit freundlichen Grüßen\n\nim Auftrag\n\n\n\nUte D
+ ittmann\n\nAssistentin\n\nTeam Sportentwicklung\n\n\n\nTel. 0203 7381-870\
+ n\nFax 0203 7381-3870\nE-Mail: Ute.Dittmann@lsb.nrw<mailto:Ute.Dittmann@ls
+ b.nrw>\n\n\n\n________________________________\n\nLandessportbund Nordrhei
+ n-Westfalen e.V.\nFriedrich-Alfred-Allee 25\n47055 Duisburg\nTel. 0203 738
+ 1-0\n\nInfo@lsb.nrw<mailto:Info@lsb.nrw>\nwww.lsb.nrw<http://www.lsb.nrw>\
+ n\nFolgen Sie uns in den sozialen Medien\nFacebook<https://www.facebook.co
+ m/lsbnrw/> Instagram<https://www.instagram.com/landessportbund_nrw/> X (Tw
+ itter)<https://twitter.com/lsb_nrw> YouTube<https://www.youtube.com/user/L
+ andessportbund/> WhatsApp<https://www.lsb.nrw/medien/whatsapp>\n\nNewslett
+ er abonnieren<https://ef1254ec.sibforms.com/serve/MUIEAKMqkqiQWkDC2L4LkGj6
+ arQASAzd4ZH24SDSjGnj5iRy5dT0dbrYNB-_8j9S6dFMCyo71DNLM-z-kKk2sXQoDe1wvuxe-K
+ QhgegEg70L8xWYMgfF_uphD6w6scF4-J0I1qIcs_nGrwUgJw482eSOepyvBcu4Oy-ajjpBdFw3
+ wflsaPE8Pd6wOjqBsc6FNVLo5-tAleOm_pLT>\n\nVereinsregister Duisburg\, 12 84 
+ VR DU\n\nDie Information in dieser E-Mail ist vertraulich und kann dem Ber
+ ufsgeheimnis unterliegen. Sie ist ausschließlich für den Adressaten best
+ immt. Jeglicher Zugriff auf die E-Mail durch andere Personen als den Adres
+ saten ist untersagt. Sollten Sie nicht der für diese E-Mail bestimmte Adr
+ essat sein\, ist Ihnen jede Veröffentlichung\, Vervielfältigung oder Wei
+ tergabe wie auch das Ergreifen oder Unterlassen von Maßnahmen im Vertraue
+ n auf erlangte Information untersagt. In dieser E-Mail enthaltene Meinunge
+ n oder Empfehlungen unterliegen den Bedingungen des jeweiligen Geschäftsv
+ erhältnisses mit dem Adressaten.\n\n________________________________\n\nL
+ andessportbund Nordrhein-Westfalen e.V.\nFriedrich-Alfred-Allee 25\n47055 
+ Duisburg\nTel. 0203 7381-0\n\nInfo@lsb.nrw\nwww.lsb.nrw\n\nFolgen Sie uns 
+ in den sozialen Medien\nFacebook<https://www.facebook.com/lsbnrw/> Instagr
+ am<https://www.instagram.com/landessportbund_nrw/> X (Twitter)<https://twi
+ tter.com/lsb_nrw> YouTube<https://www.youtube.com/user/Landessportbund/> W
+ hatsApp<https://www.lsb.nrw/medien/whatsapp>\n\nNewsletter abonnieren<http
+ s://ef1254ec.sibforms.com/serve/MUIEAKMqkqiQWkDC2L4LkGj6arQASAzd4ZH24SDSjG
+ nj5iRy5dT0dbrYNB-_8j9S6dFMCyo71DNLM-z-kKk2sXQoDe1wvuxe-KQhgegEg70L8xWYMgfF
+ _uphD6w6scF4-J0I1qIcs_nGrwUgJw482eSOepyvBcu4Oy-ajjpBdFw3wflsaPE8Pd6wOjqBsc
+ 6FNVLo5-tAleOm_pLT>\n\nVereinsregister Duisburg\, 12 84 VR DU\n\nDie Infor
+ mation in dieser E-Mail ist vertraulich und kann dem Berufsgeheimnis unter
+ liegen. Sie ist ausschließlich für den Adressaten bestimmt. Jeglicher Zu
+ griff auf die E-Mail durch andere Personen als den Adressaten ist untersag
+ t. Sollten Sie nicht der für diese E-Mail bestimmte Adressat sein\, ist I
+ hnen jede Veröffentlichung\, Vervielfältigung oder Weitergabe wie auch d
+ as Ergreifen oder Unterlassen von Maßnahmen im Vertrauen auf erlangte Inf
+ ormation untersagt. In dieser E-Mail enthaltene Meinungen oder Empfehlunge
+ n unterliegen den Bedingungen des jeweiligen Geschäftsverhältnisses mit 
+ dem Adressaten.\n\n_______________________________________________________
+ _________________________\nMicrosoft Teams-Besprechung\nTeilnehmen: https:
+ //teams.microsoft.com/meet/37001786881919?p=9uiPUQb4vHAXbbdfVf\nBesprechun
+ gs-ID: 370 017 868 819 19\nPasscode: x23Xq3Hc\n___________________________
+ _____\nBenötigen Sie Hilfe?<https://aka.ms/JoinTeamsMeeting?omkt=de-DE> |
+  Systemreferenz<https://teams.microsoft.com/l/meetup-join/19%3ameeting_YTE
+ 1NjU1MjUtOWM4ZC00NjM0LThjYTMtM2UwYTFkNmJkNGMy%40thread.v2/0?context=%7b%22
+ Tid%22%3a%228df41939-6fb5-4ca6-8cc0-282bca7a6513%22%2c%22Oid%22%3a%22c32fe
+ 968-a918-4482-a59d-01d9187bcd5f%22%7d>\nFür Organisatoren: Besprechungsop
+ tionen<https://teams.microsoft.com/meetingOptions/?organizerId=c32fe968-a9
+ 18-4482-a59d-01d9187bcd5f&tenantId=8df41939-6fb5-4ca6-8cc0-282bca7a6513&th
+ readId=19_meeting_YTE1NjU1MjUtOWM4ZC00NjM0LThjYTMtM2UwYTFkNmJkNGMy@thread.
+ v2&messageId=0&language=de-DE>\n__________________________________________
+ ______________________________________\n
+UID:040000008200E00074C5B7101A82E00800000000DF4E18E297BADC01000000000000000
+ 01000000044F7A450AF6C504993BFB0226B6BBBE2
+SUMMARY:RE:  Einladung zum  Zukunfts-Café am 21.04.2026 - Vereinsarbeit ne
+ u gedacht - wie ein Förderverein Sport\, Bildung und Integration vereint
+DTSTART;TZID=Europe/Berlin:20260421T180000
+DTEND;TZID=Europe/Berlin:20260421T190000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20260323T075323Z
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+SEQUENCE:0
+LOCATION:Microsoft Teams-Besprechung
 X-MICROSOFT-CDO-APPT-SEQUENCE:0
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
