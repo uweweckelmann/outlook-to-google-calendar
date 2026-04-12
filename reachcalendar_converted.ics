@@ -101,7 +101,7 @@ DTSTART;TZID=Europe/Berlin:20260313T120000
 DTEND;TZID=Europe/Berlin:20260313T133000
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20260412T175610Z
+DTSTAMP:20260412T183325Z
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 SEQUENCE:0
@@ -135,7 +135,7 @@ DTSTART;TZID=Europe/Berlin:20260318T190000
 DTEND;TZID=Europe/Berlin:20260318T203000
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20260412T175610Z
+DTSTAMP:20260412T183325Z
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 SEQUENCE:0
@@ -176,7 +176,7 @@ DTSTART;TZID=Europe/Berlin:20260319T133000
 DTEND;TZID=Europe/Berlin:20260319T140000
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20260412T175610Z
+DTSTAMP:20260412T183325Z
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 SEQUENCE:0
@@ -214,7 +214,7 @@ DTSTART;TZID=Europe/Berlin:20260320T141500
 DTEND;TZID=Europe/Berlin:20260320T144500
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20260412T175610Z
+DTSTAMP:20260412T183325Z
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 SEQUENCE:0
@@ -239,7 +239,7 @@ DTSTART;TZID=Europe/Berlin:20260323T160000
 DTEND;TZID=Europe/Berlin:20260323T183000
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20260412T175610Z
+DTSTAMP:20260412T183325Z
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 SEQUENCE:0
@@ -267,7 +267,7 @@ DTSTART;TZID=Europe/Berlin:20260324T160000
 DTEND;TZID=Europe/Berlin:20260324T183000
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20260412T175610Z
+DTSTAMP:20260412T183325Z
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 SEQUENCE:0
@@ -314,7 +314,7 @@ DTSTART;TZID=Europe/Berlin:20260331T093000
 DTEND;TZID=Europe/Berlin:20260331T113000
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20260412T175610Z
+DTSTAMP:20260412T183325Z
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 SEQUENCE:0
@@ -359,7 +359,7 @@ DTSTART;TZID=Europe/Berlin:20260401T130000
 DTEND;TZID=Europe/Berlin:20260401T150000
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20260412T175610Z
+DTSTAMP:20260412T183325Z
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 SEQUENCE:0
@@ -386,7 +386,7 @@ DTSTART;TZID=Europe/Berlin:20260406T180000
 DTEND;TZID=Europe/Berlin:20260406T200000
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20260412T175610Z
+DTSTAMP:20260412T183325Z
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 SEQUENCE:0
@@ -410,7 +410,7 @@ DTSTART;TZID=Europe/Berlin:20260414T103000
 DTEND;TZID=Europe/Berlin:20260414T113000
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20260412T175610Z
+DTSTAMP:20260412T183325Z
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 SEQUENCE:0
@@ -435,7 +435,7 @@ DTSTART;TZID=Europe/Berlin:20260415T180500
 DTEND;TZID=Europe/Berlin:20260415T230000
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20260412T175610Z
+DTSTAMP:20260412T183325Z
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 SEQUENCE:0
@@ -552,7 +552,7 @@ DTSTART;TZID=Europe/Berlin:20260421T180000
 DTEND;TZID=Europe/Berlin:20260421T190000
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20260412T175610Z
+DTSTAMP:20260412T183325Z
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 SEQUENCE:0
@@ -577,7 +577,7 @@ DTSTART;TZID=Europe/Berlin:20260422T173000
 DTEND;TZID=Europe/Berlin:20260422T190000
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20260412T175610Z
+DTSTAMP:20260412T183325Z
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 SEQUENCE:0
@@ -600,82 +600,81 @@ DESCRIPTION:BEWUSST WIE e.V.: Geschlossener Workshop zum Thema "Stärkung d
  daten für unser Zoom-Meeting:https://us02web.zoom.us/j/87183200997?pwd=dz
  JaK0JDSWswcFlPTUMvU0QyZmp1QT09Meeting-ID: 871 8320 0997Kenncode: 409010Age
  nda:Kurze VorstellungsrundeNews von F\n\nThis event has been updated\nChan
- ged: time\n\n\nHier die Zugangsdaten für unser Zoom-Meeting:\n\nhttps://u
- s02web.zoom.us/j/87183200997?pwd=dzJaK0JDSWswcFlPTUMvU0QyZmp1QT09<https://
- www.google.com/url?q=https%3A%2F%2Fus02web.zoom.us%2Fj%2F87183200997%3Fpwd
- %3DdzJaK0JDSWswcFlPTUMvU0QyZmp1QT09&sa=D&source=calendar&ust=1775553000000
- 000&usg=AOvVaw1b-AN2yL5ZBQaFc-JjNQpu>\nMeeting-ID: 871 8320 0997\nKenncode
- : 409010\n\nAgenda:\n\n  *   Kurze Vorstellungsrunde\n  *   News von Folke
-  Wölfer (u.a. Projekt der Stadt Dortmund "Sport-Tech-City DO")\n  *   Bes
- prechung der weiteren Vorgehensweise:\n     *   Einladung weiterer Sportve
- rbände und Sportvereine\n     *   Planung und Durchführung von Workshops
-  im Ruhrgebiet zum Thema (max. 15 Teilnehmer\; Locations = Clubhäuser\, S
- KOOPE.NET<https://www.google.com/url?q=http%3A%2F%2FSKOOPE.NET&sa=D&source
- =calendar&ust=1775553000000000&usg=AOvVaw3I5ovrt65k8W91-15uDbmp> Meeting P
- oints\, etc.)\n     *   Synergien inkl. gegenseitigem Unterstützungspoten
- tial zwischen Verbänden und Vereinen (z.B. thematische Vereinspartnerscha
- ften\, etc.)\n     *   sinnvolle Kooperationen mit Organisationen aus Wirt
- schaft\, Wissenschaft und Gesellschaft\n  *   Verschiedenes\n\nTeilnehmer 
- (Anmeldungen: Stand 02. April 2026):\n\n  *   Stefan Geister (Vereinity e.
- V. / L'ORÉAL Deutschland GmbH)\n  *   Hauke Kessler (Vereinity e.V. / TC-
- Rot-Weiss Fröndenberg e.V. 1946)\n  *   Torsten Vogel (Westfälischer Ten
- nis-Verband e.V.)\n  *   Uwe Weckelmann (SV Westfalen Dortmund von 1896 e.
- V. / BEWUSST WIE e.V.)\n  *   Folke Wölfer (KTDM Development Group / SKOO
- PE.NET<https://www.google.com/url?q=http%3A%2F%2FSKOOPE.NET&sa=D&source=ca
- lendar&ust=1775553000000000&usg=AOvVaw3I5ovrt65k8W91-15uDbmp> / BEWUSST WI
- E e.V.)\n\nAngefragt (persönliche Kontakte von Folke Wölfer):\n\n  *   O
- laf Kirchner (Tennisclub Eintracht Dortmund e. V.)\n  *   Jörg Bähren\, 
- Uwe J. Plonka und Martin Wasielewski (alle Phoenix Hagen e.V.)\n  *   Cars
- ten Oberhagemann (Deutschland-Achter GmbH)\n  *   Leonie Hauptvogel (VfL B
- ochum 1848 GmbH & Co. KGaA)\n\nHeute verhindert:\n\n  *   Matthias Mühlen
-  (VfL Bochum 1848 GmbH & Co. KGaA)\n  *   Dr. Herma Portsteffen (BEWUSST W
- IE e.V.)\n\nErst einmal nicht aktiv dabei\, aber im Info-Verteiler:\n\n  *
-    Marieke Philippi und Amelie Gorden (beide Borussia Dortmund GmbH & Co. 
- KGaA)\n  *   Dr. Alexander Kiel (Turn- und Sport-Club Eintracht von 1848/9
- 5\nKorporation zu Dortmund)\n\nWhen\nCHANGED\nFreitag 24. Apr. 2026 ⋅ 12
- :00 – 13:00 (Mitteleuropäische Zeit - Berlin)\nOld: Freitag 24. Apr. 20
- 26 ⋅ 12:00 – 13:30 (Mitteleuropäische Zeit - Berlin)\nLocation\nhttps
- ://us02web.zoom.us/j/87183200997?pwd=dzJaK0JDSWswcFlPTUMvU0QyZmp1QT09\nVie
- w map<https://www.google.com/url?q=https%3A%2F%2Fus02web.zoom.us%2Fj%2F871
- 83200997%3Fpwd%3DdzJaK0JDSWswcFlPTUMvU0QyZmp1QT09&sa=D&source=calendar&ust
- =1775553000000000&usg=AOvVaw1b-AN2yL5ZBQaFc-JjNQpu>\nGuests\nfolke.woelfer
- @ktdm-group.com<mailto:folke.woelfer@ktdm-group.com>\ngrotenrath@bewusst-w
- ie-ev.de<mailto:grotenrath@bewusst-wie-ev.de>\nkessler.hauke@web.de<mailto
- :kessler.hauke@web.de>\nlachmann@bewusst-wie-ev.de<mailto:lachmann@bewusst
- -wie-ev.de>\nstefan@vereinity.de<mailto:stefan@vereinity.de>\ntvogel@wtv.d
- e<mailto:tvogel@wtv.de>\nuwe.weckelmann@svwestfalen.de<mailto:uwe.weckelma
- nn@svwestfalen.de>\nView all guest info<https://calendar.google.com/calend
- ar/event?action=VIEW&eid=MzVwMjhiNmxoMzVtb2J2aGN0dW01cGRibmogdXdlLndlY2tlb
- G1hbm5Ac3Z3ZXN0ZmFsZW4uZGU&tok=OTAjZjc4MmFhOTc2ZDNiMmEyOWYzZDcxNzRiMzg1ZTA
- yOTA1ZDNiNmUzNDk4NGNiMmZlOTRjMzZkNjQ0NzA1MDcxMEBncm91cC5jYWxlbmRhci5nb29nb
- GUuY29tNWYyMzg0NzcyY2FiNjZkNjc4NWVlZmVmZTg2NTE2ZGRkYzI4YmMzNA&ctz=Europe%2
- FBerlin&hl=en&es=0>\nReply for uwe.weckelmann@svwestfalen.de<mailto:uwe.we
- ckelmann@svwestfalen.de>\n<https://calendar.google.com/calendar/event?acti
- on=RESPOND&eid=MzVwMjhiNmxoMzVtb2J2aGN0dW01cGRibmogdXdlLndlY2tlbG1hbm5Ac3Z
- 3ZXN0ZmFsZW4uZGU&rst=1&tok=OTAjZjc4MmFhOTc2ZDNiMmEyOWYzZDcxNzRiMzg1ZTAyOTA
- 1ZDNiNmUzNDk4NGNiMmZlOTRjMzZkNjQ0NzA1MDcxMEBncm91cC5jYWxlbmRhci5nb29nbGUuY
- 29tNWYyMzg0NzcyY2FiNjZkNjc4NWVlZmVmZTg2NTE2ZGRkYzI4YmMzNA&ctz=Europe%2FBer
- lin&hl=en&es=0>\nYes\n<https://calendar.google.com/calendar/event?action=R
- ESPOND&eid=MzVwMjhiNmxoMzVtb2J2aGN0dW01cGRibmogdXdlLndlY2tlbG1hbm5Ac3Z3ZXN
- 0ZmFsZW4uZGU&rst=2&tok=OTAjZjc4MmFhOTc2ZDNiMmEyOWYzZDcxNzRiMzg1ZTAyOTA1ZDN
- iNmUzNDk4NGNiMmZlOTRjMzZkNjQ0NzA1MDcxMEBncm91cC5jYWxlbmRhci5nb29nbGUuY29tN
- WYyMzg0NzcyY2FiNjZkNjc4NWVlZmVmZTg2NTE2ZGRkYzI4YmMzNA&ctz=Europe%2FBerlin&
- hl=en&es=0>\nNo\n<https://calendar.google.com/calendar/event?action=RESPON
- D&eid=MzVwMjhiNmxoMzVtb2J2aGN0dW01cGRibmogdXdlLndlY2tlbG1hbm5Ac3Z3ZXN0ZmFs
- ZW4uZGU&rst=3&tok=OTAjZjc4MmFhOTc2ZDNiMmEyOWYzZDcxNzRiMzg1ZTAyOTA1ZDNiNmUz
- NDk4NGNiMmZlOTRjMzZkNjQ0NzA1MDcxMEBncm91cC5jYWxlbmRhci5nb29nbGUuY29tNWYyMz
- g0NzcyY2FiNjZkNjc4NWVlZmVmZTg2NTE2ZGRkYzI4YmMzNA&ctz=Europe%2FBerlin&hl=en
- &es=0>\nMaybe\n<https://calendar.google.com/calendar/event?action=VIEW&eid
- =MzVwMjhiNmxoMzVtb2J2aGN0dW01cGRibmogdXdlLndlY2tlbG1hbm5Ac3Z3ZXN0ZmFsZW4uZ
- GU&tok=OTAjZjc4MmFhOTc2ZDNiMmEyOWYzZDcxNzRiMzg1ZTAyOTA1ZDNiNmUzNDk4NGNiMmZ
- lOTRjMzZkNjQ0NzA1MDcxMEBncm91cC5jYWxlbmRhci5nb29nbGUuY29tNWYyMzg0NzcyY2FiN
- jZkNjc4NWVlZmVmZTg2NTE2ZGRkYzI4YmMzNA&ctz=Europe%2FBerlin&hl=en&es=0>\nMor
- e options\n\nInvitation from Google Calendar<https://calendar.google.com/c
- alendar/>\n\nYou are receiving this email because you are an attendee on t
- he event.\n\nForwarding this invitation could allow any recipient to send 
- a response to the organizer\, be added to the guest list\, invite others r
- egardless of their own invitation status\, or modify your RSVP. Learn more
- <https://support.google.com/calendar/answer/37135#forwarding>\n
+ ged: description\n\nDescription\nCHANGED\n\nHier die Zugangsdaten für uns
+ er Zoom-Meeting:\n\nhttps://us02web.zoom.us/j/87183200997?pwd=dzJaK0JDSWsw
+ cFlPTUMvU0QyZmp1QT09<https://www.google.com/url?q=https%3A%2F%2Fus02web.zo
+ om.us%2Fj%2F87183200997%3Fpwd%3DdzJaK0JDSWswcFlPTUMvU0QyZmp1QT09&sa=D&sour
+ ce=calendar&ust=1776449520000000&usg=AOvVaw14tzH97WsfjYZEYCAxt9Q7>\nMeetin
+ g-ID: 871 8320 0997\nKenncode: 409010\n\nAgenda:\n\n  *   Kurze Vorstellun
+ gsrunde\n  *   News von Folke Wölfer (u.a. Projekt der Stadt Dortmund "Sp
+ ort-Tech-City DO")\n  *   Besprechung der weiteren Vorgehensweise:\n     *
+    Einladung weiterer Sportverbände und Sportvereine\n     *   Planung un
+ d Durchführung von Workshops im Ruhrgebiet zum Thema (max. 15 Teilnehmer\
+ ; Locations = Clubhäuser\, SKOOPE.NET<https://www.google.com/url?q=http%3
+ A%2F%2FSKOOPE.NET&sa=D&source=calendar&ust=1776449520000000&usg=AOvVaw1lka
+ N1sujJwQq24cneXIG1> Meeting Points\, etc.)\n     *   Synergien inkl. gegen
+ seitigem Unterstützungspotential zwischen Verbänden und Vereinen (z.B. t
+ hematische Vereinspartnerschaften\, etc.)\n     *   sinnvolle Kooperatione
+ n mit Organisationen aus Wirtschaft\, Wissenschaft und Gesellschaft\n  *  
+  Verschiedenes\n\nTeilnehmer (Anmeldungen: Stand 02. April 2026):\n\n  *  
+  Stefan Geister (Vereinity e.V. / L'ORÉAL Deutschland GmbH)\n  *   Hauke 
+ Kessler (Vereinity e.V. / TC-Rot-Weiss Fröndenberg e.V. 1946)\n  *   Tors
+ ten Vogel (Westfälischer Tennis-Verband e.V.)\n  *   Uwe Weckelmann (SV W
+ estfalen Dortmund von 1896 e.V. / BEWUSST WIE e.V.)\n  *   Folke Wölfer (
+ KTDM Development Group / SKOOPE.NET<https://www.google.com/url?q=http%3A%2
+ F%2FSKOOPE.NET&sa=D&source=calendar&ust=1776449520000000&usg=AOvVaw1lkaN1s
+ ujJwQq24cneXIG1> / BEWUSST WIE e.V.)\n\nAngefragt (persönliche Kontakte v
+ on Folke Wölfer):\n\n  *   Olaf Kirchner (Tennisclub Eintracht Dortmund e
+ . V.)\n  *   Jörg Bähren\, Uwe J. Plonka und Martin Wasielewski (alle Ph
+ oenix Hagen e.V.)\n  *   Carsten Oberhagemann (Deutschland-Achter GmbH)\n\
+ nHeute leider verhindert:\n\n  *   Matthias Mühlen und Leonie Hauptvogel 
+ (VfL Bochum 1848 GmbH & Co. KGaA)\n  *   Dr. Herma Portsteffen (BEWUSST WI
+ E e.V.)\n\nErst einmal nicht aktiv dabei\, aber im Info-Verteiler:\n\n  * 
+   Marieke Philippi und Amelie Gorden (beide Borussia Dortmund GmbH & Co. K
+ GaA)\n  *   Dr. Alexander Kiel (Turn- und Sport-Club Eintracht von 1848/95
+ \nKorporation zu Dortmund)\n\nWhen\nFreitag 24. Apr. 2026 ⋅ 12:00 – 13
+ :00 (Mitteleuropäische Zeit - Berlin)\nLocation\nhttps://us02web.zoom.us/
+ j/87183200997?pwd=dzJaK0JDSWswcFlPTUMvU0QyZmp1QT09\nView map<https://www.g
+ oogle.com/url?q=https%3A%2F%2Fus02web.zoom.us%2Fj%2F87183200997%3Fpwd%3Ddz
+ JaK0JDSWswcFlPTUMvU0QyZmp1QT09&sa=D&source=calendar&ust=1776449520000000&u
+ sg=AOvVaw14tzH97WsfjYZEYCAxt9Q7>\nGuests\nfolke.woelfer@ktdm-group.com<mai
+ lto:folke.woelfer@ktdm-group.com>\ngrotenrath@bewusst-wie-ev.de<mailto:gro
+ tenrath@bewusst-wie-ev.de>\nkessler.hauke@web.de<mailto:kessler.hauke@web.
+ de>\nlachmann@bewusst-wie-ev.de<mailto:lachmann@bewusst-wie-ev.de>\nstefan
+ @vereinity.de<mailto:stefan@vereinity.de>\ntvogel@wtv.de<mailto:tvogel@wtv
+ .de>\nuwe.weckelmann@svwestfalen.de<mailto:uwe.weckelmann@svwestfalen.de>\
+ nView all guest info<https://calendar.google.com/calendar/event?action=VIE
+ W&eid=MzVwMjhiNmxoMzVtb2J2aGN0dW01cGRibmogdXdlLndlY2tlbG1hbm5Ac3Z3ZXN0ZmFs
+ ZW4uZGU&tok=OTAjZjc4MmFhOTc2ZDNiMmEyOWYzZDcxNzRiMzg1ZTAyOTA1ZDNiNmUzNDk4NG
+ NiMmZlOTRjMzZkNjQ0NzA1MDcxMEBncm91cC5jYWxlbmRhci5nb29nbGUuY29tNWYyMzg0Nzcy
+ Y2FiNjZkNjc4NWVlZmVmZTg2NTE2ZGRkYzI4YmMzNA&ctz=Europe%2FBerlin&hl=en&es=0>
+ \nReply for uwe.weckelmann@svwestfalen.de<mailto:uwe.weckelmann@svwestfale
+ n.de>\n<https://calendar.google.com/calendar/event?action=RESPOND&eid=MzVw
+ MjhiNmxoMzVtb2J2aGN0dW01cGRibmogdXdlLndlY2tlbG1hbm5Ac3Z3ZXN0ZmFsZW4uZGU&rs
+ t=1&tok=OTAjZjc4MmFhOTc2ZDNiMmEyOWYzZDcxNzRiMzg1ZTAyOTA1ZDNiNmUzNDk4NGNiMm
+ ZlOTRjMzZkNjQ0NzA1MDcxMEBncm91cC5jYWxlbmRhci5nb29nbGUuY29tNWYyMzg0NzcyY2Fi
+ NjZkNjc4NWVlZmVmZTg2NTE2ZGRkYzI4YmMzNA&ctz=Europe%2FBerlin&hl=en&es=0>\nYe
+ s\n<https://calendar.google.com/calendar/event?action=RESPOND&eid=MzVwMjhi
+ NmxoMzVtb2J2aGN0dW01cGRibmogdXdlLndlY2tlbG1hbm5Ac3Z3ZXN0ZmFsZW4uZGU&rst=2&
+ tok=OTAjZjc4MmFhOTc2ZDNiMmEyOWYzZDcxNzRiMzg1ZTAyOTA1ZDNiNmUzNDk4NGNiMmZlOT
+ RjMzZkNjQ0NzA1MDcxMEBncm91cC5jYWxlbmRhci5nb29nbGUuY29tNWYyMzg0NzcyY2FiNjZk
+ Njc4NWVlZmVmZTg2NTE2ZGRkYzI4YmMzNA&ctz=Europe%2FBerlin&hl=en&es=0>\nNo\n<h
+ ttps://calendar.google.com/calendar/event?action=RESPOND&eid=MzVwMjhiNmxoM
+ zVtb2J2aGN0dW01cGRibmogdXdlLndlY2tlbG1hbm5Ac3Z3ZXN0ZmFsZW4uZGU&rst=3&tok=O
+ TAjZjc4MmFhOTc2ZDNiMmEyOWYzZDcxNzRiMzg1ZTAyOTA1ZDNiNmUzNDk4NGNiMmZlOTRjMzZ
+ kNjQ0NzA1MDcxMEBncm91cC5jYWxlbmRhci5nb29nbGUuY29tNWYyMzg0NzcyY2FiNjZkNjc4N
+ WVlZmVmZTg2NTE2ZGRkYzI4YmMzNA&ctz=Europe%2FBerlin&hl=en&es=0>\nMaybe\n<htt
+ ps://calendar.google.com/calendar/event?action=VIEW&eid=MzVwMjhiNmxoMzVtb2
+ J2aGN0dW01cGRibmogdXdlLndlY2tlbG1hbm5Ac3Z3ZXN0ZmFsZW4uZGU&tok=OTAjZjc4MmFh
+ OTc2ZDNiMmEyOWYzZDcxNzRiMzg1ZTAyOTA1ZDNiNmUzNDk4NGNiMmZlOTRjMzZkNjQ0NzA1MD
+ cxMEBncm91cC5jYWxlbmRhci5nb29nbGUuY29tNWYyMzg0NzcyY2FiNjZkNjc4NWVlZmVmZTg2
+ NTE2ZGRkYzI4YmMzNA&ctz=Europe%2FBerlin&hl=en&es=0>\nMore options\n\nInvita
+ tion from Google Calendar<https://calendar.google.com/calendar/>\n\nYou ar
+ e receiving this email because you are an attendee on the event.\n\nForwar
+ ding this invitation could allow any recipient to send a response to the o
+ rganizer\, be added to the guest list\, invite others regardless of their 
+ own invitation status\, or modify your RSVP. Learn more<https://support.go
+ ogle.com/calendar/answer/37135#forwarding>\n
 UID:35p28b6lh35mobvhctum5pdbnj@google.com
 SUMMARY:BEWUSST WIE e.V.: Geschlossener Workshop zum Thema "Stärkung der D
  emokratie\, Diversität\, Gleichberechtigung\, etc."
@@ -683,7 +682,7 @@ DTSTART;TZID=Europe/Berlin:20260424T120000
 DTEND;TZID=Europe/Berlin:20260424T130000
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20260412T175610Z
+DTSTAMP:20260412T183325Z
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 SEQUENCE:0
