@@ -122,7 +122,7 @@ DTSTART;TZID=Europe/Berlin:20260421T180000
 DTEND;TZID=Europe/Berlin:20260421T190000
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20260520T121520Z
+DTSTAMP:20260520T160133Z
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 SEQUENCE:0
@@ -147,7 +147,7 @@ DTSTART;TZID=Europe/Berlin:20260422T173000
 DTEND;TZID=Europe/Berlin:20260422T190000
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20260520T121520Z
+DTSTAMP:20260520T160133Z
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 SEQUENCE:0
@@ -253,7 +253,7 @@ DTSTART;TZID=Europe/Berlin:20260424T120000
 DTEND;TZID=Europe/Berlin:20260424T130000
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20260520T121520Z
+DTSTAMP:20260520T160133Z
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 SEQUENCE:0
@@ -281,7 +281,7 @@ DTSTART;TZID=Europe/Berlin:20260428T180000
 DTEND;TZID=Europe/Berlin:20260428T200000
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20260520T121520Z
+DTSTAMP:20260520T160133Z
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 SEQUENCE:0
@@ -321,7 +321,7 @@ DTSTART;TZID=Europe/Berlin:20260430T133000
 DTEND;TZID=Europe/Berlin:20260430T140000
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20260520T121520Z
+DTSTAMP:20260520T160133Z
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 SEQUENCE:0
@@ -360,7 +360,7 @@ DTSTART;TZID=Europe/Berlin:20260430T133000
 DTEND;TZID=Europe/Berlin:20260430T140000
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20260520T121520Z
+DTSTAMP:20260520T160133Z
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 SEQUENCE:0
@@ -385,7 +385,7 @@ DTSTART;TZID=Europe/Berlin:20260505T133000
 DTEND;TZID=Europe/Berlin:20260505T143000
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20260520T121520Z
+DTSTAMP:20260520T160133Z
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 SEQUENCE:1
@@ -426,7 +426,7 @@ DTSTART;TZID=Europe/Berlin:20260511T100000
 DTEND;TZID=Europe/Berlin:20260511T113000
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20260520T121520Z
+DTSTAMP:20260520T160133Z
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 SEQUENCE:0
@@ -466,7 +466,7 @@ DTSTART;TZID=Europe/Berlin:20260512T133000
 DTEND;TZID=Europe/Berlin:20260512T141500
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20260520T121520Z
+DTSTAMP:20260520T160133Z
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 SEQUENCE:1
@@ -491,7 +491,7 @@ DTSTART;TZID=Europe/Berlin:20260606T100000
 DTEND;TZID=Europe/Berlin:20260606T200000
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20260520T121520Z
+DTSTAMP:20260520T160133Z
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 SEQUENCE:0
@@ -516,11 +516,113 @@ DTSTART;TZID=Europe/Berlin:20260616T103000
 DTEND;TZID=Europe/Berlin:20260616T113000
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20260520T121520Z
+DTSTAMP:20260520T160133Z
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 SEQUENCE:1
 LOCATION:Ruhrallee 30\, \, 44139 Dortmund Nordrhein-Westfalen\, Deutschland
+X-MICROSOFT-CDO-APPT-SEQUENCE:1
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Termin darf weitergeleitet werden\n\nAgendavorschlag (wird zu B
+ eginn des Meetings finalisiert):\n\n  *\n40min Rückblick auf die vergange
+ nen Wettkämpfe (10min pro geplantem WK)\n  *\n30min Formulierung von Ziel
+ en für die Swim Race Series (möglichst SMART)\n  *\n30min Orga-Kernteam:
+  Besetzung\, Kommunikation und Meetingfrequenz\n  *\n40min AGs: Verantwort
+ ung\, Besetzung\, Abstimmung mit Orga-Kernteam\n  *\n10min Zukünftige fin
+ anzielle Verantwortung weiterhin bei Einzelvereinen oder zusammenführen?\
+ n\nAuszüge Mail Lucca vom 25.03.:\n\nWir (Westfalen\, Hellas\, FS\, SG) h
+ aben dieselben Ziele:\n\n  *\nEine gemeinsame Serie mit allem was dazu geh
+ ört: toller Sport\, zufriedene Teilnehmer:innen\, positive Emotionen\, mo
+ derne Wettkampfformate\, einheitlicher Look/CI\, Professionalität\, Authe
+ ntizität\, Nachhaltigkeit\, Profitabilität\, Sichtbarkeit\, Einzigartigk
+ eit und vieles mehr\n  *\nUnser Helferteam motiviert und happy halten\n  *
+ \nIm Sommer eine:n Titelsponsor:in und viele weitere Sponsor:innen finden\
+ n\nDie erste Saison Swim Race Series war und ist ein Übergang. Wir alle s
+ ind in einem Lernprozess und viele Dinge haben wir schon erfolgreich abges
+ timmt und erreicht\, z.B.\n\n  *\ngemeinsame Nutzung nahezu der sämtliche
+ n Infrastruktur\n  *\nLabel Swim Race Days in sämtlichen Veröffentlichun
+ gen für alle Südbad-Wettkämpfe\n  *\nStartbrücken-Banner im gemeinsame
+ n Look\n  *\nSponsoringpräsentation mit der wir ab dem Sommer losziehen k
+ önnen\n  *\nKatja als zentrale Verantwortliche für alle Helferpläne (ta
+ usend Dank dafür an dieser Stelle!)\n\nVorschlag Gründung des Overall-Or
+ gateams:\n\n  *\nMitglieder benennen\n  *\nMeetingfrequenz planen (z.B. 1x
+  nach ISDO für gemeinsamen Rückblick auf die erste Ausgabe unserer Swim 
+ Race Series\, 1x Juni\, 1x August\, 4-6 Wochen und 1 Woche vor jedem Event
+ )\n  *\nVerantwortungen innerhalb und außerhalb des Orgateams benennen (z
+ .B. Verpflegung\, Drucksachen)\n  *\nBereiche definieren\, die (weiter) ve
+ reinheitlicht werden sollen (z.B. CI\, Nachhaltigkeit)\n  *\nBereiche defi
+ nieren\, in denen die einzelnen Events bewusst unterschiedlich sein und bl
+ eiben sollen (z.B. Zielgruppe\, Wettkampfangebot)\n  *\n...\n\nAuszug Mail
+  Stefan vom 29.04.:\n\nNach den Erfahrungen der ersten drei Veranstaltunge
+ n heißt es\, eine Rückschau zu halten und ein erstes Resümee zu ziehen.
+  Natürlich lief noch nicht alles rund\, aber ich denke\, das war uns alle
+ n im Vorfeld bewusst. Wie müssen daraus lernen und unsere Kräfte für di
+ e nächsten Veranstaltungen bündeln.\n\nHier stimme ich auch Lucca in dem
+  Punkt zu\, neben einem Kernteam zur Organisation verschiedene Arbeitsgrup
+ pen zu bilden\, die sich selbstständig und eigenverantwortlich um ihre Au
+ fgaben kümmern. Gerne möchte ich euch dazu schon meine Gedanken als Disk
+ ussionsgrundlage mitteilen:\n\n  *\nOrga-Kernteam:\n     *\nTerminierung d
+ er Veranstaltungen\n     *\nErstellung der Ausschreibungen\,\n     *\nAnme
+ ldung der Veranstaltungen\,\n     *\nEinladung des Haupt-Kampfgerichts (Sc
+ hiedsrichter\, Starter\, Auswerter\, Protokollführer\, Sprecher\, Bedienu
+ ng Zeitmessanlage)\,\n     *\nFestlegung Design und Layout\n     *\nMedail
+ len\, Pokale\, Ehrenpreise bestellen\n     *\nMonitoring der Arbeitsgruppe
+ n\,\n     *\nIdeenpool\n  *\nSponsoring/Marketing:\n     *\nEntwicklung ei
+ nes Sponsoring-/Partnerkonzepts\,\n     *\nSponsoren/Partner gewinnen und 
+ betreuen (über die Veranstaltung hinaus)\n     *\nBetreuung von Marketing
+ maßnahmen während der Veranstaltung\n     *\nPlanung von "Events" zur Ve
+ ranstaltung (z.B. Weihnachtsmarkt vor dem Südbad zur X-MAS Edition)\n    
+  *\nGiveaways für Welcomebox organisieren\n     *\n...\n  *\nVolunteer un
+ d Catering:\n     *\nVereinheitlichung der Aufgabenliste\,\n     *\nHelfer
+  suchen. einteilen\, und auf Veranstaltungen betreuen\,\n     *\nBedarf an
+  Volunteer-Shirts festlegen\, Ausgabe der Shirts\n     *\nCatering für He
+ lfer\, Kampfrichter und Gästeteams planen und organisieren (Absprache mit
+  Café Südbad)\, Catering ausgeben\n     *\nEinrichtung/Deko Gymnastikhal
+ le für KaRi-Sitzung und Essensausgabe\n     *\nBestandspflege des Caterin
+ gmaterials\n     *\n...\n  *\nTechnik:\n     *\nErstellung eines Technikko
+ nzeptes für die Serie\,\n     *\nKoordination der Eventtechnik (Technik: 
+ z.B. Traverse mit Spots\, Livestream\, etc.)\n     *\n...\n  *\nPR / Medie
+ n / Social Media\n     *\nVorankündigungen Presse\, Radio\, TV verfassen\
+ n     *\nVeranstaltungsberichte Presse verfassen\n     *\nPräsentation de
+ r Veranstaltungen auf Social Media\n     *\nFoto-Dokumentation der Veranst
+ altungen\n     *\n...\n  *\nHospitality/Services/Info\n     *\nHotelbuchun
+ g für Haupt-Kampfgericht (falls notwendig)\n     *\nUnterstützung von G
+ ästeteams bei Fragen zu Anreise\, Übernachtung und Verpflegung\n     *\n
+ Hotelkontingente/Sonderkonditionen aushandeln\n     *\nInfos über Veranst
+ altungen in Dortmund zusammenstellen\n     *\nOrga von Spielen für Kinder
+ betreuung\n     *\n...\n\n\nJede Arbeitsgruppe (AG) sollte aus mindestens 
+ vier Personen (Vereinsmitglieder/Eltern der Kadermitglieder) bestehen. Bes
+ prechungen sollen selbst organisiert werden. Die Ergebnisse werden dem Org
+ a-Kernteam mitgeteilt. Mindestens eine Person pro AG nimmt an Besprechunge
+ n des Orga-Kernteams teil.\nZumindest im ersten Jahr sollten alle Mitglied
+ er der AG´s an allen Veranstaltungen mitarbeiten. In den Folgejahren soll
+ te es reichen\, wenn zwei bis drei Mitglieder pro Veranstaltung agieren.\n
+ \nZu den o.g. Aufgaben jeder AG gehört auch das Sammeln neuer Ideen gleic
+ h welcher Art\, um die Race Days Series attraktiv zu machen bzw. zu halten
+ .\n\nSelbstverständlich sollen alle Arbeitsgruppen die Ziele für eine na
+ chhaltige Entwicklung im Auge behalten.\n
+UID:040000008200E00074C5B7101A82E00800000000BB8F59F055E8DC01000000000000000
+ 0100000001DBA5B164F988D448E8EFE7F5CEFDAF5
+SUMMARY:Swim Race Series // Past & Future
+DTSTART;TZID=Europe/Berlin:20260617T180000
+DTEND;TZID=Europe/Berlin:20260617T203000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20260520T160133Z
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+SEQUENCE:1
+LOCATION:Südbad
 X-MICROSOFT-CDO-APPT-SEQUENCE:1
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
@@ -543,7 +645,7 @@ DTSTART;TZID=Europe/Berlin:20260706T180000
 DTEND;TZID=Europe/Berlin:20260706T200000
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20260520T121520Z
+DTSTAMP:20260520T160133Z
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 SEQUENCE:0
@@ -598,7 +700,7 @@ DTSTART;VALUE=DATE:20260905
 DTEND;VALUE=DATE:20260906
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20260520T121520Z
+DTSTAMP:20260520T160133Z
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 SEQUENCE:1
