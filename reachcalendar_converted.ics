@@ -32,7 +32,7 @@ DTSTART;TZID=Europe/Berlin:20260804T100000
 DTEND;TZID=Europe/Berlin:20260804T103000
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20260817T114549Z
+DTSTAMP:20260817T121654Z
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 SEQUENCE:0
@@ -73,7 +73,7 @@ DTSTART;TZID=Europe/Berlin:20260804T140000
 DTEND;TZID=Europe/Berlin:20260804T143000
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20260817T114549Z
+DTSTAMP:20260817T121654Z
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 SEQUENCE:0
@@ -98,7 +98,7 @@ DTSTART;VALUE=DATE:20260811
 DTEND;VALUE=DATE:20260818
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20260817T114549Z
+DTSTAMP:20260817T121654Z
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 SEQUENCE:0
@@ -115,53 +115,26 @@ X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
 X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Hi Uwe\,\nkönntest du bitte diesen Kalendereintrag und gern au
- ch die WhatsApp-Nachricht in den FS- und Westfalen-Kreisen verteilen? Many
-  thanks ☺️\nBeste Grüße\nLucca\n\n________________________________\n
- Von: Lucca Landfried | SG Dortmund <lucca.landfried@sg-dortmund.de>\nGesen
- det: Dienstag\, 19. Mai 2026 18:20:56 (UTC+01:00) Amsterdam\, Berlin\, Ber
- n\, Rome\, Stockholm\, Vienna\nCc: Heike Hundshagen | SG Dortmund <heike.h
- undshagen@sg-dortmund.de>\; Tobias Heinrich | SG Dortmund <tobias.heinrich
- @sg-dortmund.de>\; Mathias Haak | SG Dortmund <mathias.haak@sg-dortmund.de
- >\; Dorothee Klinkowski | SG Dortmund <dorothee.klinkowski@sg-dortmund.de>
- \; Jörg Buddenhorn | SG Dortmund <joerg.buddenhorn@sg-dortmund.de>\; Katr
- in Schlegel | SG Dortmund <katrin.schlegel@sg-dortmund.de>\; Gaspar Galamb
- os | SG Dortmund <gaspar.galambos@sg-dortmund.de>\; Philipp Cool | SG Dort
- mund <philipp.cool@sg-dortmund.de>\; Martin Glajcar | SG Dortmund <martin.
- glajcar@sg-dortmund.de>\; Steffi Ferch | SG Dortmund <steffi.ferch@sg-dort
- mund.de>\; Britta Weikgenannt | SG Dortmund <britta.weickgenannt@sg-dortmu
- nd.de>\; Markus Reinhardt | SG Dortmund <markus.reinhardt@sg-dortmund.de>\
- ; Nils Gröppler <nils.groeppler@sg-dortmund.de>\; Sylvia Daszkiewicz | SG
-  Dortmund <sylvia.daszkiewicz@sg-dortmund.de>\; Danis Dudek | SG Dortmund 
- <danis.dudek@sg-dortmund.de>\nBetreff: Unter Vorbehalt: SOMMERFEST von SG 
- & Hellas & Westfalen & FS\nWann: Samstag\, 5. September 2026\, 00:00 bis S
- onntag\, 6. September 2026\, 00:00.\nWo: Spendenschwimmen @ Südbad / Somm
- erfest @ Freibad Volkspark\n\nAlle mit SG-Mailadresse bekommen dieses Save
-  the Date als Kalendereintrag\, damit sie ihn bei Interesse nicht selbst e
- instellen müssen.\n☀️ *SAVE THE SOMMERFEST-DATE*🎈\nErstmals planen
-  die SG Dortmund\, der SV Hellas\, der SV Westfalen und die Schwimmabteilu
- ng von FS 98 ein gemeinsames *SOMMERFEST*🥳\nMerkt euch bitte unbedingt 
- schon einmal *Samstag\, den 5. September* dafür vor (sollte für den Tag 
- ein BVB-Heimspiel ⚽ terminiert werden\, wird der Termin noch verlegt).\n
- Stand jetzt wird das *Spendenschwimmen* 🏊🏼‍♂️🪙 wie gewohnt 
- im 📍Südbad und das anschließende Sommerfest im 📍Freibad Volkspark 
- stattfinden 🛟\n\n
+DESCRIPTION:Alle mit SG-Mailadresse bekommen die Einladung als Kalendereint
+ rag\, damit sie ihn bei Interesse nicht selbst einstellen müssen.\nBitte 
+ bis 02.09. An-/Abmelden über https://forms.cloud.microsoft/e/3A3DMgS8Qj.\
+ n
 UID:040000008200E00074C5B7101A82E008000000002001A478ABE7DC01000000000000000
  010000000FA48B1BCBDEFCC4887546006A96AC8BC
-SUMMARY:WG: Unter Vorbehalt: SOMMERFEST von SG & Hellas & Westfalen & FS
-DTSTART;VALUE=DATE:20260905
-DTEND;VALUE=DATE:20260906
+SUMMARY:Saisoneröffnung SG Dortmund
+DTSTART;TZID=Europe/Berlin:20260905T153000
+DTEND;TZID=Europe/Berlin:20260905T220000
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20260817T114549Z
-TRANSP:OPAQUE
+DTSTAMP:20260817T121654Z
+TRANSP:TRANSPARENT
 STATUS:CONFIRMED
-SEQUENCE:1
-LOCATION:Spendenschwimmen @ Südbad / Sommerfest @ Freibad Volkspark
-X-MICROSOFT-CDO-APPT-SEQUENCE:1
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+SEQUENCE:2
+LOCATION:Freibad Volkspark
+X-MICROSOFT-CDO-APPT-SEQUENCE:2
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
 X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
-X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
 X-MICROSOFT-CDO-IMPORTANCE:1
 X-MICROSOFT-CDO-INSTTYPE:0
 X-MICROSOFT-DONOTFORWARDMEETING:FALSE
@@ -180,7 +153,7 @@ DTSTART;TZID=Europe/Berlin:20261005T180000
 DTEND;TZID=Europe/Berlin:20261005T200000
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20260817T114549Z
+DTSTAMP:20260817T121654Z
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 SEQUENCE:0
