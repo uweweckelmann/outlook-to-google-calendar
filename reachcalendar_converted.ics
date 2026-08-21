@@ -32,7 +32,7 @@ DTSTART;TZID=Europe/Berlin:20260804T100000
 DTEND;TZID=Europe/Berlin:20260804T103000
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20260821T165657Z
+DTSTAMP:20260821T172038Z
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 SEQUENCE:0
@@ -73,7 +73,7 @@ DTSTART;TZID=Europe/Berlin:20260804T140000
 DTEND;TZID=Europe/Berlin:20260804T143000
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20260821T165657Z
+DTSTAMP:20260821T172038Z
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 SEQUENCE:0
@@ -98,7 +98,7 @@ DTSTART;VALUE=DATE:20260811
 DTEND;VALUE=DATE:20260818
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20260821T165657Z
+DTSTAMP:20260821T172038Z
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 SEQUENCE:0
@@ -140,13 +140,73 @@ DTSTART;TZID=Europe/Berlin:20260826T110000
 DTEND;TZID=Europe/Berlin:20260826T120000
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20260821T165657Z
+DTSTAMP:20260821T172038Z
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 SEQUENCE:0
 LOCATION:Microsoft Teams-Besprechung
 X-MICROSOFT-CDO-APPT-SEQUENCE:0
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Guten Abend\,\n\nim Mai habt ihr ein Save the Date für eine au
+ ßerordentliche Mitgliederversammlung am 31. August erhalten. Anstatt zu e
+ iner MV möchten wir euch - die Mitglieder bzw. Vertreter:innen der Gesamt
+ vorstände aller vier Südbadvereine - zu einem Gespräch einladen.\n\nMon
+ tag\, 31.08.2026 | 18.30-20.30 Uhr | Südbad Besprechungsraum unten (Kalen
+ dereintrag ist angepasst)\nIch bitte die Vorsitzenden der drei Stammverein
+ e mir bis Freitag\, 28.08.2026 (12.00 Uhr) mitzuteilen\, welche von eurem 
+ Vorstand beauftragten Personen für den Stammverein an der Sitzung teilneh
+ men werden.\nAgenda:\nTOP 1\n18:30\nBegrüßung\nTOP 2\n18:32-18:40\nDarst
+ ellung aktueller Sachstand (Beobachtungen\, Eindrücke\, Bedürfnisse\, Vo
+ rstellungen) aus Sicht des Vorstandes der SG Dortmund\n18:40-18:50\nReakti
+ onen und Klärung von Rückfragen (offener Austausch)\nTOP 3\n18:50-19:00\
+ nDarstellung aktueller Sachstand (Beobachtungen\, Eindrücke\, Bedürfniss
+ e\, Vorstellungen) aus Sicht des Vorstandes des SV Hellas\n19:00-19:10\nRe
+ aktionen und Klärung von Rückfragen (offener Austausch)\nTOP 4\n19:10-19
+ :20\nDarstellung aktueller Sachstand (Beobachtungen\, Eindrücke\, Bedürf
+ nisse\, Vorstellungen) aus Sicht des Vorstandes des SV Westfalen\n19:20-19
+ :30\nReaktionen und Klärung von Rückfragen (offener Austausch)\nTOP 5\n1
+ 9:30-19:40\nDarstellung aktueller Sachstand (Beobachtungen\, Eindrücke\, 
+ Bedürfnisse\, Vorstellungen) aus Sicht des Vorstandes der FS 98-Schwimmab
+ teilung\n19:40-19:50\nReaktionen und Klärung von Rückfragen (offener Aus
+ tausch)\nTOP 6\n19:50-20:20\nOffener Austausch zur Gesamtsituation und Per
+ spektive\nTOP 7\n20:20-20:30\nZusammenfassung\, Fazit\, Ausblick\n\nIch we
+ rde das Gespräch moderieren.\n\nIch freue mich auf einen konstruktiven Au
+ stausch und stehe euch bei Rückfragen im Vorfeld gerne zur Verfügung.\n\
+ nBeste Grüße und einen guten Start ins Wochenende\nLucca\n\nLucca Landfr
+ ied\nGeschäftsführerin\n\nM 0155 63902388\nE  lucca.landfried@sg-dortmun
+ d.de<mailto:lucca.landfried@sg-dortmund.de>\n\n[cid:8429d442-f62d-417c-b5f
+ 9-f3b96d0bb121]\n\nStartgemeinschaft der Sportschwimmer in Dortmund e. V.\
+ nLandesleistungsstützpunkt im Südbad Dortmund\n\nSG Dortmund | Poststra
+ ße 4 | 58239 Schwerte\nM 0151 20776763\nwww.sg-dortmund.de<http://www.sg-
+ dortmund.de>\n@sgdortmund<https://www.instagram.com/sgdortmund/>\n\nEinget
+ ragen im Vereinsregister beim Amtsgericht Dortmund (Registernummer: VR 545
+ 7). Vertretungsberechtigter Vorstand gem. § 26 BGB: Mathias Haak\, Danis 
+ Dudek\, Lucca Landfried. Unsere Datenschutzerklärung finden Sie hier<http
+ s://www.sg-dortmund.de/de/rechtliches/datenschutz/>.\n\n
+UID:040000008200E00074C5B7101A82E008000000009DB9F8D43BEDDC01000000000000000
+ 010000000C6ADB89D7302CD4EAC17E7532CB312C9
+SUMMARY:Gesprächstermin Südbadvereine
+DTSTART;TZID=Europe/Berlin:20260831T183000
+DTEND;TZID=Europe/Berlin:20260831T203000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20260821T172038Z
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+SEQUENCE:2
+LOCATION:Südbad\, Besprechungsraum unten
+X-MICROSOFT-CDO-APPT-SEQUENCE:2
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
 X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
 X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
 X-MICROSOFT-CDO-IMPORTANCE:1
@@ -167,7 +227,7 @@ DTSTART;TZID=Europe/Berlin:20261005T180000
 DTEND;TZID=Europe/Berlin:20261005T200000
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20260821T165657Z
+DTSTAMP:20260821T172038Z
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 SEQUENCE:0
