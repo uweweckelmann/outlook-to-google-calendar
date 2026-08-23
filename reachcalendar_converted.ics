@@ -32,7 +32,7 @@ DTSTART;TZID=Europe/Berlin:20260804T100000
 DTEND;TZID=Europe/Berlin:20260804T103000
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20260823T130645Z
+DTSTAMP:20260823T135008Z
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 SEQUENCE:0
@@ -73,7 +73,7 @@ DTSTART;TZID=Europe/Berlin:20260804T140000
 DTEND;TZID=Europe/Berlin:20260804T143000
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20260823T130645Z
+DTSTAMP:20260823T135008Z
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 SEQUENCE:0
@@ -98,7 +98,7 @@ DTSTART;VALUE=DATE:20260811
 DTEND;VALUE=DATE:20260818
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20260823T130645Z
+DTSTAMP:20260823T135008Z
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 SEQUENCE:0
@@ -140,7 +140,7 @@ DTSTART;TZID=Europe/Berlin:20260826T110000
 DTEND;TZID=Europe/Berlin:20260826T120000
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20260823T130645Z
+DTSTAMP:20260823T135008Z
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 SEQUENCE:0
@@ -157,42 +157,61 @@ X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
 X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Guten Abend\,\n\nim Mai habt ihr ein Save the Date für eine au
- ßerordentliche Mitgliederversammlung am 31. August erhalten. Anstatt zu e
- iner MV möchten wir euch - die Mitglieder bzw. Vertreter:innen der Gesamt
- vorstände aller vier Südbadvereine - zu einem Gespräch einladen.\n\nMon
- tag\, 31.08.2026 | 18.30-20.30 Uhr | Südbad Besprechungsraum unten (Kalen
- dereintrag ist angepasst)\nIch bitte die Vorsitzenden der drei Stammverein
- e mir bis Freitag\, 28.08.2026 (12.00 Uhr) mitzuteilen\, welche von eurem 
- Vorstand beauftragten Personen für den Stammverein an der Sitzung teilneh
- men werden.\nAgenda:\nTOP 1\n18:30\nBegrüßung\nTOP 2\n18:32-18:40\nDarst
- ellung aktueller Sachstand (Beobachtungen\, Eindrücke\, Bedürfnisse\, Vo
- rstellungen) aus Sicht des Vorstandes der SG Dortmund\n18:40-18:50\nReakti
- onen und Klärung von Rückfragen (offener Austausch)\nTOP 3\n18:50-19:00\
- nDarstellung aktueller Sachstand (Beobachtungen\, Eindrücke\, Bedürfniss
- e\, Vorstellungen) aus Sicht des Vorstandes des SV Hellas\n19:00-19:10\nRe
- aktionen und Klärung von Rückfragen (offener Austausch)\nTOP 4\n19:10-19
- :20\nDarstellung aktueller Sachstand (Beobachtungen\, Eindrücke\, Bedürf
- nisse\, Vorstellungen) aus Sicht des Vorstandes des SV Westfalen\n19:20-19
- :30\nReaktionen und Klärung von Rückfragen (offener Austausch)\nTOP 5\n1
- 9:30-19:40\nDarstellung aktueller Sachstand (Beobachtungen\, Eindrücke\, 
- Bedürfnisse\, Vorstellungen) aus Sicht des Vorstandes der FS 98-Schwimmab
- teilung\n19:40-19:50\nReaktionen und Klärung von Rückfragen (offener Aus
- tausch)\nTOP 6\n19:50-20:20\nOffener Austausch zur Gesamtsituation und Per
- spektive\nTOP 7\n20:20-20:30\nZusammenfassung\, Fazit\, Ausblick\n\nIch we
- rde das Gespräch moderieren.\n\nIch freue mich auf einen konstruktiven Au
- stausch und stehe euch bei Rückfragen im Vorfeld gerne zur Verfügung.\n\
- nBeste Grüße und einen guten Start ins Wochenende\nLucca\n\nLucca Landfr
- ied\nGeschäftsführerin\n\nM 0155 63902388\nE  lucca.landfried@sg-dortmun
- d.de<mailto:lucca.landfried@sg-dortmund.de>\n\n[cid:8429d442-f62d-417c-b5f
- 9-f3b96d0bb121]\n\nStartgemeinschaft der Sportschwimmer in Dortmund e. V.\
- nLandesleistungsstützpunkt im Südbad Dortmund\n\nSG Dortmund | Poststra
- ße 4 | 58239 Schwerte\nM 0151 20776763\nwww.sg-dortmund.de<http://www.sg-
- dortmund.de>\n@sgdortmund<https://www.instagram.com/sgdortmund/>\n\nEinget
- ragen im Vereinsregister beim Amtsgericht Dortmund (Registernummer: VR 545
- 7). Vertretungsberechtigter Vorstand gem. § 26 BGB: Mathias Haak\, Danis 
- Dudek\, Lucca Landfried. Unsere Datenschutzerklärung finden Sie hier<http
- s://www.sg-dortmund.de/de/rechtliches/datenschutz/>.\n\n
+DESCRIPTION:\n\nGesendet von Outlook für iOS<https://aka.ms/o0ukef>\n_____
+ ___________________________\nVon: Lucca Landfried | SG Dortmund <lucca.lan
+ dfried@sg-dortmund.de>\nGesendet: Friday\, 21 August 2026 19:01:58\nCc: Ka
+ tja Rüther | SG Dortmund <katja.ruether@sg-dortmund.de>\; Danis Dudek | S
+ G Dortmund <danis.dudek@sg-dortmund.de>\; Katrin Schlegel | SG Dortmund <k
+ atrin.schlegel@sg-dortmund.de>\; SG Dortmund | Markus Reinhardt <markus.re
+ inhardt@sg-dortmund.de>\; Martha Kretschmer | SG Dortmund <martha.kretschm
+ er@sg-dortmund.de>\; papajewski-dortmund@t-online.de <papajewski-dortmund@
+ t-online.de>\; 2.vorstand@hellas23.de <2.vorstand@hellas23.de>\; vorstand@
+ hellas23.de <vorstand@hellas23.de>\; geschaeftsfuehrung@hellas23.de <gesch
+ aeftsfuehrung@hellas23.de>\; FS1898-Schwimmen | Vorsitz <vorsitz@fs1898-sc
+ hwimmabteilung.de>\; FS1898-Schwimmen | Info <info@fs1898-schwimmabteilung
+ .de>\; Geschäftsführung <post@svwestfalen.de>\; SV Westfalen | Ümit Aca
+ r <uemit.acar@svwestfalen.de>\; Mathias Haak | SG Dortmund <mathias.haak@s
+ g-dortmund.de>\; FS1898-Schwimmen | Abdelwafi Debdi Talibi <abdelwafi.debd
+ italibi@fs1898-schwimmabteilung.de>\; TF-Zukunft <tf-zukunft@svwestfalen.d
+ e>\; gesamtvorstand@westfalen.de <gesamtvorstand@westfalen.de>\; SV Westfa
+ len | Uwe Scariot <uwe.scariot@svwestfalen.de>\nBetreff: Gesprächstermin 
+ Südbadvereine\nZeit: Montag\, 31. August 2026 18:30-20:30.\nOrt: Südbad\
+ , Besprechungsraum unten\n\nGuten Abend\,\n\nim Mai habt ihr ein Save the 
+ Date für eine außerordentliche Mitgliederversammlung am 31. August erhal
+ ten. Anstatt zu einer MV möchten wir euch - die Mitglieder bzw. Vertreter
+ :innen der Gesamtvorstände aller vier Südbadvereine - zu einem Gespräch
+  einladen.\n\nMontag\, 31.08.2026 | 18.30-20.30 Uhr | Südbad Besprechungs
+ raum unten (Kalendereintrag ist angepasst)\nIch bitte die Vorsitzenden der
+  drei Stammvereine mir bis Freitag\, 28.08.2026 (12.00 Uhr) mitzuteilen\, 
+ welche von eurem Vorstand beauftragten Personen für den Stammverein an de
+ r Sitzung teilnehmen werden.\nAgenda:\nTOP 1\n18:30\nBegrüßung\nTOP 2\n1
+ 8:32-18:40\nDarstellung aktueller Sachstand (Beobachtungen\, Eindrücke\, 
+ Bedürfnisse\, Vorstellungen) aus Sicht des Vorstandes der SG Dortmund\n18
+ :40-18:50\nReaktionen und Klärung von Rückfragen (offener Austausch)\nTO
+ P 3\n18:50-19:00\nDarstellung aktueller Sachstand (Beobachtungen\, Eindrü
+ cke\, Bedürfnisse\, Vorstellungen) aus Sicht des Vorstandes des SV Hellas
+ \n19:00-19:10\nReaktionen und Klärung von Rückfragen (offener Austausch)
+ \nTOP 4\n19:10-19:20\nDarstellung aktueller Sachstand (Beobachtungen\, Ein
+ drücke\, Bedürfnisse\, Vorstellungen) aus Sicht des Vorstandes des SV We
+ stfalen\n19:20-19:30\nReaktionen und Klärung von Rückfragen (offener Aus
+ tausch)\nTOP 5\n19:30-19:40\nDarstellung aktueller Sachstand (Beobachtunge
+ n\, Eindrücke\, Bedürfnisse\, Vorstellungen) aus Sicht des Vorstandes de
+ r FS 98-Schwimmabteilung\n19:40-19:50\nReaktionen und Klärung von Rückfr
+ agen (offener Austausch)\nTOP 6\n19:50-20:20\nOffener Austausch zur Gesamt
+ situation und Perspektive\nTOP 7\n20:20-20:30\nZusammenfassung\, Fazit\, A
+ usblick\n\nIch werde das Gespräch moderieren.\n\nIch freue mich auf einen
+  konstruktiven Austausch und stehe euch bei Rückfragen im Vorfeld gerne z
+ ur Verfügung.\n\nBeste Grüße und einen guten Start ins Wochenende\nLucc
+ a\n\nLucca Landfried\nGeschäftsführerin\n\nM 0155 63902388\nE  lucca.lan
+ dfried@sg-dortmund.de<mailto:lucca.landfried@sg-dortmund.de>\n\n[cid:8429d
+ 442-f62d-417c-b5f9-f3b96d0bb121]\n\nStartgemeinschaft der Sportschwimmer i
+ n Dortmund e. V.\nLandesleistungsstützpunkt im Südbad Dortmund\n\nSG Dor
+ tmund | Poststraße 4 | 58239 Schwerte\nM 0151 20776763\nwww.sg-dortmund.d
+ e<http://www.sg-dortmund.de>\n@sgdortmund<https://www.instagram.com/sgdort
+ mund/>\n\nEingetragen im Vereinsregister beim Amtsgericht Dortmund (Regist
+ ernummer: VR 5457). Vertretungsberechtigter Vorstand gem. § 26 BGB: Mathi
+ as Haak\, Danis Dudek\, Lucca Landfried. Unsere Datenschutzerklärung find
+ en Sie hier<https://www.sg-dortmund.de/de/rechtliches/datenschutz/>.\n\n
 UID:040000008200E00074C5B7101A82E008000000009DB9F8D43BEDDC01000000000000000
  010000000C6ADB89D7302CD4EAC17E7532CB312C9
 SUMMARY:Gesprächstermin Südbadvereine
@@ -200,7 +219,7 @@ DTSTART;TZID=Europe/Berlin:20260831T183000
 DTEND;TZID=Europe/Berlin:20260831T203000
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20260823T130645Z
+DTSTAMP:20260823T135008Z
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 SEQUENCE:2
@@ -227,7 +246,7 @@ DTSTART;TZID=Europe/Berlin:20261005T180000
 DTEND;TZID=Europe/Berlin:20261005T200000
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20260823T130645Z
+DTSTAMP:20260823T135008Z
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 SEQUENCE:0
