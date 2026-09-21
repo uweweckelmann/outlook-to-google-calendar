@@ -47,7 +47,7 @@ DTSTART;TZID=Europe/Berlin:20260826T110000
 DTEND;TZID=Europe/Berlin:20260826T120000
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20260921T073232Z
+DTSTAMP:20260921T143656Z
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 SEQUENCE:0
@@ -85,7 +85,7 @@ DTSTART;TZID=Europe/Berlin:20260828T090000
 DTEND;TZID=Europe/Berlin:20260828T093000
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20260921T073232Z
+DTSTAMP:20260921T143656Z
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 SEQUENCE:1
@@ -164,7 +164,7 @@ DTSTART;TZID=Europe/Berlin:20260831T183000
 DTEND;TZID=Europe/Berlin:20260831T203000
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20260921T073232Z
+DTSTAMP:20260921T143656Z
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 SEQUENCE:2
@@ -191,7 +191,7 @@ DTSTART;TZID=Europe/Berlin:20261005T180000
 DTEND;TZID=Europe/Berlin:20261005T200000
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20260921T073232Z
+DTSTAMP:20260921T143656Z
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 SEQUENCE:0
@@ -208,6 +208,75 @@ X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
 X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Hallo lieber Fusionsausschuss\,\n\nvielen Dank für die Termina
+ bstimmung.\n\nEuer Ergebnis war eindeutig: Der Fusionsausschuss findet am 
+ Mittwoch\, den 7. Oktober 2026 von 18.00 bis 20.00 Uhr im Südbad-Besprech
+ ungsraum statt. Einen Outlook-Termin habt ihr soeben erhalten.\n\nOnline-T
+ eilnahmeoption (wenn ihr nur online dabei sein könnt\, bitte frühestmög
+ lich Bescheid geben\, damit wir Technik organisieren können):\nMicrosoft 
+ Teams-Besprechung\nTeilnehmen: https://teams.microsoft.com/meet/3511353366
+ 57582?p=7OdmWR44F29olRHTJ7\nBesprechungs-ID: 351 135 336 657 582\nPasscode
+ : 6L7Xv25X\nIn Vorbereitung auf unser Treffen hätte ich ein Anliegen an e
+ uch:\nUns allen ist wichtig\, dass sich die Mitglieder und weitere Stakeho
+ lder (insbesondere Eltern) an dem Prozess beteiligen. Uwe Weckelmann hatte
+  vor einigen Monaten bereits eine Online-Umfrage entworfen\, die ich ein w
+ enig weiterentwickelt habe. Ziel der Umfrage ist einerseits ein aktuelles 
+ Meinungsbild und andererseits eine konkrete Abfrage\, welche Beteiligungsf
+ ormen gewünscht werden. Das Meinungsbild kann dann als Grundlage für wei
+ tere Beteiligungsformen (z.B. Workshops) genutzt werden.\n\nBitte schaut e
+ uch die Umfrage zur Zukunft der Südbadvereine – Formular ausfüllen<htt
+ ps://forms.cloud.microsoft/e/nQShmWx3qA> an\, damit wir bei unserer Bespre
+ chung kurz Feedback sammeln können. (Hinweis: Bei Frage 9 Für Interessie
+ rte: Bei welchem Thema möchtest du aktiv mitwirken? sollten nach dem Fusi
+ onsausschuss die Antwortmöglichkeiten an die Task Forces angepasst werden
+ .)\n\nVorläufige Agenda Fusionsausschuss (was nicht geschafft wird\, wird
+  im nächsten Termin besprochen):\n\n  *\nErste halbe Stunde: Darstellung 
+ Entwicklung bis zum aktuellen Sachstand für neue Mitwirkende (* s.u.) (An
+ wesenheit derjenigen\, die den Prozess des letzten Jahres begleitet haben\
+ , ist optional)\n  *\nggf. Anmerkungen zum Protokoll des Gesprächs der S
+ üdbadvereine am 31.08.\n  *\nggf. Änderungen Agenda\n  *\nZiel: Fusionsk
+ onzept als Entscheidungsgrundlage für die Mitgliederversammlungen in Q2/2
+ 027\n  *\nGrundsätze der Zusammenarbeit\n  *\nFeedback zur Umfrage\n  *\n
+ Rolle Lucca Landfried\n  *\nFusionsausschuss (Aufgaben + Kompetenzen + Bes
+ etzung)\n  *\nGründung Task Forces (Fachbereiche + Aufgaben + Besetzung)\
+ n  *\nRolle Vereinsvorstände\n  *\nZeitstrahl (Arbeitsschritte\, Entschei
+ dungstore)\n  *\nArbeitsweise im Fusionsprozess (Datenraum\, Statusbericht
+ e)\n  *\nVereinbarung Anschlusstermin Fusionsausschuss\n\nBis dahin beste 
+ Grüße\nLucca\n\nLucca Landfried\nGeschäftsführerin\n\nM 0155 63902388\
+ nE  lucca.landfried@sg-dortmund.de<mailto:lucca.landfried@sg-dortmund.de>\
+ n\n[cid:80daf9fd-4272-474f-8d8d-50ebb9cba330]\n\nStartgemeinschaft der Spo
+ rtschwimmer in Dortmund e. V.\nLandesleistungsstützpunkt im Südbad Dortm
+ und\n\nSG Dortmund | Poststraße 4 | 58239 Schwerte\nM 0151 20776763\nwww.
+ sg-dortmund.de<http://www.sg-dortmund.de>\n@sgdortmund<https://www.instagr
+ am.com/sgdortmund/>\n\nEingetragen im Vereinsregister beim Amtsgericht Dor
+ tmund (Registernummer: VR 5457). Vertretungsberechtigter Vorstand gem. § 
+ 26 BGB: Mathias Haak\, Danis Dudek\, Lucca Landfried. Unsere Datenschutzer
+ klärung finden Sie hier<https://www.sg-dortmund.de/de/rechtliches/datensc
+ hutz/>.\n\n
+UID:040000008200E00074C5B7101A82E008000000004A40248FB649DD01000000000000000
+ 010000000A71813D093AE2E43911D34506128075A
+SUMMARY:Fusionsausschuss
+DTSTART;TZID=Europe/Berlin:20261007T180000
+DTEND;TZID=Europe/Berlin:20261007T200000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20260921T143656Z
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+SEQUENCE:0
+LOCATION:Südbad\, Besprechungsraum unten
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:\n
 UID:040000008200E00074C5B7101A82E00800000000434B98130745DD01000000000000000
  010000000D2AB16A5323FBF4D82DA74D6B8ECDFA8
@@ -216,7 +285,7 @@ DTSTART;TZID=Europe/Berlin:20261015T170000
 DTEND;TZID=Europe/Berlin:20261015T180000
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20260921T073232Z
+DTSTAMP:20260921T143656Z
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 SEQUENCE:2
